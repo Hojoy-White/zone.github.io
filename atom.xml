@@ -1,15 +1,782 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
-    <title>Gridea</title>
-    <updated>2021-05-14T13:23:49.161Z</updated>
+    <title>一个壹</title>
+    <updated>2021-05-15T16:37:06.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://q.aone.zone/images/avatar.png</logo>
     <icon>https://q.aone.zone/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[The Information of Movies]]></title>
+        <id>https://q.aone.zone/post/the-information-of-movies/</id>
+        <link href="https://q.aone.zone/post/the-information-of-movies/">
+        </link>
+        <updated>2021-05-15T16:32:27.000Z</updated>
+        <content type="html"><![CDATA[<p>《 第十一回 》2021/5/15/  watch</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[穆旦的一首诗]]></title>
+        <id>https://q.aone.zone/post/mu-dan-de-yi-shou-shi/</id>
+        <link href="https://q.aone.zone/post/mu-dan-de-yi-shou-shi/">
+        </link>
+        <updated>2021-05-15T09:39:11.000Z</updated>
+        <content type="html"><![CDATA[<p>为什么万物之灵的我们，<br>
+遭遇还比不上一棵小树？<br>
+今天你摇摇它，优越地微笑，<br>
+明天就化为根下的泥土。<br>
+为什么由手写出的这些字，<br>
+竟比这只手更长久，健壮？<br>
+它们会把腐烂的手抛开，<br>
+而默默生存在一张破纸上。<br>
+因此，我傲然生活了几十年，<br>
+仿佛曾做着万物的导演，<br>
+实则在它们长久的秩序下<br>
+我只当一会小小的演员。</p>
+<p>把生命的突泉捧在我手里，<br>
+我只觉得它来得新鲜，<br>
+是浓烈的酒，清新的泡沫，<br>
+注入我的奔波、劳作、冒险。<br>
+仿佛前人从未经临的园地就要展现在我的面前。<br>
+但如今，突然面对着坟墓，<br>
+我冷眼向过去稍稍回顾，<br>
+只见它曲折灌溉的悲喜<br>
+都消失在一片亘古的荒漠，<br>
+这才知道我的全部努力<br>
+不过完成了普通的生活。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transport learning 1：文风指南]]></title>
+        <id>https://q.aone.zone/post/transport-learning-1wen-feng-zhi-nan/</id>
+        <link href="https://q.aone.zone/post/transport-learning-1wen-feng-zhi-nan/">
+        </link>
+        <updated>2021-05-15T09:14:59.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://github.com/generalized-intelligence/gi-Chinese-Style-Guide">泛化智能文风指南</a></p>
+<p>泛化智能（gi）文风指南<br>
+总论<br>
+妳是一名写作者（writer）。</p>
+<p>或许妳不写小说、不写专栏、不写诗，甚至也不看小说、不看专栏、不看诗。但妳仍然是一个写作者。如今很少有工作可以完全脱离写作而存在，只要面对电脑，要么就是在用形式语言写作（编程），要么就是在用自然语言写作。</p>
+<p>工作邮件、个人总结、演讲用的幻灯片、Slack 上的讨论、微信上的对话、社交网络上的只言片语……所有这些都是写作。</p>
+<p>写作的水平和天赋有关，但一些基础性原则可以编成则例（guidelines）。在软件设计领域，一份好的设计则例可以规范第三方开发者，提升软件平台的整体设计品质。同样，一份好的写作风格指南（style guide）也可以让公司和组织对内与对外的文本保持风格上的一致。尤其是泛化智能的产品均为开源项目，所以文本对于我们与外界的交流至关重要。</p>
+<p>优质写作不容易。但只要回避某些写作习惯，妳的文字就很容易胜过 80% 的人了。</p>
+<p>一般性注意事项<br>
+〇、永远不要因为某个词汇或句式在当下流行而忙不迭地用它。</p>
+<p>一、避免陈词滥调</p>
+<p>写作时，成语或惯用语经常会第一时间跳入妳的脑袋（所以它们才叫成语）。当遇到这种情况时，请停下来思考这些表达是不是过于泛滥。被滥用的表达即便准确，也会失去效力。文字和食物一样，新鲜是第一要素。「一千个人眼里有一千个哈姆莱特」，真的吗？或许妳的读者/同事里大部分人并没看过《哈姆莱特》，看过的一百个人眼中也只有两个甚至同一个哈姆莱特。还有很多陈词滥调的用法并不能给句子带来额外的信息或更加新鲜的表达，例如「并没有什么卵用」在很多情况下简化为「并没有什么用」也并不会损失什么。</p>
+<p>陈词滥调日新月异，请诸位随时跟进。</p>
+<p>二、特殊文风</p>
+<p>有一些特殊的文风类型并不适用于科技公司。比如我们常常会在新闻联播以及《人民日报》看到的中文。很多这些中文是完全合乎文法的正常中文，但有一种并不适用于科技公司的气质。「事情真的像 Twitter 用户想像的那样吗？带着这个问题，记者走访了美国旧金山 Mission 区的用户体验设计师 Adam。」这是完全正常的句子，但很难不让人想到《焦点访谈》。即便是「Twitter」, 「用户体验设计」这类潮词也改变不了这点。</p>
+<p>如果你的句子读起来很像新闻联播，请改写。除此之外，也有很多文风并不适用于科技公司。比如另一种特殊文风是淘宝文风，一个开发者说：「亲，这个 Bug 修改了，请给 GAAS 个 Star 哦」，明显是不合适的。</p>
+<p>三、不要害怕崇高</p>
+<p>言不由衷的崇高是虚伪，害怕崇高是犬儒。</p>
+<p>四、中文 ≠ 中华人民共和国公民使用的文字</p>
+<p>妳知道「扩散」、「提案」、「以上」都是日文吗？妳知道「迷思」是台湾人对 myth 的翻译，随后被大陆借用的吗？中华人民共和国是目前最大的中文使用国，但中文和汉字在台湾地区、新加坡、日本、以及无数海外国家与地区同样是日常经验的一部分。我们一直在从国外引用新词，但我们也必须意识到大陆语文对其它汉语使用地区日渐增长的影响力。如今在香港、台湾和北美的中文报纸里都不难见到大陆的用词和句式，作为生长在中国大陆的写作者，我们应该力求对世界范围内的中文做出正面贡献。</p>
+<p>五、不要耍小聪明</p>
+<p>在上面关于特殊文风的段落里，我本来写的是：</p>
+<p>淘宝文风是特殊文风的又一个子集。</p>
+<p>在第二稿里我把它改成了现在的样子。使用子集这种词或许会让人觉得有「geek 趣味」，但应用类写作的目的是沟通，不是为了显示自己的文笔功夫、专业知识或是「脑洞」。每当妳灵机一动想到什么特别绝妙的形容或表述时，请停下来考虑一下如果不这么说是否会损失什么。</p>
+<p>六、请确保中英文对应时的语义</p>
+<p>泛化智能的绝大部分项目均会提供中英双语的文档。请各位作者在翻译完毕后务必二次检查英文是否反映了中文的含义；并且确保英文文档经过了英语母语者的审阅，以避免引起不必要的误会。</p>
+<p>标点符号<br>
+中文<br>
+一律使用全角<br>
+请使用中文直角引号：「」为一级引号，『』为二级引号。（即「」是最外层的引号。）<br>
+破折号是——（两个 em dash），不是 --（两个 hyphen），也不是—（一个 em dash）<br>
+省略号是……（两个英文省略号），不是。。。，也不是......（六个点）<br>
+用波浪线（～）有时会有很好的效果，但调味料放多了会咸。<br>
+用斜杠表示「或者」的意思时，请用 /，不要用 \。<br>
+英文<br>
+大小写乱用是绝对不可接受的。<br>
+一律使用半角。<br>
+逗号、分号、冒号、句号、感叹号、问号后留一个空格。<br>
+省略号是 …。注意这是一个单独的符号，不是三个点。（若妳试图删除这个符号，会发现按一下 delete 即可删除，而不是三下。）<br>
+破折号是 —（em dash），表示「从哪到哪」是 –（en dash，例如 1980–1992）。前者在 Mac 上可用 shift option - 打出，后者可用 option - 打出。在某些文字处理软件（例如 Word）里，连续打两个 hyphen 会被自动转为 em dash。<br>
+括号和它外面的字母之间留一个空格，和它里面的字母之间不留空格。例：Richard D. James (aka Aphex Twin) is a pioneer of the so-called Intelligent Dance Music.<br>
+gi 作为公司名称的缩写，用在文章中需用小写字母。Gi 和 GI 等写法应极力避免。<br>
+GAAS 是 Generalized Autonomy Aviation System 的缩写，请务必在任何情况下均使用大写字母 GAAS。<br>
+GitHub 的大小写也要注意。<br>
+禁用词汇<br>
+在除了直接引语以外的任何情况下，禁止在文案中使用以下词汇。</p>
+<p>屌丝<br>
+白富美<br>
+高富帅<br>
+高大上<br>
+富二代<br>
+红二代<br>
+军二代<br>
+安利（动词）<br>
+撕逼<br>
+尼玛（语气助词）<br>
+也是醉了（是哪种醉了？请描述出来）<br>
+有木有<br>
+泛化（当用于形容公司名时，禁止将公司简化为「泛化」）。<br>
+当直接引语里出现上述词汇时，可以使用。但请使用正字。「撕屄」而不是「撕逼」。</p>
+<p>常识性原则：不要讳饰。如果把某个词用汉字完整写出来令你不适，那么也不要用柔化过的变体把它写出来：不要用这个词。例：如果觉得「关我屁事」粗俗，那么写成「关我 P 事」并不会让你更不粗俗。</p>
+<p>慎用词汇<br>
+情怀<br>
+物欲横流<br>
+众所周知（请想想是不是真的众所周知）<br>
+简约<br>
+唯美<br>
+精品（词本身没什么，但如果随便什么公司都说自己做的是精品就没有精品了）<br>
+行为艺术（行为艺术和绘画艺术一样，是一种艺术类别，不可以用这个词来描述一切妳看不懂的东西）<br>
+Low（如果妳觉得一个东西「很 low」，请具体描述之。为什么 low？是哪种 low？）<br>
+人工智能（除非是某些特定的宣传场合，人工智能应该用具体技术名称来代替）<br>
+特殊词汇<br>
+飞行汽车与 VTOL（专业文章请使用 VTOL 来代表垂直起降飞行器）<br>
+数字用法<br>
+当只有一位时，使用汉字。两位以上（含）使用阿拉伯数字。例：山药至少有三种常见的做法。一年有 365 天。</p>
+<p>阿拉伯数字前后请加入空格。比如「现在是 2016 年」，而不是「现在是2016年」。</p>
+<p>最近更新于 2016 年。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 《软件工程》 作业集]]></title>
+        <id>https://q.aone.zone/post/lesslessruan-jian-gong-cheng-greatergreater-zuo-ye-ji/</id>
+        <link href="https://q.aone.zone/post/lesslessruan-jian-gong-cheng-greatergreater-zuo-ye-ji/">
+        </link>
+        <updated>2021-05-15T08:14:28.000Z</updated>
+        <content type="html"><![CDATA[<p>一、名词解释<br>
+1、模块化：<br>
+P132<br>
+2、程序编制：<br>
+3、 GIS 应用模型：<br>
+4、 软件工程：<br>
+5、 信息隐蔽：<br>
+6、 软件测试：<br>
+7、 系统分析：<br>
+8、 软件可靠性：<br>
+9、 需求工程：<br>
+10、 完善性维护：<br>
+11、 集成测试：<br>
+12、 数据流程图：<br>
+13、 时间盒：<br>
+14、 GIS 软件工程生存周期：<br>
+15、 单元测试：<br>
+二、 选择题<br>
+1、软件测试可能发现软件中的（ ），但不能证明软件（ ）<br>
+A、所有错误、没有错误 B、错误、没有错误<br>
+C、 逻辑错误、没有错误 D、设计错误、没有错误<br>
+2、黑盒测试方法根据（ ）设计测试用例。<br>
+A、 程序调用规则 B、模块间的逻辑关系<br>
+C、软件要完成的功能 D、数据结构<br>
+3、将几个逻辑上相似的成分放在一个模块中，该模块的内聚类型是（ ）。<br>
+A、 功能性内聚 B、时间性内聚 C、逻辑性内聚 D、通信性内聚<br>
+4、模块中的各组成部分是按顺序执行的，在通常情况下，模块内的某成分的输<br>
+出是另一成分的输入，该模块的内聚类型是（ ）。<br>
+A、 功能性内聚 B、顺序性内聚 C、逻辑性内聚 D、时间性内聚<br>
+5、软件设计阶段一般可分为（ ）。<br>
+A、逻辑设计与功能设计 B、概要设计与详细设计<br>
+C、概念设计与物理设计 D、模型设计与程序设计<br>
+6、软件设计中划分通常遵循的原则是要使模块中耦合性尽可能的（ ）。<br>
+A、强 B、弱 C、较强 D、适中<br>
+7、 软件生存周期模型有多种，下列选项中（ ）不是软件生存周期模型。<br>
+A、螺旋模型 B、原型化模型 C、功能性模型 D、瀑布性模型<br>
+8、需求分析中，开发人员要从用户那里解决的最重要的问题是（ ）<br>
+A.要让软件做什么 B.要给该软件提供哪些信息<br>
+C.要求软件工作效率怎样 D.要让该软件具有何种结构<br>
+9、软件生命周期中所花费用最多的阶段是（ ）<br>
+A.详细设计 B.软件编码<br>
+C.软件测试 D.软件维护<br>
+10、面向对象的主要特征除对象惟一性、封装、继承外，还有（ ）<br>
+A.完整性 B.多态性<br>
+C.可移植性 D.兼容性<br>
+11、软件的可行性研究中不包括（ ）<br>
+A.法律可行性 B.技术可行性 C.经济可行性 D.政治可行性<br>
+12、以下不属于白盒测试技术的是（ ）<br>
+A.逻辑覆盖 B.基本路径测试 C.循环覆盖测试 D.等价类划分<br>
+13、软件测试的目标是（ ）<br>
+A.证明软件是正确的 B.发现错误、降低错误带来的风险<br>
+C.排除软件中所有的错误 D.与软件调试相同<br>
+14、（ ）是以提高软件质量为目的的技术活动。<br>
+A.技术创新 B.测试 C.技术创造 D.技术评审<br>
+15、程序的三种基本控制结构的共同特点是（ ）<br>
+A.不能嵌套使用 B.只能用来写简单程序<br>
+C.已经用硬件实现 D.只有一个入口和一个出口<br>
+三、 填空题<br>
+1、 动态测试方法中根据测试用例的设计方法不同，分为__________测试和<br>
+<strong><strong><strong><strong><strong>测试两类。<br>
+2、 GIS 项目进度安排的技术方法有以下五种，分别是：＿＿＿＿、＿＿＿<br>
+＿、＿＿＿＿、＿＿＿＿、 。<br>
+3、 软件生存周期是指＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br>
+＿＿＿＿的整个时期。通常，软件生存周期包括＿＿＿＿、＿＿＿＿、＿<br>
+＿＿＿、＿＿＿＿、＿＿＿＿、＿＿＿＿、＿＿＿＿等活动，可以将这些<br>
+活动以适当方式分配到不同阶段去完成。<br>
+4、 在需求分析阶段，编制的需求分析文档有＿＿＿＿、＿＿＿＿、 。<br>
+5、 数据流图有四个基本符号：＿＿＿＿＿、＿＿＿＿＿、＿＿＿＿＿、＿<br>
+＿＿＿＿＿。<br>
+6、 ＿＿＿＿和＿＿＿＿是模块的独立性的两个定性标准，将软件系统划分<br>
+模块时，尽量做到＿＿＿＿内聚、＿＿＿＿耦合，提高模块的＿＿＿＿，<br>
+为设计高质量的软件奠定基础。<br>
+7、 渐增式测试有以下不同的组装模块的方法，分别为：</strong></strong></strong></strong></strong><strong>、<br>
+<em><em><strong><strong><strong><strong><strong>、</strong></strong></strong></strong></strong></em>。<br>
+8、 系统分析阶段的基本任务是：系统分析员与用户在一起，充分了解用户<br>
+的要求，并把双方的理解用 表达出来。深入描述<br>
+软件的功能和性能，确定 和 ，定<br>
+义软件的其它有效性需求。<br>
+9、 一个进行学生成绩统计的模块其功能是先对学生的成绩进行累加，然后<br>
+求平均值，则该模块的内聚性是 <em><strong><strong><strong><strong>。<br>
+10、 软件设计包括概要设计和_________两个阶段。<br>
+11、 在结构化分析中，<em><strong><strong><strong><strong>用于详细地定义数据流图中的成分。<br>
+12、 写出四种在详细设计阶段所使用到的设计工具</strong></strong></strong></strong></em>、<strong><em><strong><strong><strong>、<br>
+_________ 、 和 <em><strong><strong><strong><strong>。<br>
+13、 对于一个大型的 GIS 项目，由于项目的复杂性，开发成本的估算方法有<br>
+以下四种：分别是＿＿＿＿、＿＿＿＿、＿＿＿＿、 。<br>
+14、 如果按用户要求增加新功能或修改已有的功能而进行的维护工作，称为<br>
+________ 。<br>
+15、 除偶然内聚外，按模块之间的内聚程度从低到高列出 6 种内聚形式<br>
+<strong><strong><strong><strong>、</strong></strong></strong></strong>、</strong></strong></strong></strong>、</em></strong></strong></strong></em>、</strong></strong></strong></strong>、和</strong></em></em></strong>__。<br>
+四、 简答题<br>
+1、 什么是软件工程？包括哪些内容？<br>
+2、 在软件开发的早期阶段，为什么要进行可行性研究？应该从哪些方面研<br>
+究目标系统的可行性？</p>
+<p>3、 简述系统分析的要求？<br>
+4、 需求分析的任务是什么？<br>
+5、 需求分析的基本原则是什么？</p>
+<p>6、 简述总体设计过程中需完成的工作。<br>
+7、 GIS 标准化设计过程中，数据分层的原则是什么？<br>
+8、 简述结构化设计的优点。<br>
+9、 什么叫模块化？ 模块化的三个重要特征是什么？<br>
+10、 详细设计的任务是什么？</p>
+<p>11、 GIS 软件开发过程中的问题是什么？<br>
+12、 GIS 程序编制的一般要求是什么？<br>
+13、 什么是黑盒子测试和白盒子测试？他们都适应哪些测试？<br>
+14、 软件维护的策略有哪些？<br>
+15、 什么是模块独立性？用什么度量<br>
+五、 综合题<br>
+1、将下面用 PDL 写出的程序转换为 N-S 图和 PAD 图。<br>
+WHILE P DO<br>
+IF A &gt; 0 THEN A1 ELSE A2 ENDIF<br>
+S1<br>
+IF B &gt; 0 THEN B1<br>
+WHILE C DO<br>
+S2<br>
+S3<br>
+ENDWHILE<br>
+ELSE B2<br>
+ENDIF<br>
+B3<br>
+ENDWHILE<br>
+2、某报表处理系统要求用户输入处理报表的日期，日期限制在 2001 年 1 月至<br>
+2005 年 12 月，即系统只能对该段期间内的报表进行处理，如日期不在此范围内，<br>
+则显示输入错误信息。系统日期规定由年、月的 6 位数字字符组成，前四位代表<br>
+年，后两位代表月。如何用等价类划分法设计测试用例, 来测试程序的日期检查<br>
+功能？<br>
+3、假设一家工厂的采购部每天需要一张定货报表，报表按零件编号排序，表中<br>
+列出所有需要再次定货的零件。对于每个需要再次定货的零件应该列出下述数<br>
+据：零件编号，零件名称，定货数量，目前价格，主要供应者，次要供应者。零<br>
+件入库或出库称为事务，通过放在仓库中的 CRT 终端把事务报告给定货系统。当<br>
+某种零件的库存数量少于库存量临界值时就应该再次定货。要求：画出系统的数<br>
+据流图。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit1]]></title>
+        <id>https://q.aone.zone/post/unit1/</id>
+        <link href="https://q.aone.zone/post/unit1/">
+        </link>
+        <updated>2021-05-15T01:12:08.000Z</updated>
+        <content type="html"><![CDATA[<ul class="contains-task-list">
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1508119">   remote<br>
+远僻的<br>
+疏离的<br>
+<label class="task-list-item-label" for="task-item-1508119">   remote
+远僻的
+疏离的
+很大的差别</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9469587">   remove<br>
+迁移<br>
+移走<br>
+去除<br>
+<label class="task-list-item-label" for="task-item-9469587">   remove
+迁移
+移走
+去除
+撤职</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2431650">   removal<br>
+移居<br>
+切除<br>
+<label class="task-list-item-label" for="task-item-2431650">   removal
+移居
+切除
+免职</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6979128">   remain<br>
+剩余<br>
+尚需<br>
+<label class="task-list-item-label" for="task-item-6979128">   remain
+剩余
+尚需
+仍旧</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8816402">   remainder<br>
+剩余物<br>
+<label class="task-list-item-label" for="task-item-8816402">   remainder
+剩余物
+余数</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9036515"><label class="task-list-item-label" for="task-item-9036515">   remains</label></p>
+</li>
+</ul>
+<p>残余物<br>
+遗迹</p>
+<ul class="contains-task-list">
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8922604"><label class="task-list-item-label" for="task-item-8922604">   remedy</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7103671"><label class="task-list-item-label" for="task-item-7103671">   remember</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8550768"><label class="task-list-item-label" for="task-item-8550768">   remind</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6518107"><label class="task-list-item-label" for="task-item-6518107">   render</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-823984"><label class="task-list-item-label" for="task-item-823984">   contempoary</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4440965"><label class="task-list-item-label" for="task-item-4440965">   content</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1724813"><label class="task-list-item-label" for="task-item-1724813">   contend</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2366210"><label class="task-list-item-label" for="task-item-2366210">   context</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2892023"><label class="task-list-item-label" for="task-item-2892023">   contract</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5257335"><label class="task-list-item-label" for="task-item-5257335">   contradict</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5274691"><label class="task-list-item-label" for="task-item-5274691">   contrary</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8317802"><label class="task-list-item-label" for="task-item-8317802">   cintrast</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9145922"><label class="task-list-item-label" for="task-item-9145922">   diverse</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6195996"><label class="task-list-item-label" for="task-item-6195996">   diversion</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6812782"><label class="task-list-item-label" for="task-item-6812782">   divide</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1934989"><label class="task-list-item-label" for="task-item-1934989">   dividend</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2649339"><label class="task-list-item-label" for="task-item-2649339">   division</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6288782"><label class="task-list-item-label" for="task-item-6288782">   document</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4546509"><label class="task-list-item-label" for="task-item-4546509">   documentary</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5041304"><label class="task-list-item-label" for="task-item-5041304">   execute</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5466271"><label class="task-list-item-label" for="task-item-5466271">   executive</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1450581"><label class="task-list-item-label" for="task-item-1450581">   exemplify</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3963204"><label class="task-list-item-label" for="task-item-3963204">   exert</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3985551"><label class="task-list-item-label" for="task-item-3985551">   exhaust</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7398992"><label class="task-list-item-label" for="task-item-7398992">   exsit</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5499834"><label class="task-list-item-label" for="task-item-5499834">   existence</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1909923"><label class="task-list-item-label" for="task-item-1909923">   exotic</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-924089"><label class="task-list-item-label" for="task-item-924089">   moral</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9690128"><label class="task-list-item-label" for="task-item-9690128">   morality</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-99315"><label class="task-list-item-label" for="task-item-99315">   moreover</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9890828"><label class="task-list-item-label" for="task-item-9890828">   mostly</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6905907"><label class="task-list-item-label" for="task-item-6905907">   prior</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-663066"><label class="task-list-item-label" for="task-item-663066">   priority</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8728637"><label class="task-list-item-label" for="task-item-8728637">   privacy</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3766741"><label class="task-list-item-label" for="task-item-3766741">   private</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2656547"><label class="task-list-item-label" for="task-item-2656547">   privilege</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8288721"><label class="task-list-item-label" for="task-item-8288721">   prudent</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4354364"><label class="task-list-item-label" for="task-item-4354364">   submit</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9685665"><label class="task-list-item-label" for="task-item-9685665">   subordinate</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1066696"><label class="task-list-item-label" for="task-item-1066696">   subscribe</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5863100"><label class="task-list-item-label" for="task-item-5863100">   subsequent</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6006509"><label class="task-list-item-label" for="task-item-6006509">   substance</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3297585"><label class="task-list-item-label" for="task-item-3297585">   substantial</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9153502"><label class="task-list-item-label" for="task-item-9153502">   substiute</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4945705"><label class="task-list-item-label" for="task-item-4945705">   subtle</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3227332"><label class="task-list-item-label" for="task-item-3227332">   anguish</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3588784"><label class="task-list-item-label" for="task-item-3588784">   annoy</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-177784"><label class="task-list-item-label" for="task-item-177784">   annual</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3309530"><label class="task-list-item-label" for="task-item-3309530">   anchor</label></p>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[- [ ]   2021-01-04假期函数119分10秒]]></title>
+        <id>https://q.aone.zone/post/-2021-01-04-jia-qi-han-shu-119-fen-10-miao/</id>
+        <link href="https://q.aone.zone/post/-2021-01-04-jia-qi-han-shu-119-fen-10-miao/">
+        </link>
+        <updated>2021-05-14T16:58:08.000Z</updated>
+        <content type="html"><![CDATA[<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8444455"><label class="task-list-item-label" for="task-item-8444455">   2021-01-04假期函数119分10秒</label></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计划大纲]]></title>
+        <id>https://q.aone.zone/post/wanchen/</id>
+        <link href="https://q.aone.zone/post/wanchen/">
+        </link>
+        <updated>2021-05-14T14:23:14.000Z</updated>
+        <content type="html"><![CDATA[<p>** 群直播大纲 **</p>
+<ul class="contains-task-list">
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5361508"><label class="task-list-item-label" for="task-item-5361508"> 1</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-221872"><label class="task-list-item-label" for="task-item-221872"> 2</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3487440"><label class="task-list-item-label" for="task-item-3487440"> 3</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6100932"><label class="task-list-item-label" for="task-item-6100932"> 2021-05-10偏导数138分51秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7111729"><label class="task-list-item-label" for="task-item-7111729"> 2021-05-07空间曲线100分44秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6625693"><label class="task-list-item-label" for="task-item-6625693"> 2021-05-05空间直线与曲面117分57秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8749805"><label class="task-list-item-label" for="task-item-8749805"> 2021-05-03向量及平面方程146分59秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3428565"><label class="task-list-item-label" for="task-item-3428565"> 2021-04-30微分方程真题分析）117分42秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5442915"><label class="task-list-item-label" for="task-item-5442915"> 2021-04-28微分方程综合题目125分28秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6924194"><label class="task-list-item-label" for="task-item-6924194"> 2021-04-26高阶线性方程139分9秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-557271"><label class="task-list-item-label" for="task-item-557271"> 2021-04-23二阶可降阶84分25秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4951389"><label class="task-list-item-label" for="task-item-4951389"> 2021-04-21一阶微分方程123分30秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8457746"><label class="task-list-item-label" for="task-item-8457746"> 2021-04-19微元法的应用175分44秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6523377"><label class="task-list-item-label" for="task-item-6523377"> 2021-04-16广义积分的判定119分58秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5355663"><label class="task-list-item-label" for="task-item-5355663"> 2021-04-14广义积分136分33秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4488051"><label class="task-list-item-label" for="task-item-4488051"> 2021-04-12定积分计算91分47秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5792191"><label class="task-list-item-label" for="task-item-5792191"> 2021-04-09变上限函数应用156分38秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3025742"><label class="task-list-item-label" for="task-item-3025742"> 2021-04-07积分上限函数专题一104分40秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7887342"><label class="task-list-item-label" for="task-item-7887342"> 2021-04-05定积分计算公式105分47秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4078706"><label class="task-list-item-label" for="task-item-4078706"> 2021-04-02定义性质应用127分39秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5185562"><label class="task-list-item-label" for="task-item-5185562"> 2021-03-31定积分143分38秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5492893"><label class="task-list-item-label" for="task-item-5492893"> 2021-03-29特殊函数积分举例116分15秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1191772"><label class="task-list-item-label" for="task-item-1191772"> 2021-03-26分部积分85分11秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-517969"><label class="task-list-item-label" for="task-item-517969"> 2021-03-24第二换元法94分52秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5791513"><label class="task-list-item-label" for="task-item-5791513"> 2021-03-22第一换元法105分20秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1786574"><label class="task-list-item-label" for="task-item-1786574"> 2021-03-19不定积分105分15秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3101713"><label class="task-list-item-label" for="task-item-3101713"> 2021-03-17最值及应用132分53秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2468365"><label class="task-list-item-label" for="task-item-2468365"> 2021-03-12常数变量化不等式证明93分28秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9621354"><label class="task-list-item-label" for="task-item-9621354"> 2021-03-10凹凸及拐点及不等式证明130分44秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3421082"><label class="task-list-item-label" for="task-item-3421082"> 2021-03-08极值典型题及凹凸拐点136分26秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7153619"><label class="task-list-item-label" for="task-item-7153619"> 2021-03-05导数应用（1）148分35秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6038585"><label class="task-list-item-label" for="task-item-6038585"> 2021-03-03泰勒求极限105分44秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4401249"><label class="task-list-item-label" for="task-item-4401249"> 2021-03-01泰勒公式119分22秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3329980"><label class="task-list-item-label" for="task-item-3329980"> 2021-02-26端点及双中值106分33秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8214080"><label class="task-list-item-label" for="task-item-8214080"> 2021-02-25柯西定理67分15秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-589595"><label class="task-list-item-label" for="task-item-589595"> 2021-02-25含中值的不等式61分27秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2525869"><label class="task-list-item-label" for="task-item-2525869"> 2021-02-24罗尔定理典型例题讲解147分1秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8096327"><label class="task-list-item-label" for="task-item-8096327"> 2021-02-23拉格朗曰118分36秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5899111"><label class="task-list-item-label" for="task-item-5899111"> 2021-02-22费马和罗尔定理134分38秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9303607"><label class="task-list-item-label" for="task-item-9303607">   2021-02-05阶段内容总结112分56秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1016169"><label class="task-list-item-label" for="task-item-1016169">  2021-02-04微分及作业讲解185分20秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3762779"><label class="task-list-item-label" for="task-item-3762779">  2021-02-03高阶导数138分24秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7714292"><label class="task-list-item-label" for="task-item-7714292">  2021-02-02求导法则60分51秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7685127"><label class="task-list-item-label" for="task-item-7685127">   2021-02-02求导法则108分33秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1622144"><label class="task-list-item-label" for="task-item-1622144">   2021-02-01导数定义应用167分15秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3475911"><label class="task-list-item-label" for="task-item-3475911">    2021-01-29导数133分49秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7444582"><label class="task-list-item-label" for="task-item-7444582">     2021-01-28间断点例题题讲解134分56秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5647438"><label class="task-list-item-label" for="task-item-5647438">   2021-01-27试卷二139分18秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8796385"><label class="task-list-item-label" for="task-item-8796385">    2021-01-26渐近钱及性质测试165分26秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7880006"><label class="task-list-item-label" for="task-item-7880006"> 2021-01-25两边夹及连148分26秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2552497"><label class="task-list-item-label" for="task-item-2552497">     2021-01-22两边夹及推断154分1秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1856172"><label class="task-list-item-label" for="task-item-1856172">      2021-01-21幂指函数求极限及其他147分28秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4235210"><label class="task-list-item-label" for="task-item-4235210">   2021-01-20极限计算[1]147分48秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4113137"><label class="task-list-item-label" for="task-item-4113137">    2021-01-19极限四则法则145分50秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6437196"><label class="task-list-item-label" for="task-item-6437196">    2021-01-18无穷小130分5秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9528086"><label class="task-list-item-label" for="task-item-9528086">   2021-01-15概念辨折及发散思维训练136分34秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3826424"><label class="task-list-item-label" for="task-item-3826424">    2021-01-14数列极限122分43秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2769207"><label class="task-list-item-label" for="task-item-2769207">   2021-01-13极限（2）158分3秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7383721"><label class="task-list-item-label" for="task-item-7383721">    2021-01-12极限理解135分21秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6092124"><label class="task-list-item-label" for="task-item-6092124">    2021-01-11测试讲解149分38秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3846779"><label class="task-list-item-label" for="task-item-3846779">   2021-01-07：奇偶性119分1秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1749646"><label class="task-list-item-label" for="task-item-1749646">     2021-01-06花样及有界106分46秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5330215"><label class="task-list-item-label" for="task-item-5330215">  2021-01-05分段函数复合103分23秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6789912"><label class="task-list-item-label" for="task-item-6789912">   2021-01-04假期函数119分10秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3003615"><label class="task-list-item-label" for="task-item-3003615">  2020-12-11极大线性无关组81分53秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7642156"><label class="task-list-item-label" for="task-item-7642156">   2020-12-09向量组理论118分13秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7941438"><label class="task-list-item-label" for="task-item-7941438">  2020-12-04线性相关定义94分18秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-146461"><label class="task-list-item-label" for="task-item-146461">   2020-12-02向量组等价90分2秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7622498"><label class="task-list-item-label" for="task-item-7622498">     2020-11-29方程组参数法解法98分22秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6478447"><label class="task-list-item-label" for="task-item-6478447">   2020-11-27第三章n维向量87分3秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2892290"><label class="task-list-item-label" for="task-item-2892290">    2020-11-22分块矩阵97分51秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3529507"><label class="task-list-item-label" for="task-item-3529507">   2020-11-18习题课（秩）及分块简介110分43秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5456206"><label class="task-list-item-label" for="task-item-5456206">    2020-11-13秩习题课104分2秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4041291"><label class="task-list-item-label" for="task-item-4041291">   2020-11-08秩公式应用96分43秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3551103"><label class="task-list-item-label" for="task-item-3551103">   2020-11-06初等阵及初等阵的伟大意义121分31秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2505045"><label class="task-list-item-label" for="task-item-2505045">   2020-11-04秩的性质及公式92分58秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4998575"><label class="task-list-item-label" for="task-item-4998575">   2020-11-01初等变换和秩103分1秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7516975"><label class="task-list-item-label" for="task-item-7516975">    2020-10-30习题课96分12秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2695571"><label class="task-list-item-label" for="task-item-2695571">   2020-10-28习题讲解95分34秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2049016"><label class="task-list-item-label" for="task-item-2049016">   2020-10-23习题课96分1秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7615612"><label class="task-list-item-label" for="task-item-7615612">   2020-10-21求逆及伴随矩阵公式90分26秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2666072"><label class="task-list-item-label" for="task-item-2666072">   2020-10-18逆矩阵105分41秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8925933"><label class="task-list-item-label" for="task-item-8925933">  2020-10-16方阵的行列式98分22秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2037875"><label class="task-list-item-label" for="task-item-2037875"> 2020-10-14点积翻译成矩阵乘法103分52秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6319168"><label class="task-list-item-label" for="task-item-6319168"> 2020-10-11幂与转置87分44秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6086543"><label class="task-list-item-label" for="task-item-6086543">  2020-10-09乘法经验96分23秒</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1194824"><label class="task-list-item-label" for="task-item-1194824">  2020-10-07矩阵认识</label></p>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还分不清啥是A4纸，啥是B5纸？你可以看看这个了]]></title>
+        <id>https://q.aone.zone/post/huan-fen-bu-qing-sha-shi-a4-zhi-sha-shi-b5-zhi-ni-xu-yao-kan-kan-zhe-ge-liao/</id>
+        <link href="https://q.aone.zone/post/huan-fen-bu-qing-sha-shi-a4-zhi-sha-shi-b5-zhi-ni-xu-yao-kan-kan-zhe-ge-liao/">
+        </link>
+        <updated>2021-05-14T13:50:27.000Z</updated>
+        <content type="html"><![CDATA[<p>百科部分<br>
+<a href="https://baike.baidu.com/item/ISO%20216/1681867">ISO216</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://q.aone.zone/post/hello-gridea/</id>
