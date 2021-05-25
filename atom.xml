@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-25T09:41:15.031Z</updated>
+    <updated>2021-05-25T23:12:01.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -10,6 +10,84 @@
     <logo>https://q.aone.zone/images/avatar.png</logo>
     <icon>https://q.aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[Unit 12 🔑]]></title>
+        <id>https://q.aone.zone/post/unit-12/</id>
+        <link href="https://q.aone.zone/post/unit-12/">
+        </link>
+        <updated>2021-05-25T22:58:27.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>acclaim</li>
+<li>accommodate</li>
+<li>accommodation</li>
+<li>accompany</li>
+<li>accomplish</li>
+<li>account</li>
+<li>accountant</li>
+<li>bias</li>
+<li>bid</li>
+<li>bill</li>
+<li>billion</li>
+<li>birth</li>
+<li>charge</li>
+<li>charm</li>
+<li>chase</li>
+<li>demand</li>
+<li>democracy</li>
+<li>democratic</li>
+<li>demographic</li>
+<li>demonstrate</li>
+<li>denote</li>
+<li>denial</li>
+<li>deny</li>
+<li>depend</li>
+<li>dependent</li>
+<li>deposit</li>
+<li>depress</li>
+<li>emerge</li>
+<li>emergency</li>
+<li>eminent</li>
+<li>emotion</li>
+<li>fear</li>
+<li>fearful</li>
+<li>feature</li>
+<li>federal</li>
+<li>federation</li>
+<li>feed</li>
+<li>feedback</li>
+<li>feeling</li>
+<li>fertile</li>
+<li>goal</li>
+<li>goods</li>
+<li>govern</li>
+<li>government</li>
+<li>governor</li>
+<li>gradual</li>
+<li>graduate</li>
+<li>grand</li>
+<li>grant</li>
+<li>heap</li>
+<li>heal</li>
+<li>health</li>
+<li>healthy</li>
+<li>hesitate</li>
+<li>highlight</li>
+<li>hightland</li>
+<li>highly</li>
+<li>immediate</li>
+<li>immense</li>
+<li>immerse</li>
+<li>immigrant</li>
+<li>imminent</li>
+<li>immune</li>
+<li>likely</li>
+<li>likelihood</li>
+<li>likewise</li>
+<li>self</li>
+<li>selfish</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uint 11 🥛]]></title>
         <id>https://q.aone.zone/post/uint-11/</id>
@@ -2937,8 +3015,8 @@ h4 {
         </link>
         <updated>2021-05-21T11:53:12.000Z</updated>
         <content type="html"><![CDATA[<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8875003"> <a href="https://www.bilibili.com/video/BV1S64y1d7rF">OOOOOOHMYGOSH&amp;一万也<label class="task-list-item-label" for="task-item-8875003"> [OOOOOOHMYGOSH&一万也](https://www.bilibili.com/video/BV1S64y1d7rF)</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6764720"> <a href="https://www.bilibili.com/video/BV1Cx411y79H/">《情书》岩井俊二作品17:29<label class="task-list-item-label" for="task-item-6764720"> [《情书》岩井俊二作品17:29](https://www.bilibili.com/video/BV1Cx411y79H/)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-425832"> <a href="https://www.bilibili.com/video/BV1S64y1d7rF">OOOOOOHMYGOSH&amp;一万也<label class="task-list-item-label" for="task-item-425832"> [OOOOOOHMYGOSH&一万也](https://www.bilibili.com/video/BV1S64y1d7rF)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7554328"> <a href="https://www.bilibili.com/video/BV1Cx411y79H/">《情书》岩井俊二作品17:29<label class="task-list-item-label" for="task-item-7554328"> [《情书》岩井俊二作品17:29](https://www.bilibili.com/video/BV1Cx411y79H/)</label></li>
 </ul>
 ]]></content>
     </entry>
@@ -3020,8 +3098,8 @@ h4 {
         </link>
         <updated>2021-05-20T15:56:42.000Z</updated>
         <content type="html"><![CDATA[<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5306304"><label class="task-list-item-label" for="task-item-5306304"> 下载相关编辑器</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7562248"><label class="task-list-item-label" for="task-item-7562248"> HBuilderX</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-25460"><label class="task-list-item-label" for="task-item-25460"> 下载相关编辑器</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6650212"><label class="task-list-item-label" for="task-item-6650212"> HBuilderX</label></li>
 <li>[ ]</li>
 <li>[ ]</li>
 </ul>
@@ -3098,17 +3176,6 @@ h4 {
 <li>staff</li>
 <li>stage</li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文风指南 Style Guide ——案例 ② ：Vue.js]]></title>
-        <id>https://q.aone.zone/post/wen-feng-zhi-nan-style-guide-an-li-vuejs/</id>
-        <link href="https://q.aone.zone/post/wen-feng-zhi-nan-style-guide-an-li-vuejs/">
-        </link>
-        <updated>2021-05-19T15:29:26.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://cn.vuejs.org/v2/style-guide/">Vue.js风格指南</a><br>
-<a href="https://www.zhihu.com/people/evanyou">尤雨溪的知乎</a><br>
-<a href="https://cn.vuejs.org/index.html">Vue.js中文官网</a></p>
 ]]></content>
     </entry>
 </feed>
