@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-26T16:08:09.341Z</updated>
+    <updated>2021-05-27T11:55:03.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -10,6 +10,93 @@
     <logo>https://q.aone.zone/images/avatar.png</logo>
     <icon>https://q.aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[Unit 13 🎨]]></title>
+        <id>https://q.aone.zone/post/unit-13/</id>
+        <link href="https://q.aone.zone/post/unit-13/">
+        </link>
+        <updated>2021-05-27T11:44:17.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>beam</li>
+<li>become</li>
+<li>deprive</li>
+<li>derive</li>
+<li>describle</li>
+<li>description</li>
+<li>deserve</li>
+<li>design</li>
+<li>designate</li>
+<li>desirable</li>
+<li>desire</li>
+<li>flaw</li>
+<li>flexible</li>
+<li>fling</li>
+<li>flourish</li>
+<li>grow</li>
+<li>grown-up</li>
+<li>growth</li>
+<li>hinder</li>
+<li>hint</li>
+<li>hitherto</li>
+<li>impact</li>
+<li>impair</li>
+<li>impart</li>
+<li>implement</li>
+<li>implication</li>
+<li>implict</li>
+<li>imply</li>
+<li>import</li>
+<li>importance</li>
+<li>important</li>
+<li>impose</li>
+<li>impress</li>
+<li>impression</li>
+<li>impressive</li>
+<li>improve</li>
+<li>impulse</li>
+<li>limit</li>
+<li>limitation</li>
+<li>limited</li>
+<li>origin</li>
+<li>original</li>
+<li>originate</li>
+<li>petition</li>
+<li>phase</li>
+<li>phenomenon</li>
+<li>philosopher</li>
+<li>philosophy</li>
+<li>phrase</li>
+<li>physical</li>
+<li>physician</li>
+<li>pierce</li>
+<li>corporate</li>
+<li>corporation</li>
+<li>reason</li>
+<li>reasonable</li>
+<li>recent</li>
+<li>serve</li>
+<li>servant</li>
+<li>service</li>
+<li>set</li>
+<li>setback</li>
+<li>setting</li>
+<li>settle</li>
+<li>settlement</li>
+<li>several</li>
+<li>severe</li>
+<li>shape</li>
+<li>share</li>
+<li>sharp</li>
+<li>shelter</li>
+<li>sophisticated</li>
+<li>sovereign</li>
+<li>sow</li>
+<li>toil</li>
+<li>tone</li>
+<li>topic</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unit 12 🔑]]></title>
         <id>https://q.aone.zone/post/unit-12/</id>
@@ -3015,8 +3102,8 @@ h4 {
         </link>
         <updated>2021-05-21T11:53:12.000Z</updated>
         <content type="html"><![CDATA[<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9981004"> <a href="https://www.bilibili.com/video/BV1S64y1d7rF">OOOOOOHMYGOSH&amp;一万也<label class="task-list-item-label" for="task-item-9981004"> [OOOOOOHMYGOSH&一万也](https://www.bilibili.com/video/BV1S64y1d7rF)</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6172033"> <a href="https://www.bilibili.com/video/BV1Cx411y79H/">《情书》岩井俊二作品17:29<label class="task-list-item-label" for="task-item-6172033"> [《情书》岩井俊二作品17:29](https://www.bilibili.com/video/BV1Cx411y79H/)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2887130"> <a href="https://www.bilibili.com/video/BV1S64y1d7rF">OOOOOOHMYGOSH&amp;一万也<label class="task-list-item-label" for="task-item-2887130"> [OOOOOOHMYGOSH&一万也](https://www.bilibili.com/video/BV1S64y1d7rF)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-888301"> <a href="https://www.bilibili.com/video/BV1Cx411y79H/">《情书》岩井俊二作品17:29<label class="task-list-item-label" for="task-item-888301"> [《情书》岩井俊二作品17:29](https://www.bilibili.com/video/BV1Cx411y79H/)</label></li>
 </ul>
 ]]></content>
     </entry>
@@ -3098,84 +3185,11 @@ h4 {
         </link>
         <updated>2021-05-20T15:56:42.000Z</updated>
         <content type="html"><![CDATA[<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4922431"><label class="task-list-item-label" for="task-item-4922431"> 下载相关编辑器</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1388308"><label class="task-list-item-label" for="task-item-1388308"> HBuilderX</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2457377"><label class="task-list-item-label" for="task-item-2457377"> 下载相关编辑器</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-479166"><label class="task-list-item-label" for="task-item-479166"> HBuilderX</label></li>
 <li>[ ]</li>
 <li>[ ]</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 6 🔍]]></title>
-        <id>https://q.aone.zone/post/unit6/</id>
-        <link href="https://q.aone.zone/post/unit6/">
-        </link>
-        <updated>2021-05-20T01:01:42.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>pose</li>
-<li>position</li>
-<li>positive</li>
-<li>possess</li>
-<li>possession</li>
-<li>dilute</li>
-<li>dim</li>
-<li>diminish</li>
-<li>amteur</li>
-<li>amaze</li>
-<li>ambiguous</li>
-<li>ambition</li>
-<li>ambitious</li>
-<li>bubble</li>
-<li>budget</li>
-<li>build</li>
-<li>business</li>
-<li>compress</li>
-<li>comprise</li>
-<li>compromise</li>
-<li>conceive</li>
-<li>concentrate</li>
-<li>concept</li>
-<li>concern</li>
-<li>concise</li>
-<li>concrete</li>
-<li>conclude</li>
-<li>conclusion</li>
-<li>concurrent</li>
-<li>confer</li>
-<li>conference</li>
-<li>confess</li>
-<li>epidemic</li>
-<li>episode</li>
-<li>epoch</li>
-<li>indifferent</li>
-<li>indignant</li>
-<li>indignation</li>
-<li>indispensable</li>
-<li>individual</li>
-<li>mess</li>
-<li>message</li>
-<li>messenger</li>
-<li>method</li>
-<li>militant</li>
-<li>military</li>
-<li>mind</li>
-<li>redeem</li>
-<li>reduce</li>
-<li>reduction</li>
-<li>refer</li>
-<li>reference</li>
-<li>subject</li>
-<li>subjective</li>
-<li>spoil</li>
-<li>sponsor</li>
-<li>spread</li>
-<li>spur</li>
-<li>spy</li>
-<li>stability</li>
-<li>stable</li>
-<li>staff</li>
-<li>stage</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
