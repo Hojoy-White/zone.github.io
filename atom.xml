@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-27T11:55:51.130Z</updated>
+    <updated>2021-05-28T10:16:56.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -10,6 +10,91 @@
     <logo>https://q.aone.zone/images/avatar.png</logo>
     <icon>https://q.aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[Unit 14 🌂]]></title>
+        <id>https://q.aone.zone/post/unit-14/</id>
+        <link href="https://q.aone.zone/post/unit-14/">
+        </link>
+        <updated>2021-05-28T04:38:48.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>choke</li>
+<li>chop</li>
+<li>circumstance</li>
+<li>cite</li>
+<li>claim</li>
+<li>clear</li>
+<li>border</li>
+<li>bore</li>
+<li>born</li>
+<li>bother</li>
+<li>acquire</li>
+<li>acquisition</li>
+<li>act</li>
+<li>action</li>
+<li>activate</li>
+<li>active</li>
+<li>activity</li>
+<li>actual</li>
+<li>acute</li>
+<li>despise</li>
+<li>despite</li>
+<li>energetic</li>
+<li>energy</li>
+<li>enforce</li>
+<li>engage</li>
+<li>engagement</li>
+<li>fold</li>
+<li>folk</li>
+<li>follow</li>
+<li>following</li>
+<li>fore</li>
+<li>forecast</li>
+<li>foresee</li>
+<li>forge</li>
+<li>grim</li>
+<li>grasp</li>
+<li>grip</li>
+<li>gross</li>
+<li>ground</li>
+<li>group</li>
+<li>guarantee</li>
+<li>guard</li>
+<li>include</li>
+<li>inclusive</li>
+<li>income</li>
+<li>incorporate</li>
+<li>increase</li>
+<li>increasingly</li>
+<li>incredible</li>
+<li>incur</li>
+<li>link</li>
+<li>list</li>
+<li>literally</li>
+<li>literary</li>
+<li>literature</li>
+<li>memo</li>
+<li>memorial</li>
+<li>memory</li>
+<li>mental</li>
+<li>mention</li>
+<li>mentor</li>
+<li>other</li>
+<li>otherwise</li>
+<li>outcome</li>
+<li>sign</li>
+<li>signature</li>
+<li>significance</li>
+<li>significant</li>
+<li>signify</li>
+<li>similar</li>
+<li>simple</li>
+<li>simplicity</li>
+<li>simplify</li>
+<li>simply</li>
+<li>slack</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unit 13 🎨]]></title>
         <id>https://q.aone.zone/post/unit-13/</id>
@@ -3102,8 +3187,8 @@ h4 {
         </link>
         <updated>2021-05-21T11:53:12.000Z</updated>
         <content type="html"><![CDATA[<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1789286"> <a href="https://www.bilibili.com/video/BV1S64y1d7rF">OOOOOOHMYGOSH&amp;一万也<label class="task-list-item-label" for="task-item-1789286"> [OOOOOOHMYGOSH&一万也](https://www.bilibili.com/video/BV1S64y1d7rF)</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1661403"> <a href="https://www.bilibili.com/video/BV1Cx411y79H/">《情书》岩井俊二作品17:29<label class="task-list-item-label" for="task-item-1661403"> [《情书》岩井俊二作品17:29](https://www.bilibili.com/video/BV1Cx411y79H/)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6263414"> <a href="https://www.bilibili.com/video/BV1S64y1d7rF">OOOOOOHMYGOSH&amp;一万也<label class="task-list-item-label" for="task-item-6263414"> [OOOOOOHMYGOSH&一万也](https://www.bilibili.com/video/BV1S64y1d7rF)</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1383288"> <a href="https://www.bilibili.com/video/BV1Cx411y79H/">《情书》岩井俊二作品17:29<label class="task-list-item-label" for="task-item-1383288"> [《情书》岩井俊二作品17:29](https://www.bilibili.com/video/BV1Cx411y79H/)</label></li>
 </ul>
 ]]></content>
     </entry>
@@ -3176,20 +3261,6 @@ h4 {
 <li>entertain</li>
 <li>entertainment</li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习 Study ：Vue 📡]]></title>
-        <id>https://q.aone.zone/post/xue-xi-study-vue/</id>
-        <link href="https://q.aone.zone/post/xue-xi-study-vue/">
-        </link>
-        <updated>2021-05-20T15:56:42.000Z</updated>
-        <content type="html"><![CDATA[<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9246902"><label class="task-list-item-label" for="task-item-9246902"> 下载相关编辑器</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1604632"><label class="task-list-item-label" for="task-item-1604632"> HBuilderX</label></li>
-<li>[ ]</li>
-<li>[ ]</li>
-</ul>
 ]]></content>
     </entry>
 </feed>
