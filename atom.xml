@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-31T16:20:16.932Z</updated>
+    <updated>2021-05-31T23:49:41.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -86,6 +86,8 @@
 </li>
 </ul>
 <p>各种误差：</p>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1622504944632.jpg" alt="1" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1622504828326.jpg" alt="2" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
