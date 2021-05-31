@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-31T06:03:08.792Z</updated>
+    <updated>2021-05-31T12:11:21.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -10,6 +10,84 @@
     <logo>https://q.aone.zone/images/avatar.png</logo>
     <icon>https://q.aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[名词解释]]></title>
+        <id>https://q.aone.zone/post/x/</id>
+        <link href="https://q.aone.zone/post/x/">
+        </link>
+        <updated>2021-05-31T11:01:31.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>同步观测：<br>
+两台或两台以上接收机同时对同一组卫星进行的观测。</p>
+</li>
+<li>
+<p>同步观测环：<br>
+3台或3台以上接收机同步观测所获得的基线向量构成的闭合环。</p>
+</li>
+<li>
+<p>异步观测环：<br>
+在构成多边形环路的所有基线向量中，只要有非同步观测基线向量，则该多边形环路为异步观测环。</p>
+</li>
+<li>
+<p>正常轨道：<br>
+卫星在空间之手地球引力影响运动的轨道，而忽略所有摄动力。</p>
+</li>
+<li>
+<p>摄动轨道：<br>
+不仅考虑地球质心引力而且考虑各种摄动力的影响时卫星在空间运行的轨道。</p>
+</li>
+<li>
+<p>整周跳变：<br>
+在载波相位测量中，由于某种原因的影响而使接收机记录整周数的变化量产生错误。</p>
+</li>
+<li>
+<p>整周跳变的修复：<br>
+指利用一定的方法探测出合适产生了整周跳变，采取相应的模型确定丢失的整周数，将其恢复称为正确的计数，这一过程称为整周跳变的修复。</p>
+</li>
+<li>
+<p>机钟误差：<br>
+将每一时刻的时钟误差设成未知数与测站坐标一起求解，表示为时间多项式，用在卫星间求一次差分的方法消除误差。</p>
+</li>
+<li>
+<p>天球：<br>
+以空间任意点为圆心，任意长半径的球称为天球。</p>
+</li>
+<li>
+<p>伪距：<br>
+是指GPS信号在星站间传播的时间乘以光速所得到的带有误差的距离。</p>
+</li>
+<li>
+<p>极移：<br>
+由于某原因地极点在地球表面的位置随时间而变化的现象。</p>
+</li>
+<li>
+<p>信号失锁：<br>
+由于外界因素的影响，在接收跟踪GPS卫星信号的过程中产生中断。</p>
+</li>
+<li>
+<p>重建载波：<br>
+将调制的载波上的测距码和导航电文去掉，重新获得载波的过程。</p>
+</li>
+<li>
+<p>GPS网基准设计：</p>
+</li>
+<li>
+<p>同步图形：</p>
+</li>
+<li>
+<p>观测时段：</p>
+</li>
+<li>
+<p>多路径效应误差：</p>
+</li>
+<li>
+<p>卫星星历误差：</p>
+</li>
+</ul>
+<p>各种误差：</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填空题]]></title>
         <id>https://q.aone.zone/post/tian-kong-ti/</id>
@@ -118,42 +196,6 @@
 </li>
 <li></li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《扫黑决战》]]></title>
-        <id>https://q.aone.zone/post/lesslesssao-hei-jue-zhan-greatergreater/</id>
-        <link href="https://q.aone.zone/post/lesslesssao-hei-jue-zhan-greatergreater/">
-        </link>
-        <updated>2021-05-30T14:30:47.000Z</updated>
-        <content type="html"><![CDATA[<p>调查组成员<br>
-出场顺序<br>
-郑执<br>
-方舟<br>
-周全<br>
-夏组长</p>
-<p>魏河县</p>
-<p>曹县长<br>
-曹志远<br>
-王金佩</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名词解释]]></title>
-        <id>https://q.aone.zone/post/ming-ci-jie-shi/</id>
-        <link href="https://q.aone.zone/post/ming-ci-jie-shi/">
-        </link>
-        <updated>2021-05-30T01:12:53.000Z</updated>
-        <content type="html"><![CDATA[<p>天球：<br>
-地心地固坐标系：<br>
-<strong>整周跳变</strong>：在载波相位测量中，由于某种原因的影响而使接收机记录整周数的变化量产生错误。<br>
-观测时段：<br>
-<strong>同步观测</strong>：两台或两台以上接收机</p>
-<p>异步观测环：<br>
-GPS 网基准设计：<br>
-重建载波：将调制的载波上的测距码和导航电文去掉，重新获得载波的过程。<br>
-星钟误差：<br>
-信号失锁：</p>
 ]]></content>
     </entry>
     <entry>
@@ -714,6 +756,90 @@ GPS 网基准设计：<br>
 <li>specification</li>
 <li>specify</li>
 <li>speculate</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit 9 🚲]]></title>
+        <id>https://q.aone.zone/post/unit9/</id>
+        <link href="https://q.aone.zone/post/unit9/">
+        </link>
+        <updated>2021-05-23T04:44:22.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>shadow</li>
+<li>shade</li>
+<li>sort</li>
+<li>soul</li>
+<li>sound</li>
+<li>sour</li>
+<li>source</li>
+<li>advance</li>
+<li>advanced</li>
+<li>advantage</li>
+<li>advice</li>
+<li>advise</li>
+<li>advisable</li>
+<li>advocate</li>
+<li>aesthetic</li>
+<li>affect</li>
+<li>aaffection</li>
+<li>affiliate</li>
+<li>affirm</li>
+<li>afford</li>
+<li>breach</li>
+<li>break</li>
+<li>breakdown</li>
+<li>breed</li>
+<li>brevity</li>
+<li>coincide</li>
+<li>collapse</li>
+<li>colleague</li>
+<li>collect</li>
+<li>collection</li>
+<li>collective</li>
+<li>collide</li>
+<li>column</li>
+<li>combat</li>
+<li>combine</li>
+<li>command</li>
+<li>commend</li>
+<li>comment</li>
+<li>commerce</li>
+<li>commercial</li>
+<li>commission</li>
+<li>commit</li>
+<li>committee</li>
+<li>commodity</li>
+<li>common</li>
+<li>comminocate</li>
+<li>communication</li>
+<li>communism</li>
+<li>community</li>
+<li>detect</li>
+<li>deteriorate</li>
+<li>determine</li>
+<li>develop</li>
+<li>device</li>
+<li>devise</li>
+<li>ensure</li>
+<li>entail</li>
+<li>indeed</li>
+<li>independence</li>
+<li>independent</li>
+<li>index</li>
+<li>mere</li>
+<li>merely</li>
+<li>plausible</li>
+<li>plea</li>
+<li>plead</li>
+<li>plot</li>
+<li>policy</li>
+<li>polite</li>
+<li>political</li>
+<li>politician</li>
+<li>politics</li>
+<li>poll</li>
+<li>ponder</li>
 </ol>
 ]]></content>
     </entry>
