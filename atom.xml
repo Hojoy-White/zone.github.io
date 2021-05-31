@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-31T23:50:55.685Z</updated>
+    <updated>2021-05-31T23:55:26.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://q.aone.zone/images/avatar.png</logo>
     <icon>https://q.aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[图]]></title>
+        <id>https://q.aone.zone/post/tu/</id>
+        <link href="https://q.aone.zone/post/tu/">
+        </link>
+        <updated>2021-05-31T23:51:45.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://q.aone.zone/post-images/1622505223721.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1622505310274.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名词解释]]></title>
         <id>https://q.aone.zone/post/ming-ci-jie-shi/</id>
@@ -86,8 +96,6 @@
 </li>
 </ul>
 <p>各种误差：</p>
-<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1622504944632.jpg" alt="1" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1622504828326.jpg" alt="2" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -758,90 +766,6 @@
 <li>specification</li>
 <li>specify</li>
 <li>speculate</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 9 🚲]]></title>
-        <id>https://q.aone.zone/post/unit9/</id>
-        <link href="https://q.aone.zone/post/unit9/">
-        </link>
-        <updated>2021-05-23T04:44:22.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>shadow</li>
-<li>shade</li>
-<li>sort</li>
-<li>soul</li>
-<li>sound</li>
-<li>sour</li>
-<li>source</li>
-<li>advance</li>
-<li>advanced</li>
-<li>advantage</li>
-<li>advice</li>
-<li>advise</li>
-<li>advisable</li>
-<li>advocate</li>
-<li>aesthetic</li>
-<li>affect</li>
-<li>aaffection</li>
-<li>affiliate</li>
-<li>affirm</li>
-<li>afford</li>
-<li>breach</li>
-<li>break</li>
-<li>breakdown</li>
-<li>breed</li>
-<li>brevity</li>
-<li>coincide</li>
-<li>collapse</li>
-<li>colleague</li>
-<li>collect</li>
-<li>collection</li>
-<li>collective</li>
-<li>collide</li>
-<li>column</li>
-<li>combat</li>
-<li>combine</li>
-<li>command</li>
-<li>commend</li>
-<li>comment</li>
-<li>commerce</li>
-<li>commercial</li>
-<li>commission</li>
-<li>commit</li>
-<li>committee</li>
-<li>commodity</li>
-<li>common</li>
-<li>comminocate</li>
-<li>communication</li>
-<li>communism</li>
-<li>community</li>
-<li>detect</li>
-<li>deteriorate</li>
-<li>determine</li>
-<li>develop</li>
-<li>device</li>
-<li>devise</li>
-<li>ensure</li>
-<li>entail</li>
-<li>indeed</li>
-<li>independence</li>
-<li>independent</li>
-<li>index</li>
-<li>mere</li>
-<li>merely</li>
-<li>plausible</li>
-<li>plea</li>
-<li>plead</li>
-<li>plot</li>
-<li>policy</li>
-<li>polite</li>
-<li>political</li>
-<li>politician</li>
-<li>politics</li>
-<li>poll</li>
-<li>ponder</li>
 </ol>
 ]]></content>
     </entry>
