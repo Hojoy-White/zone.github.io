@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-05-31T05:23:23.940Z</updated>
+    <updated>2021-05-31T06:03:08.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -77,6 +77,43 @@
 <li>电离层折射误差</li>
 <li>对流层折射误差</li>
 <li>多路径误差</li>
+</ol>
+</li>
+<li>GPS系统的地面监控系统包括
+<ol>
+<li>监控站</li>
+<li>注入站</li>
+<li>主控站</li>
+</ol>
+</li>
+<li>在GPS测量中，与卫星有关的误差一般是指：
+<ol>
+<li>卫星星历误差</li>
+<li>卫星时钟误差</li>
+<li>相对论效应误差</li>
+</ol>
+</li>
+<li>按GPS接收机扽用途分类，GPS接收机分为
+<ol>
+<li>导航型</li>
+<li>测地型</li>
+<li>授时型</li>
+</ol>
+</li>
+<li>GPS卫星受到的摄动力主要有：
+<ol>
+<li>地球对卫星的引力</li>
+<li>日月引力</li>
+<li>大气阻力</li>
+<li>地球潮汐力</li>
+<li>太阳辐射</li>
+</ol>
+</li>
+<li>对GPS接收机进行全面检验通常包括：
+<ol>
+<li>一般性检视</li>
+<li>通电检视</li>
+<li>试测检视</li>
 </ol>
 </li>
 <li></li>
