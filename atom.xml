@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-08-23T13:57:16.919Z</updated>
+    <updated>2021-08-23T17:06:57.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -305,39 +305,8 @@ fd()、 circle()、seth()
 time库:time()、 strftime()、 strptime()、 sleep()等
 </code></pre>
 <p>33个保留字</p>
-<p>and<br>
-as<br>
-assert<br>
-break<br>
-class<br>
-continue<br>
-def<br>
-elif<br>
-else<br>
-except<br>
-finally<br>
-for<br>
-from<br>
-if<br>
-import<br>
-in<br>
-is<br>
-lambda<br>
-not<br>
-or<br>
-pass<br>
-raise<br>
-return<br>
-try<br>
-while<br>
-with<br>
-yield<br>
-del<br>
-gobal<br>
-nonlocal<br>
-True<br>
-False<br>
-None</p>
+<p>and、as、assert、break、class、continue、def、elif、else、except、finally、for、from、if、import、in、is、lambda、not、or、pass、raise、return、try、while<br>
+with、yield、del、gobal、nonlocal、True、False、None</p>
 <p><img src="https://q.aone.zone/post-images/1629571775212.jpg" alt="" loading="lazy"><br>
 <img src="https://q.aone.zone/post-images/1629571792764.jpg" alt="" loading="lazy"></p>
 <p>##本课概要</p>
@@ -471,8 +440,108 @@ except NameError :
 <p>202108230058</p>
 <p>#4.2 实例5: 身体质量指数BMI</p>
 <p>##&quot;身体质量指数BMI&quot;问题分析</p>
+<p>身体质量指数BMI</p>
+<p><strong>BMI：对身体质量的刻画</strong></p>
+<ul>
+<li>
+<p>BMI：Body Mass Index</p>
+</li>
+<li>
+<p>国际上常用的衡量人体肥胖和健康程度的重要标准，主要用于统计分析。</p>
+</li>
+<li>
+<p>定义： BMI = 体重（kg）/ 身高²（m²）</p>
+</li>
+<li>
+<p>老师：体重 72kg  身高 1.75m<br>
+BMI 值是23.5</p>
+</li>
+<li>
+<p>这个值是否健康呢？</p>
+</li>
+</ul>
+<p>我自己：体重 73kg 身高 1.80m<br>
+BMI值是22.5</p>
+<p>分国际国内<br>
+都分成四类</p>
+<figure data-type="image" tabindex="7"><img src="https://q.aone.zone/post-images/1629731866735.jpg" alt="" loading="lazy"></figure>
+<p><strong>问题需求</strong></p>
+<ul>
+<li>输入：给定体重和身高值</li>
+<li>输出：BMI指标分类信息（国际和国内）</li>
+</ul>
 <p>##&quot;身体质量指数BMI&quot;实例讲解</p>
+<p>身体质量指数BMI</p>
+<p><strong>思路方法</strong></p>
+<ul>
+<li>难点在于同时输出国际和国内对应的分类</li>
+<li>思路1：分别计算并给出国际和国内BMI分类</li>
+<li>思路2：混合计算并给出国际和国内BMI分类</li>
+</ul>
+<p>思路1实现代码</p>
+<pre><code>#CalBMIv1.py
+height,weight = eval(input(&quot;请输入身高(米)和体重\(公斤)[逗号隔开]:&quot;))
+BMI = weight / pow(height, 2 )
+print(&quot;BMI数值为：{:.2f}&quot;.format(BMI))
+who = &quot;&quot;
+if BMI &lt; 18.5:
+    who = &quot;偏瘦&quot;
+elif 18.5 &lt;= BMI &lt; 25:
+    who = &quot;正常&quot;
+elif 25 &lt;= BMI &lt;30:
+    who = &quot;偏胖&quot;
+else:
+    who = &quot;肥胖&quot;
+print(&quot;BMI 指标为：国际'{0}'&quot;.format(who))
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629734640329.jpg" alt="" loading="lazy"><br>
+亲测<br>
+<img src="https://q.aone.zone/post-images/1629734702179.jpg" alt="" loading="lazy"></p>
+<pre><code>#CalBMIv2.py
+height,weight = eval(input(&quot;请输入身高(米)和体重\(公斤)[逗号隔开]:&quot;))
+BMI = weight / pow(height, 2 )
+print(&quot;BMI数值为：{:.2f}&quot;.format(BMI))
+who = &quot;&quot;
+if BMI &lt; 18.5:
+    who = &quot;偏瘦&quot;
+elif 18.5 &lt;= BMI &lt; 24:
+    who = &quot;正常&quot;
+elif 24 &lt;= BMI &lt;28:
+    who = &quot;偏胖&quot;
+else:
+    who = &quot;肥胖&quot;
+print(&quot;BMI 指标为：国内'{0}'&quot;.format(who))
+</code></pre>
+<p>思路二</p>
+<pre><code>#CalBMIv3.py
+height,weight = eval(input(&quot;请输入身高(米)和体重\(公斤)[逗号隔开]:&quot;))
+BMI = weight / pow(height, 2 )
+print(&quot;BMI数值为：{:.2f}&quot;.format(BMI))
+who, nat = &quot;&quot;,&quot;&quot;
+if BMI &lt; 18.5:
+    who,nat = &quot;偏瘦&quot;,&quot;偏瘦&quot;
+elif 18.5 &lt;= BMI &lt; 24:
+    who,nat = &quot;正常&quot;,&quot;正常&quot;
+elif 24 &lt;= BMI &lt;25:
+    who,nat = &quot;正常&quot;,&quot;偏胖&quot;
+elif 25&lt;= BMI &lt; 28:
+    who, nat =&quot;偏胖&quot;,&quot;偏胖&quot;
+elif 28&lt;= BMI &lt;30:
+    who ,nat = &quot;偏胖&quot;,&quot;肥胖&quot;
+else:
+    who = &quot;肥胖&quot;
+print(&quot;BMI 指标为：国际'{0}',国内'{1}'&quot;.format(who,nat))
+
+</code></pre>
 <p>##&quot;身体质量指数BMI&quot;举一反三</p>
+<p>举一反三<br>
+<strong>关注多分支条件的组合</strong></p>
+<ul>
+<li>多分支条件之间的覆盖是重要问题</li>
+<li>程序可运行，但不正确，要注意多分支</li>
+<li>分支结构是程序的重要框架，读程序先看分支</li>
+</ul>
+<p>202108240106</p>
 <p>#4.3 程序的循环结构</p>
 <p>##单元开篇</p>
 <p>##遍历循环</p>
