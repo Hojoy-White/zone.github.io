@@ -1,0 +1,801 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>《python 语言程序设计》课程笔记 1 | 一个壹</title>
+<link rel="shortcut icon" href="https://q.aone.zone/favicon.ico?v=1629727000076">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://q.aone.zone/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="《python 语言程序设计》课程笔记 1 | 一个壹 - Atom Feed" href="https://q.aone.zone/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="第1周 Python基本语法元素
+第1周课程导学
+前课复习
+第一章 辅学内容
+课程之前
+    基本要求
+
+会使用计算机和 Office软件
+阅读简单英文内容、3级及以上水平
+熟练使用Web浏览器
+每周至少1-2个小时,连续9周
+
+本周概要..." />
+    <meta name="keywords" content="python" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://q.aone.zone">
+  <img class="avatar" src="https://q.aone.zone/images/avatar.png?v=1629727000076" alt="">
+  </a>
+  <h1 class="site-title">
+    一个壹
+  </h1>
+  <p class="site-description">
+    白水鉴心
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+      
+        <a href="/post/moonlog" class="menu">
+          白水鉴心
+        </a>
+      
+    
+      
+        <a href="/post/starslog" class="menu">
+          萤星不灭
+        </a>
+      
+    
+      
+        <a href="/post/woodsyearslog" class="menu">
+          几木年华
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/Hojoy-White" target="_blank">
+          <i class="ri-github-line"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+      
+        <a href="https://www.zhihu.com/people/ya-ya-84-70" target="_blank">
+          <i class="ri-zhihu-line"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              《python 语言程序设计》课程笔记 1
+            </h2>
+            <div class="post-info">
+              <span>
+                2021-08-09
+              </span>
+              <span>
+                18 min read
+              </span>
+              
+                <a href="https://q.aone.zone/tag/O_A5BGu_P/" class="post-tag">
+                  # python
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <h1 id="第1周-python基本语法元素">第1周 Python基本语法元素</h1>
+<h2 id="第1周课程导学">第1周课程导学</h2>
+<h3 id="前课复习">前课复习</h3>
+<p>第一章 辅学内容</p>
+<p>课程之前</p>
+<pre><code>    基本要求
+
+会使用计算机和 Office软件
+阅读简单英文内容、3级及以上水平
+熟练使用Web浏览器
+每周至少1-2个小时,连续9周
+</code></pre>
+<h3 id="本周概要">本周概要</h3>
+<pre><code>    第1章 Python基本语法元素
+
+1.1程序设计基本方法
+1.2 Python开发环境配置
+1.3实例1:温度转换
+1.4 Python程序语法元素分析
+
+方法论
+    程序的基本编写方法:IPO(Input, Process, Output)
+实践能力
+    看懂10行左右简单 Python代码
+</code></pre>
+<h2 id="11程序设计基本方法">1.1程序设计基本方法</h2>
+<h3 id="单元开篇">单元开篇</h3>
+<p><strong>程序设计基本方法</strong></p>
+<pre><code>计算机与程序设计
+编译和解释
+程序的基本编写方法
+计算机编程
+</code></pre>
+<h3 id="计算机与程序设计">计算机与程序设计</h3>
+<p>计算机是根据指令操作数据的设备。</p>
+<p>1</p>
+<pre><code>        计算机的概念
+    功能性
+对数据的操作,表现为数据计算、输入翰出处理和结果存储等
+    可编程性
+根据一系列指令自动地、可预测地、准确地完成操作者的意图
+</code></pre>
+<p>2</p>
+<pre><code>    计算机的发展
+计算机的发展参照摩尔定律,表现为指数方式
+计算机硬件所依赖的集成电路规模参照摩尔定律发展
+计算机运行速度因此也接近几何级数快速增长
+计算机所能高效支撑的各类运算功能不断丰富发展
+</code></pre>
+<p>3</p>
+<pre><code>    摩尔定律 Moore's law
+计算机发展历史上最重要的预测法则
+Inte公司创始人之一戈登摩尔在1965年提出
+单位面积集成电路上可容纳晶体管的数量约每两年翻一番
+CPU/GPU、内存、硬盘、电子产品价格等都遵循摩尔定律
+</code></pre>
+<p>4</p>
+<pre><code>    计算机的发展
+计算机的发展参照摩尔定律,表现为指数方式
+当今世界,唯一长达50年有效且按照指数发展的技术领域
+计算机深刻改变人类社会,甚至可能改变人类本身
+可预见的未来30年,摩尔定律还将持续有效
+</code></pre>
+<p>5</p>
+<pre><code>    程序设计
+程序设计是计算机可编程性的体现
+程序设计,亦称编程,深度应用计算机的主要手段
+程序设计已经成为当今社会需求量最大的职业技能之
+很多岗位都将被计算机程序接管,程序设计将是生存技能
+</code></pre>
+<p>6</p>
+<pre><code>    程序设计语言
+程序设计语言是一种用于交互(交流)的人造语言
+程序设计语言,亦称编程语言,程序设计的具体实现方式
+编程语言相比自然语言更简单、更严谨、更精确
+编程语言主要用于人类和计算机之间的交互
+</code></pre>
+<p>7</p>
+<pre><code>    程序设计语言
+编程语言种类很多,但生命力强劲的却不多
+编程语言有超过600种,绝大部分都不再被使用
+C语言诞生于1972年,它是第一个被广泛使用的编程语言
+Python语言诞生于1990年,它是最流行最好用的编程语言
+</code></pre>
+<h3 id="编译和解释">编译和解释</h3>
+<pre><code>    编程语言的执行方式
+源代码采用某种编程语言编写的计算机程序,人类可读
+例如: result=2+3
+目标代码计算机可直接执行,人类不可读(专家除外)
+例如:1101001000111011
+</code></pre>
+<p>1</p>
+<p>编译<br>
+将源代码一次性转换成目标代码的过程<br>
+<img src="https://q.aone.zone/post-images/1628442197037.jpg" alt="" loading="lazy"><br>
+执行编译过程的程序叫编译器</p>
+<p>2</p>
+<p>解释<br>
+将源代码逐条转换成目标代码同时逐条运行的过程<br>
+<img src="https://q.aone.zone/post-images/1628442352972.jpg" alt="" loading="lazy"><br>
+执行解释过程的程序叫作解释器</p>
+<p>3</p>
+<p>compiler<br>
+<img src="https://q.aone.zone/post-images/1628442197037.jpg" alt="" loading="lazy"><br>
+编译:一次性翻译,之后不再需要源代码(类似英文翻译)</p>
+<p>4</p>
+<p>interpreter<br>
+<img src="https://q.aone.zone/post-images/1628442352972.jpg" alt="" loading="lazy"><br>
+解释:每次程序运行时随翻译随执行(类似实时的同声传译)</p>
+<p>5</p>
+<pre><code>    静态语言和脚本语言
+根据执行方式不同,编程语言分为两类
+    静态语言使用编译执行的编程语言
+C/C++语言、Java语言
+    脚本语言使用解释执行的编程语言
+Python语言、 JavaScript语言、PHP语言
+</code></pre>
+<p>6</p>
+<pre><code>    静态语言和脚本语言
+执行方式不同,优势各有不同
+静态语言编译器一次性生成目标代码,优化更充分
+程序运行速度更快
+脚本语言执行程序时需要源代码,维护更灵活
+源代码在维护灵活、跨多个操作系统平台
+</code></pre>
+<h3 id="程序的基本编写方法">程序的基本编写方法</h3>
+<p>1</p>
+<pre><code>    IPO
+    程序的基本编写方法
+I  Input输入,程序的输入
+P Process处理,程序的主要逻辑
+O Output输出,程序的输出
+</code></pre>
+<p>2</p>
+<pre><code>    理解IPO
+    输入
+程序的输入
+文件输入、网络输入、控制台输入、
+交互界面输入、内部参数输入等
+输入是一个程序的开始
+</code></pre>
+<p>3</p>
+<pre><code>    理解IPO
+    输出
+程序的输出
+控制台输出、图形输出、文件输出
+网络输出、操作系统内部变量输出等
+输出是程序展示运算结果的方式
+</code></pre>
+<p>4</p>
+<pre><code>    理解IPO
+    处理
+处理是程序对输入数据进行计算产生输出结果的过程
+处理方法统称为算法,它是程序最重要的部分
+算法是一个程序的灵魂
+</code></pre>
+<p>5</p>
+<pre><code>    问题的计算部分
+一个待解决问题中,可以用程序辅助完成的部分
+计算机只能解决计算问题,即问题的计算部分
+一个问题可能有多种角度理解,产生不同的计算部分
+问题的计算部分一般都有输入、处理和翰出过程
+</code></pre>
+<p>6</p>
+<pre><code>    编程解决问题的步骤
+    6个步骤(1-3)
+分析问题:分析问题的计算部分,想清楚
+划分边界:划分问题的功能边界,规划IP0
+设计算法:设计问题的求解算法,关注算法
+</code></pre>
+<p>7</p>
+<pre><code>    编程解决问题的步骤
+    6个步骤(4-6)
+编写程序:编写问题的计算程序,编程序
+调试测试:调试程序使正确运行,运行调试
+升级维护:适应问题的升级维护,更新完善
+</code></pre>
+<p>8</p>
+<pre><code>求解计算问题的精简步骤
+确定IPO:明确计算部分及功能边界
+编写程序:将计算求解的设计变成现实
+调试程序:确保程序按照正确逻辑能够正确运行
+</code></pre>
+<h3 id="计算机编程">计算机编程</h3>
+<p>Q:为什么要学习计算机编程?<br>
+A:因为&quot;编程是件很有趣的事儿</p>
+<p>1</p>
+<pre><code>    计算机编程
+编程能够训练思维
+编程体现了一种抽象交互关系、自动化执行的思维模式
+计算思维:区别逻辑思维和实证思维的第三种思维模式
+能够促进人类思考,增进观察力和深化对交互关系的理解
+</code></pre>
+<p>2</p>
+<pre><code>    计算机编程
+编程能够增进认识
+编程不单纯是求解计算问题
+不仅要思考解决方法,还要思考用户体验、执行效率等
+能够帮助程序员加深用户行为以及社会和文化认识
+</code></pre>
+<p>3</p>
+<pre><code>    计算机编程
+编程能够带来乐趣
+编程能够提供展示自身思想和能力的舞台
+让世界增加新的颜色、让自己变得更酷、提升心理满足
+在信息空间里思考创新、将创新变为现实
+</code></pre>
+<p>4</p>
+<pre><code>    计算机编程
+编程能够提高效率
+能够更好地利用计算机解决问题
+显著提高工作、生活和学习效率
+为理想的实现提供一种借助计算机的高效手段
+</code></pre>
+<p>5</p>
+<pre><code>    计算机编程
+编程带来就业机会
+程序员是信息时代最重要的工作岗位之
+国内外对程序员岗位的缺口都在百万以上规模
+计算机已经渗透于各个行业,就业前景非常广阔
+</code></pre>
+<p>6</p>
+<pre><code>    学习编程的误区
+Q:编程很难学吗?A:掌握方法就很容易!
+
+首先,掌握编程语言的语法,熟悉基本概念和逻辑
+其次,结合计算问题思考程序结构,会使用编程套路
+最后,参照案例多练习多实践,学会举一反三
+</code></pre>
+<h3 id="单元小结">单元小结</h3>
+<p>程序设计基本方法</p>
+<pre><code>计算机的功能性和可编程性
+编译和解释、静态语言和脚本语言
+IPO、理解问题的计算部分
+掌握计算机编程的价值
+</code></pre>
+<p>2021.8.9</p>
+<h2 id="12python开发环境配置">1.2Python开发环境配置</h2>
+<h3 id="单元开篇-2">单元开篇</h3>
+<pre><code>    Python开发环境配置
+    
+Python语言概述
+Python语言 Windows系统开发环境 
+Python语言Mac系统开发环境             三选一
+Python语言 Linux系统开发环境
+Python语言 Web系统开发环境
+Python编写与运行
+</code></pre>
+<h3 id="python语言概述">Python语言概述</h3>
+<pre><code>    python
+Python,译为&quot;蟒蛇
+Python语言拥有者是 Python Software Foundation(PSF)
+PSF是非盈利组织,致力于保护 Python语言开放、开源和发展
+</code></pre>
+<p>Guido van Rossum</p>
+<pre><code>Python语言是一个由编程牛人领导设计并开发的编程语言
+Python语言是一个有开放、开源精神的编程语言
+Python语言应用于火星探测、搜索引擎、引力波分析等众多领域
+</code></pre>
+<h3 id="python语言windows系统开发环境">Python语言Windows系统开发环境</h3>
+<h3 id="python程序编写与运行">Python程序编写与运行</h3>
+<pre><code>    Python的两种编程方式
+交互式和文件式
+交互式对每个输入语句即时运行结果,适合语法练习
+文件式批量执行一组语句并运行结果,编程的主要方式
+</code></pre>
+<p>圆面积的计算<br>
+<img src="https://q.aone.zone/post-images/1628527339291.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1628527531370.jpg" alt="" loading="lazy"></figure>
+<p>同切圆绘制<br>
+<img src="https://q.aone.zone/post-images/1628527806324.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1628527814325.jpg" alt="" loading="lazy"></figure>
+<p>五角星绘制<br>
+<img src="https://q.aone.zone/post-images/1628528361943.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1628528425869.jpg" alt="" loading="lazy"></figure>
+<h3 id="单元小结-2">单元小结</h3>
+<pre><code>    程序设计基本方法
+Python语言的发展历史
+选取一种系统平台构建 Python开发环境
+尝试编写与运行3个 Python小程序
+</code></pre>
+<h2 id="13实例1温度转换">1.3实例1：温度转换</h2>
+<h3 id="温度转换问题分析">“温度转换”问题分析</h3>
+<p>1<br>
+<strong>温度转换</strong></p>
+<p><em><strong>温度刻画的两种不同体系</strong></em><br>
+摄氏度中国等世界大多数国家使用</p>
+<pre><code>以1标准大气压下水的结冰点为0度,沸点为100度,将温度进行等分刻画
+</code></pre>
+<p>华氏度美国、英国等国家使用</p>
+<pre><code>以1标准大气压下水的结冰点为32度,沸点为212度,将温度进行等分刻画
+</code></pre>
+<p>2</p>
+<pre><code>    需求分析
+两种温度体系的转换
+摄氏度转换为华氏度
+华氏度转换为摄氏度
+</code></pre>
+<p>3</p>
+<p>问题分析<br>
+该问题中计算部分的理解和确定</p>
+<pre><code>理解1直接将温度值进行转换
+理解2将温度信息发布的声音或图像形式进行理解和转换
+理解3监控温度信息发布渠道,实时获取并转换温度值
+</code></pre>
+<p>4</p>
+<p>问题分析<br>
+分析问题<br>
+采用理解1直接将温度值进行转换金翅大鹏的子孙后代<br>
+温度数值需要标明温度体系,即摄氏度或华氏度<br>
+转换后也需要给出温度体系</p>
+<p>5</p>
+<p>问题分析<br>
+划分边界<br>
+输入带华氏或摄氏标志的温度值<br>
+处理根据温度标志选择适当的温度转换算法<br>
+输出带摄氏或华氏标志的温度值</p>
+<p>6</p>
+<p>问题分析<br>
+输入输出格式设计<br>
+标识放在温度最后,F表示华氏度,C表示摄氏度<br>
+82F表示华氏82度，28C表示摄氏28度</p>
+<p>7</p>
+<p>问题分析<br>
+设计算法<br>
+根据华氏和摄氏温度定义,利用转换公式如下<br>
+C=(F-32)/1.8<br>
+F=C&quot;18+32<br>
+其中,C表示摄氏温度,F表示华氏温度</p>
+<h3 id="温度转换实例编写">“温度转换”实例编写</h3>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1628530195272.jpg" alt="" loading="lazy"></figure>
+<h3 id="温度转换举一反三">“温度转换”举一反三</h3>
+<p>1<br>
+举一反三<br>
+<strong>Python语法元素理解</strong></p>
+<pre><code>温度转换程序共10行代码,但包含很多语法元素
+清楚理解这10行代码能够快速入门 Python语言
+参考框架结构、逐行分析、逐词理解
+</code></pre>
+<p>2<br>
+举一反三<br>
+<strong>输入输出的改变</strong></p>
+<pre><code>温度数值与温度标识之间关系的设计可以改变
+标识改变放在温度数值之前:C82,F28
+标识字符改变为多个字符:82Ce、28F
+</code></pre>
+<p>3<br>
+举一反三<br>
+<strong>计算问题的扩展</strong></p>
+<pre><code>温度转换问题是各类转换问题的代表性问题
+货币转换、长度转换、重量转换、面积转换
+问题不同,但程序代码相似
+</code></pre>
+<p>202108100137</p>
+<h2 id="14python程序语法元素分析">1.4Python程序语法元素分析</h2>
+<h3 id="单元开篇-3">单元开篇</h3>
+<pre><code>    Python程序语法元素分析
+程序的格式框架
+命名与保留字
+数据类型
+语句与函数
+Python程序的输入输出
+“温度转换”代码分析
+</code></pre>
+<h3 id="程序的格式框架">程序的格式框架</h3>
+<p>程序的格式框架<br>
+<img src="https://q.aone.zone/post-images/1628616350180.jpg" alt="" loading="lazy"><br>
+代码高亮 编程的色彩辅助体系，不是语法要求</p>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1628616336838.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1628616404415.jpg" alt="" loading="lazy"></figure>
+<p>缩进<br>
+缩进表达程序的格式框架<br>
+严格明确缩进是语法的一部分,缩进不正确程序运行错误<br>
+所属关系表达代码间包含和层次关系的唯一手段<br>
+长度一致程序内一致即可,一般用4个空格或1个TAB</p>
+<p>注释<br>
+<img src="https://q.aone.zone/post-images/1628616727051.jpg" alt="" loading="lazy"></p>
+<p>注释<br>
+不被程序执行的辅助性说明信息<br>
+单行注释以#开头,其后内容为注释<br>
+#这里是单行注释<br>
+多行注释以'''开头和结尾<br>
+'''这是多行注释第一行<br>
+这是多行注释第二行'''</p>
+<h3 id="命名与保留字">命名与保留字</h3>
+<figure data-type="image" tabindex="7"><img src="https://q.aone.zone/post-images/1628616968159.jpg" alt="" loading="lazy"></figure>
+<p>变量<br>
+用来保存和表示数据的占位符号<br>
+变量采用标识符(名字)来表示,关联标识符的过程叫命名<br>
+Tempstr是变量名字<br>
+可以使用等号(=)向变量赋值或修改值,=被称为赋值符号<br>
+Tempstr=&quot;82F&quot;#向变量 TempStr赋值 &quot;82F&quot;</p>
+<p>命名<br>
+关联标识符的过程<br>
+命名规则:大小写字母、数字、下划线和汉字等字符及组合<br>
+如: Tempstr, Python_ Great,这是门 Python好课<br>
+注意事项：大小写敏感、首字符不能是数字、不与保留字相同<br>
+Python和python是不同变量，123python是不合法的。</p>
+<p>保留字<br>
+被编程语言内部定义并保留使用的标识符<br>
+Python语言有33个保留字(也叫关键字)<br>
+if, elif, else, in<br>
+保留字是编程语言的基本单词,大小写敏感<br>
+if是保留字,If是变量</p>
+<p><img src="https://q.aone.zone/post-images/1628617408152.jpg" alt="" loading="lazy"><br>
+26个黑色的，本课涉及</p>
+<figure data-type="image" tabindex="8"><img src="https://q.aone.zone/post-images/1628617617186.jpg" alt="" loading="lazy"></figure>
+<h3 id="数据类型">数据类型</h3>
+<figure data-type="image" tabindex="9"><img src="https://q.aone.zone/post-images/1628617764207.jpg" alt="" loading="lazy"></figure>
+<p>数据类型<br>
+10,011101该如何解释呢?<br>
+这是一个二进制数字或者十进制数字<br>
+作为二进制数字,10,011,101的值是十进制157<br>
+这是一段文本或者用逗号分隔的3个数字<br>
+作为一段文本,逗号是文本中的一部分,一共包含10个字符</p>
+<p>数据类型<br>
+供计算机程序理解的数据形式<br>
+程序设计语言不允许存在语法歧义,需要定义数据的形式<br>
+需要给10,011,101关联一种计算机可以理解的形式<br>
+程序设计语言通过一定方式向计算机表达数据的形式<br>
+123表示文本字符串123,123则表示数字123</p>
+<p>数据类型<br>
+10,011,101<br>
+整数类型:10011101<br>
+字符串类型:&quot;10,011,101&quot;<br>
+列表类型:[10,011,101]</p>
+<figure data-type="image" tabindex="10"><img src="https://q.aone.zone/post-images/1628618060621.jpg" alt="" loading="lazy"></figure>
+<p>字符串<br>
+由0个或多个字符组成的有序字符序列<br>
+字符串由一对单引号或一对双引号表示<br>
+请输入带有符号的温度值:&quot;或者&quot;C<br>
+字符串是字符的有序序列,可以对其中的字符进行索引<br>
+请&quot;是&quot;请输入带有符号的温度值:&quot;的第θ个字符</p>
+<figure data-type="image" tabindex="11"><img src="https://q.aone.zone/post-images/1628618233852.jpg" alt="" loading="lazy"></figure>
+<p>字符串的使用<br>
+使用[]获取字符串中一个或多个字符<br>
+索引:返回字符串中单个字符&lt;字符串&gt;[M]<br>
+&quot;请输入带有符号的温度值:&quot;[θ]或者 Tempstr[-1]<br>
+切片:返回字符串中一段字符子串 &lt;字符串&gt;[M:N]<br>
+请输入带有符号的温度值:&quot;[1:3]或者 Tempstr[0:-1]</p>
+<figure data-type="image" tabindex="12"><img src="https://q.aone.zone/post-images/1628618502458.jpg" alt="" loading="lazy"></figure>
+<p>数字类型<br>
+整数和浮点数都是数字类型<br>
+整数 数学中的整数<br>
+32或者-89<br>
+浮点 数数学中的实数,带有小数部分<br>
+1.8或者-1.8或者-1.0</p>
+<figure data-type="image" tabindex="13"><img src="https://q.aone.zone/post-images/1628618624186.jpg" alt="" loading="lazy"></figure>
+<p>列表类型<br>
+由0个或多个数据组成的有序序列<br>
+列表使用[]表示,采用逗号(,)分隔各元素<br>
+[&quot;F','f']表示两个元素'F'和'f'<br>
+使用保留字in判断一个元素是否在列表中<br>
+TempStr[-1] in ['C','c'] 判断前者是否与列表中某个元素相同</p>
+<figure data-type="image" tabindex="14"><img src="https://q.aone.zone/post-images/1628618786833.jpg" alt="" loading="lazy"></figure>
+<h3 id="语句与函数">语句与函数</h3>
+<figure data-type="image" tabindex="15"><img src="https://q.aone.zone/post-images/1628618957400.jpg" alt="" loading="lazy"></figure>
+<p>赋值语句<br>
+由赋值符号构成的一行代码<br>
+赋值语句用来给变量赋予新的数据值<br>
+C=(eva1( Tempstr[0:-1)-32)/1.8 #右侧运算结果赋给变量C<br>
+赋值语句右侧的数据类型同时作用于变量<br>
+Tempstr= input(&quot;&quot;) #input()返回一个字符串, TempStr也是字符串</p>
+<figure data-type="image" tabindex="16"><img src="https://q.aone.zone/post-images/1628619138104.jpg" alt="" loading="lazy"></figure>
+<p>分支语句<br>
+由判断条件决定程序运行方向的语句<br>
+使用保留字ife1 if else构成条件判断的分支结构<br>
+if Tempstr[-1] in ['F','f']: #如果条件为True则执行冒号后语句<br>
+每个保留字所在行最后存在一个冒号(😃,,语法的一部分<br>
+冒号及后续缩进用来表示后续语句与条件的所属关系</p>
+<figure data-type="image" tabindex="17"><img src="https://q.aone.zone/post-images/1628619325802.jpg" alt="" loading="lazy"></figure>
+<p>③函数<br>
+根据输入参数产生不同输出的功能过程<br>
+类似数学中的函数,y=f(x)<br>
+print(&quot;输入格式错误&quot;)#打印输出&quot;输入格式错误<br>
+-函数采用&lt;函数名&gt;(&lt;参数&gt;)方式使用<br>
+eva1( Tempstr[0:-1]) # Tempstr[0:-1]是参数</p>
+<figure data-type="image" tabindex="18"><img src="https://q.aone.zone/post-images/1628619449204.jpg" alt="" loading="lazy"></figure>
+<h3 id="python程序的输入输出">Python程序的输入输出</h3>
+<figure data-type="image" tabindex="19"><img src="https://q.aone.zone/post-images/1628619564482.jpg" alt="" loading="lazy"></figure>
+<p>输入函数 input()<br>
+从控制台获得用户输入的函数<br>
+input()函数的使用格式<br>
+&lt;变量&gt; = input(&lt;提示信息字符串&gt;)<br>
+-用户输入的信息以字符串类型保存在&lt;变量&gt;中<br>
+TempStr = input(&quot;请输入”) # TempStr保存用户输入的信息</p>
+<figure data-type="image" tabindex="20"><img src="https://q.aone.zone/post-images/1628619769099.jpg" alt="" loading="lazy"></figure>
+<p>输出函数print()<br>
+以字符形式向控制台输出结果的函数<br>
+print()函数的基本使用格式<br>
+print(&lt;拟输出字符串或字符串变量》)<br>
+字符串类型的一对引号仅在程序内部使用,输出无引号<br>
+print(&quot;输入格式错误&quot;) # 向控制台输出 输入格式错误</p>
+<figure data-type="image" tabindex="21"><img src="https://q.aone.zone/post-images/1628619965579.jpg" alt="" loading="lazy"></figure>
+<p>Q输出函数print()<br>
+以字符形式向控制台输出结果的函数<br>
+print(&quot;转换后的温度是{:.2f}C&quot;.format(C)<br>
+如果C的值是123.456789,则输出结果为<br>
+转换后的温度是123.45C</p>
+<figure data-type="image" tabindex="22"><img src="https://q.aone.zone/post-images/1628620108943.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="23"><img src="https://q.aone.zone/post-images/1628620239370.jpg" alt="" loading="lazy"></figure>
+<p>评估函数eval()<br>
+去掉参数最外侧引号并执行余下语句的函数<br>
+eval(TempStr[0:-1])<br>
+如果 TempStr[0:1]值是&quot;12.3&quot;,输出是:<br>
+12.3</p>
+<figure data-type="image" tabindex="24"><img src="https://q.aone.zone/post-images/1628620432364.jpg" alt="" loading="lazy"></figure>
+<h3 id="温度转换代码分析">“温度转换”代码分析</h3>
+<h3 id="单元小结-3">单元小结</h3>
+<p>Python程序语法元素分析<br>
+缩进、注释、命名、变量、保留字<br>
+数据类型、字符串、整数、浮点数、列表<br>
+赋值语句、分支语句、函数<br>
+input()、 print()、eval()、 print()格式化</p>
+<h2 id="第一周作业及学习资料">第一周作业及学习资料</h2>
+<h3 id="第1周练习与作业">第1周练习与作业</h3>
+<p>第1章 Python基本语法元素<br>
+练习(可选)<br>
+5道编程题 @ Python123<br>
+作业<br>
+15道单选题 @ Python123</p>
+<h3 id="10-第1周课程导学">1.0 第1周课程导学</h3>
+<p>已下载</p>
+<h3 id="11-程序设计基本方法">1.1 程序设计基本方法</h3>
+<p>已下载</p>
+<h3 id="12-python开发环境配置">1.2 Python开发环境配置</h3>
+<p>已下载</p>
+<h3 id="13-实例1-温度转换">1.3 实例1: 温度转换</h3>
+<p>已下载</p>
+<h3 id="14-python程序语法元素分析">1.4 Python程序语法元素分析</h3>
+<p>已下载</p>
+<h3 id="实例1-温度转换源代码">实例1: 温度转换源代码</h3>
+<p>已下载</p>
+<p>202108110251</p>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li><a href="#%E7%AC%AC1%E5%91%A8-python%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%E5%85%83%E7%B4%A0">第1周 Python基本语法元素</a>
+<ul>
+<li><a href="#%E7%AC%AC1%E5%91%A8%E8%AF%BE%E7%A8%8B%E5%AF%BC%E5%AD%A6">第1周课程导学</a>
+<ul>
+<li><a href="#%E5%89%8D%E8%AF%BE%E5%A4%8D%E4%B9%A0">前课复习</a></li>
+<li><a href="#%E6%9C%AC%E5%91%A8%E6%A6%82%E8%A6%81">本周概要</a></li>
+</ul>
+</li>
+<li><a href="#11%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95">1.1程序设计基本方法</a>
+<ul>
+<li><a href="#%E5%8D%95%E5%85%83%E5%BC%80%E7%AF%87">单元开篇</a></li>
+<li><a href="#%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1">计算机与程序设计</a></li>
+<li><a href="#%E7%BC%96%E8%AF%91%E5%92%8C%E8%A7%A3%E9%87%8A">编译和解释</a></li>
+<li><a href="#%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%BC%96%E5%86%99%E6%96%B9%E6%B3%95">程序的基本编写方法</a></li>
+<li><a href="#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B">计算机编程</a></li>
+<li><a href="#%E5%8D%95%E5%85%83%E5%B0%8F%E7%BB%93">单元小结</a></li>
+</ul>
+</li>
+<li><a href="#12python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE">1.2Python开发环境配置</a>
+<ul>
+<li><a href="#%E5%8D%95%E5%85%83%E5%BC%80%E7%AF%87-2">单元开篇</a></li>
+<li><a href="#python%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0">Python语言概述</a></li>
+<li><a href="#python%E8%AF%AD%E8%A8%80windows%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83">Python语言Windows系统开发环境</a></li>
+<li><a href="#python%E7%A8%8B%E5%BA%8F%E7%BC%96%E5%86%99%E4%B8%8E%E8%BF%90%E8%A1%8C">Python程序编写与运行</a></li>
+<li><a href="#%E5%8D%95%E5%85%83%E5%B0%8F%E7%BB%93-2">单元小结</a></li>
+</ul>
+</li>
+<li><a href="#13%E5%AE%9E%E4%BE%8B1%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2">1.3实例1：温度转换</a>
+<ul>
+<li><a href="#%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90">“温度转换”问题分析</a></li>
+<li><a href="#%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E5%AE%9E%E4%BE%8B%E7%BC%96%E5%86%99">“温度转换”实例编写</a></li>
+<li><a href="#%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E4%B8%BE%E4%B8%80%E5%8F%8D%E4%B8%89">“温度转换”举一反三</a></li>
+</ul>
+</li>
+<li><a href="#14python%E7%A8%8B%E5%BA%8F%E8%AF%AD%E6%B3%95%E5%85%83%E7%B4%A0%E5%88%86%E6%9E%90">1.4Python程序语法元素分析</a>
+<ul>
+<li><a href="#%E5%8D%95%E5%85%83%E5%BC%80%E7%AF%87-3">单元开篇</a></li>
+<li><a href="#%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%A0%BC%E5%BC%8F%E6%A1%86%E6%9E%B6">程序的格式框架</a></li>
+<li><a href="#%E5%91%BD%E5%90%8D%E4%B8%8E%E4%BF%9D%E7%95%99%E5%AD%97">命名与保留字</a></li>
+<li><a href="#%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B">数据类型</a></li>
+<li><a href="#%E8%AF%AD%E5%8F%A5%E4%B8%8E%E5%87%BD%E6%95%B0">语句与函数</a></li>
+<li><a href="#python%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA">Python程序的输入输出</a></li>
+<li><a href="#%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90">“温度转换”代码分析</a></li>
+<li><a href="#%E5%8D%95%E5%85%83%E5%B0%8F%E7%BB%93-3">单元小结</a></li>
+</ul>
+</li>
+<li><a href="#%E7%AC%AC%E4%B8%80%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%8A%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99">第一周作业及学习资料</a>
+<ul>
+<li><a href="#%E7%AC%AC1%E5%91%A8%E7%BB%83%E4%B9%A0%E4%B8%8E%E4%BD%9C%E4%B8%9A">第1周练习与作业</a></li>
+<li><a href="#10-%E7%AC%AC1%E5%91%A8%E8%AF%BE%E7%A8%8B%E5%AF%BC%E5%AD%A6">1.0 第1周课程导学</a></li>
+<li><a href="#11-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95">1.1 程序设计基本方法</a></li>
+<li><a href="#12-python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE">1.2 Python开发环境配置</a></li>
+<li><a href="#13-%E5%AE%9E%E4%BE%8B1-%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2">1.3 实例1: 温度转换</a></li>
+<li><a href="#14-python%E7%A8%8B%E5%BA%8F%E8%AF%AD%E6%B3%95%E5%85%83%E7%B4%A0%E5%88%86%E6%9E%90">1.4 Python程序语法元素分析</a></li>
+<li><a href="#%E5%AE%9E%E4%BE%8B1-%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E6%BA%90%E4%BB%A3%E7%A0%81">实例1: 温度转换源代码</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://q.aone.zone/post/yu-fa-zhi-nan/">
+              <h3 class="post-title">
+                MarkDown语法指南
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://q.aone.zone/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

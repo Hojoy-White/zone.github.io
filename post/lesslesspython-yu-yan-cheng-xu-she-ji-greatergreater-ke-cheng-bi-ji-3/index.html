@@ -1,0 +1,743 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>《python 语言程序设计》课程笔记 3 | 一个壹</title>
+<link rel="shortcut icon" href="https://q.aone.zone/favicon.ico?v=1629727000076">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://q.aone.zone/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="《python 语言程序设计》课程笔记 3 | 一个壹 - Atom Feed" href="https://q.aone.zone/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="#【第3周】基本数据类型
+第3周课程导学
+前课复习
+视频
+Python基本语法元素
+缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print..." />
+    <meta name="keywords" content="python" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://q.aone.zone">
+  <img class="avatar" src="https://q.aone.zone/images/avatar.png?v=1629727000076" alt="">
+  </a>
+  <h1 class="site-title">
+    一个壹
+  </h1>
+  <p class="site-description">
+    白水鉴心
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+      
+        <a href="/post/moonlog" class="menu">
+          白水鉴心
+        </a>
+      
+    
+      
+        <a href="/post/starslog" class="menu">
+          萤星不灭
+        </a>
+      
+    
+      
+        <a href="/post/woodsyearslog" class="menu">
+          几木年华
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/Hojoy-White" target="_blank">
+          <i class="ri-github-line"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+      
+        <a href="https://www.zhihu.com/people/ya-ya-84-70" target="_blank">
+          <i class="ri-zhihu-line"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              《python 语言程序设计》课程笔记 3
+            </h2>
+            <div class="post-info">
+              <span>
+                2021-08-15
+              </span>
+              <span>
+                11 min read
+              </span>
+              
+                <a href="https://q.aone.zone/tag/O_A5BGu_P/" class="post-tag">
+                  # python
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>#【第3周】基本数据类型</p>
+<h2 id="第3周课程导学">第3周课程导学</h2>
+<h3 id="前课复习">前课复习</h3>
+<p>视频</p>
+<p><strong>Python基本语法元素</strong></p>
+<pre><code>缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print()格式化
+</code></pre>
+<p><strong>Python基本图形绘制</strong></p>
+<pre><code>从计算机技术演进角度看待 Python语言
+海龟绘图体系及import保留字用法
+penup()、 pendown()、 pensize()、 pencolor()
+fd()、 circle()、seth()
+循环语句：for和in、range()函数
+</code></pre>
+<p><strong>保留字</strong></p>
+<pre><code>and as assert break class continue def elif else except finally for from
+if import in is lambda not or pass rasie return try while with yield del
+global nonlocal
+True Flase None
+</code></pre>
+<p><strong>“”温度转换“”代码</strong></p>
+<pre><code>#TempConvert.py
+TempStr = input(&quot;请输入带有符号的温度值：&quot;)
+if TempStr[-1] in [&quot;F&quot;,&quot;f&quot;]:
+    C = (eval(TempStr[0:-1]) - 32)/1.8
+    print(&quot;转换后的温度是{:.2f}C&quot;.format(C))    
+elif TempStr[-1] in [&quot;C&quot;,&quot;c&quot;]:
+    F = 1.8*eval(TempStr[0:-1])+32
+    print(&quot;转换后的温度是{:.2f}F&quot;.format(F))
+else:
+    print(&quot;输入格式错误&quot;)
+</code></pre>
+<p><strong>蟒蛇绘制</strong></p>
+<pre><code>#PythonDraw.py
+import turtle
+turtle.setup(900,900,200,200)
+turtle.penup()
+trtle.fd(-250)
+turtle.pendown()
+turtle.pensize(25)
+turtle.pencolor(&quot;red&quot;)
+turtle.seth(-40)
+for i in range(4):
+    turtle.circle(40,80)
+    turtle.circle(-40,80)
+turtle.circle(40,80/2)
+turtle.fd(40)
+turtle.circle(16,100)
+turtle.fd(40*2/3)
+turtle.done()
+</code></pre>
+<h3 id="本课概要">本课概要</h3>
+<p>视频</p>
+<p>第3章基本数据类型</p>
+<pre><code>3.1数字类型及操作
+3.2实例3:天天向上的力量
+33字符串类型及操作
+3.4模块2:time库的使用
+3.5实例4:文本进度条
+</code></pre>
+<p>方法论</p>
+<pre><code>Python语言数字及字符串类型
+</code></pre>
+<p>实践能力</p>
+<pre><code>初步学会编程进行字符类操作
+</code></pre>
+<h2 id="31-数字类型及操作">3.1 数字类型及操作</h2>
+<h3 id="单元开篇">单元开篇</h3>
+<p>数字类型及操作</p>
+<pre><code>整数类型
+浮点数类型
+复数类型    
+数值运算操作符
+数值运算函数
+</code></pre>
+<h3 id="整数类型">整数类型</h3>
+<p>整数类型</p>
+<p><strong>与数学中整数的概念一致</strong></p>
+<pre><code>可正可负，没有取值范围限制
+pow(xy)函数：计算X的Y次方，想算多大算多大
+</code></pre>
+<p>pow(2,100)<br>
+pow(2,pow(2,15))</p>
+<p>整数类型</p>
+<p><strong>4种进制表示形式</strong></p>
+<pre><code>十进制：1010，99，-217
+二进制：以0b或0B开头：0b010，-0B101
+八进制：以0o或0O开头：0o010，-0O456
+十六进制：以0x或0X开头：0x9a,-0X89
+</code></pre>
+<h3 id="浮点数类型">浮点数类型</h3>
+<p>浮点类型</p>
+<p><strong>与数学中实数的概念一致</strong></p>
+<pre><code>带有小数点及小数的数字
+浮点数取值范围和小数精度都存在限制,但常规计算可忽略
+取值范围数量级约-10的308次方至10308次方,精度数量级10的-16次方
+</code></pre>
+<p>浮点数类型</p>
+<p><strong>浮点数间运算存在不确定尾数,不是bug</strong></p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>0.1+0.3<br>
+0.4</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>0.1+0.2<br>
+0.300000000000004<br>
+不确定尾数<br>
+53位二进制表示小数部分<br>
+二进制表示小数，可以无限接近，但不完全相同<br>
+结果无限接近，但可能存在尾数。</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>0.1+0.2==0.3<br>
+False</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>round(0.1+0.2,1)==0.3<br>
+True</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>round(x,d)：对x四舍五入，d是小数截取位数<br>
+浮点数间运算及比较用 round()函数辅助<br>
+不确定尾数一般发生在10的-16次方左右, round（）十分有效</p>
+<p>浮点数可以采用科学计数法表示</p>
+<pre><code>使用字母e或E作为幂的符号,以10为基数,格式如下
+&lt;a&gt;e&lt;b&gt; 表示a*10的b次方
+例如：4.3e-3值为00043    9.6E5值为9600000.0
+</code></pre>
+<p>浮点类型</p>
+<pre><code>关于 Python浮点数,需要知道多些
+取值范围和精度基本无限制
+运算存在不确定尾数 round()
+科学计数法表示
+</code></pre>
+<h3 id="复数类型">复数类型</h3>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1629135797645.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1629135853028.jpg" alt="" loading="lazy"></figure>
+<p>进行空间变换复变函数</p>
+<h3 id="数值运算操作符">数值运算操作符</h3>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1629136003374.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1629136065443.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1629136224657.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1629136477475.jpg" alt="" loading="lazy"></figure>
+<h3 id="数值运算函数">数值运算函数</h3>
+<figure data-type="image" tabindex="7"><img src="https://q.aone.zone/post-images/1629136661527.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://q.aone.zone/post-images/1629137032348.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://q.aone.zone/post-images/1629137105854.jpg" alt="" loading="lazy"></figure>
+<h3 id="单元小结">单元小结</h3>
+<figure data-type="image" tabindex="10"><img src="https://q.aone.zone/post-images/1629137212643.jpg" alt="" loading="lazy"></figure>
+<h2 id="32-实例3-天天向上的力量">3.2 实例3: 天天向上的力量</h2>
+<h3 id="天天向上的力量问题分析">&quot;天天向上的力量&quot;问题分析</h3>
+<figure data-type="image" tabindex="11"><img src="https://q.aone.zone/post-images/1629219415245.jpg" alt="" loading="lazy"></figure>
+<p>需求分析<br>
+天天向上的力量</p>
+<pre><code>数学公式可以求解,似乎没必要用程序
+如果是&quot;三天打鱼两天晒网&quot;呢?
+如果是双休日又不退步呢?
+</code></pre>
+<h3 id="天天向上的力量第一问">&quot;天天向上的力量&quot;第一问</h3>
+<figure data-type="image" tabindex="12"><img src="https://q.aone.zone/post-images/1629219605257.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://q.aone.zone/post-images/1629219855611.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayupQ1.py
+dayup = pow(1.001,365)
+daydown =pow(0.999,365)
+print(&quot;向上：{;;.2f},向下：{:.2f}&quot;.format(dayup,daydown))
+</code></pre>
+<figure data-type="image" tabindex="14"><img src="https://q.aone.zone/post-images/1629219891423.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量第二问">&quot;天天向上的力量&quot;第二问</h3>
+<figure data-type="image" tabindex="15"><img src="https://q.aone.zone/post-images/1629220078634.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="https://q.aone.zone/post-images/1629220424892.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayUpQ2.py
+dayfactor = 0.005
+dayup = pow(1+dayfactor,365)
+daydown = pow(1-dayfactor,356)
+print(&quot;向上:{:.2f}，向下:{:.2f}&quot;.format(dayup,daydown))
+</code></pre>
+<figure data-type="image" tabindex="17"><img src="https://q.aone.zone/post-images/1629220510397.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量第三问">&quot;天天向上的力量&quot;第三问</h3>
+<figure data-type="image" tabindex="18"><img src="https://q.aone.zone/post-images/1629220796699.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="19"><img src="https://q.aone.zone/post-images/1629221228466.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayUpQ3.py
+dayup =1.0
+dayfactor = 0.01
+for i in range (365):
+    if i % 7 in [6,0]:
+        dayup = dayup*(1-dayfactor)
+    else:
+    dayup = dayup*(1+dayfactor)
+print(&quot;工作日的力量:{:.2f}&quot;.format(dayup))
+</code></pre>
+<figure data-type="image" tabindex="20"><img src="https://q.aone.zone/post-images/1629221321405.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量第四问">&quot;天天向上的力量&quot;第四问</h3>
+<figure data-type="image" tabindex="21"><img src="https://q.aone.zone/post-images/1629221705424.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="22"><img src="https://q.aone.zone/post-images/1629221795158.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="23"><img src="https://q.aone.zone/post-images/1629221956471.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="24"><img src="https://q.aone.zone/post-images/1629222071953.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayUpQ4.py
+def dayup(df):
+    dayup = 1
+    for i in range (365):
+        if i % 7 in [6,0]:
+            dayup = dayup*(1-0.01)
+        else:
+            dayup = dayup*(1+df)
+    return dayup
+dayfactor = 0.01
+while dayup(dayfactor) &lt; 37.78 :
+    dayfactor += 0.001
+print(&quot;工作日的努力参数是:{:.3f}&quot;.format(dayfactor))
+
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629222516111.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629222562563.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="25"><img src="https://q.aone.zone/post-images/1629222616769.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量举一反三">&quot;天天向上的力量&quot;举一反三</h3>
+<figure data-type="image" tabindex="26"><img src="https://q.aone.zone/post-images/1629222855824.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="27"><img src="https://q.aone.zone/post-images/1629222893829.jpg" alt="" loading="lazy"></figure>
+<p>举一反三<br>
+天天向上的力量</p>
+<pre><code>实例虽然仅包含8-12行代码,但包含很多语法元素
+判断条件循环、次数循环、分支、函数、计算思维
+清楚理解这些代码能够快速入门 Python语言
+</code></pre>
+<p>问题的变化和扩展</p>
+<pre><code>工作日模式中,如果休息日不下降呢?
+如果努力每天提高1%,休息时每天下降1%呢?
+如果工作3天休息1天呢?
+&quot;三天打鱼,两天晒网&quot;呢?
+&quot;多一份努力&quot;呢?(努力比下降多一点儿
+多一点懈怠&quot;呢?(下降比努力多一点儿)
+</code></pre>
+<h2 id="33-字符串类型及操作">3.3 字符串类型及操作</h2>
+<h3 id="单元开篇-2">单元开篇</h3>
+<p>字符串类型及操作</p>
+<pre><code>字符串类型的表示
+字符串操作符
+字符串处理函数
+字符串处理方法
+字符串类型的格式化
+</code></pre>
+<h3 id="字符串类型的表示">字符串类型的表示</h3>
+<figure data-type="image" tabindex="28"><img src="https://q.aone.zone/post-images/1629313867620.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="29"><img src="https://q.aone.zone/post-images/1629313913893.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="30"><img src="https://q.aone.zone/post-images/1629314010130.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="31"><img src="https://q.aone.zone/post-images/1629314062662.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="32"><img src="https://q.aone.zone/post-images/1629314102638.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="33"><img src="https://q.aone.zone/post-images/1629314166391.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="34"><img src="https://q.aone.zone/post-images/1629314197998.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="35"><img src="https://q.aone.zone/post-images/1629314263160.jpg" alt="" loading="lazy"></figure>
+<h3 id="字符串操作符">字符串操作符</h3>
+<p><img src="https://q.aone.zone/post-images/1629314341973.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314374336.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314418984.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314474296.jpg" alt="" loading="lazy"></p>
+<h3 id="字符串处理函数">字符串处理函数</h3>
+<p><img src="https://q.aone.zone/post-images/1629314568871.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314606155.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314708566.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314750824.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314794700.jpg" alt="" loading="lazy"></p>
+<h3 id="字符串处理方法">字符串处理方法</h3>
+<p><img src="https://q.aone.zone/post-images/1629314861917.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314960092.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629315019251.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629315056418.jpg" alt="" loading="lazy"></p>
+<h3 id="字符串类型的格式化">字符串类型的格式化</h3>
+<p>字符串类型的格式化</p>
+<p>格式化是对字符串进行格式表达的方式<br>
+-字符串格式化使用 .format() 方法，用法如下：</p>
+<pre><code>&lt;模板字符串&gt;.format(&lt;逗号分隔的参数&gt;)
+</code></pre>
+<p>槽<br>
+<img src="https://q.aone.zone/post-images/1629388704800.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629388763336.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629388900434.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389189547.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389280082.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389377043.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389550169.jpg" alt="" loading="lazy"><br>
+整数</p>
+<pre><code>b 二进制格式
+c 字符形式，Unicode的编码形式、
+d十进制
+o八进制
+x十六进制
+X大写的十六进制
+</code></pre>
+<p>浮点数<br>
+e小写科学计数法<br>
+E大写科学计数法<br>
+f非科学计数法形式表示浮点数<br>
+%百分数形式表示浮点数</p>
+<p>英文半角</p>
+<h3 id="单元小结-2">单元小结</h3>
+<figure data-type="image" tabindex="36"><img src="https://q.aone.zone/post-images/1629315203347.jpg" alt="" loading="lazy"></figure>
+<h2 id="34-模块2-time库的使用">3.4 模块2: time库的使用</h2>
+<h3 id="单元开篇-3">单元开篇</h3>
+<p>time库的使用</p>
+<pre><code>time库基本介绍
+时间获取
+时间格式化
+程序计时应用
+</code></pre>
+<h3 id="time库基本介绍">time库基本介绍</h3>
+<p>time库的使用</p>
+<p><strong>time库是Python中处理时间的标准库</strong></p>
+<pre><code>计算时间的表达
+提供获取系统时间并格式化输出功能
+提供系统级精确计时功能，用于程序性能分析
+</code></pre>
+<pre><code>import time
+time.&lt;b&gt;()
+</code></pre>
+<p><strong>time库包括三类函数</strong></p>
+<p>时间获取：time()  ctime()  gmtime()<br>
+时间格式化：strftime()  strptime()<br>
+程序计时：sleep()  perf_couter()</p>
+<h3 id="时间获取">时间获取</h3>
+<p>time()  ctime()  gmtime()</p>
+<p><img src="https://q.aone.zone/post-images/1629393661507.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629393739176.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629393840839.gif" alt="" loading="lazy"></p>
+<h3 id="时间格式化">时间格式化</h3>
+<p>strftime()  strptime()</p>
+<p><strong>将时间以和隔离的方式展示出来</strong></p>
+<pre><code>格式化：类似字符串格式化吧，需要有展示模板
+展示模板由特定的格式化控制符组成
+strftime()方法
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629394061946.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394363857.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394435808.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394608601.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394643304.jpg" alt="" loading="lazy"></p>
+<h3 id="程序计时应用">程序计时应用</h3>
+<p>sleep()  perf_couter()</p>
+<p>程序计时<br>
+<strong>程序计时应用广泛</strong></p>
+<pre><code>程序计时指测量起止所经历时间的过程
+测量时间：perf_counter()
+产生时间：sleep()
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629394865841.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394941415.jpg" alt="" loading="lazy"></p>
+<h3 id="单元小结-3">单元小结</h3>
+<p><strong>time库的使用</strong></p>
+<pre><code>时间获取：time()、ctime()、gmtime()
+时间格式化：strftimr()、strptime()
+程序计时：perf_counter()、sleep()
+</code></pre>
+<p>202108200146</p>
+<h2 id="35-实例4-文本进度条">3.5 实例4: 文本进度条</h2>
+<h3 id="文本进度条问题分析">&quot;文本进度条&quot;问题分析</h3>
+<p>需求分析</p>
+<p><strong>文本进度条</strong></p>
+<pre><code>采用字符串方式打印可以动态变化的文本进度条
+进度条需要能在一行中逐渐变化
+</code></pre>
+<p>问题分析</p>
+<p><strong>如何获得文本进度条的变化时间？</strong></p>
+<pre><code>采用sleep()模拟一个持续的进度。
+似乎不那么难。
+</code></pre>
+<h3 id="文本进度条简单的开始">&quot;文本进度条&quot;简单的开始</h3>
+<p>简单的开始</p>
+<pre><code>#TextProBarV1.py
+import time 
+scale = 10
+print(&quot;------执行开始------&quot;)
+for i in range (scale+1):
+    a = '*' * i
+    b = '.' * (scale - i)
+    c = (i/scale)*100
+    print(&quot;{:^3.0f}%[{}-&gt;{}]&quot;.format(c,a,b))
+    time.sleep(0.1)
+print(&quot;-----执行结束------&quot;)
+
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629477644899.jpg" alt="" loading="lazy"><br>
+tips：字符串与整数的乘积，表示字符串被复制的次数。</p>
+<h3 id="文本进度条单行动态刷新">&quot;文本进度条&quot;单行动态刷新</h3>
+<p>单行动态刷新<br>
+<strong>刷新的关键是</strong></p>
+<pre><code>\r 
+</code></pre>
+<pre><code>刷新的本质是：用后打印的字符肤感之前的字符。
+不能换行：print()需要被控制。
+要能回退：打印完后光标退回到之前的位置 \r
+</code></pre>
+<pre><code>#TextProBarV2/py
+import time 
+for i in range(101):
+    print(&quot;\r{:3}%&quot;.format(i),end=&quot;&quot;)
+    time.sleep(0.1)
+</code></pre>
+<p>end=&quot;&quot;<br>
+一个参数，可加入一些信息<br>
+<img src="https://q.aone.zone/post-images/1629478855159.jpg" alt="" loading="lazy"></p>
+<h3 id="文本进度条实例完整效果">&quot;文本进度条&quot;实例完整效果</h3>
+<pre><code>#TextProBarV3.py
+import time
+scale = 50
+print(&quot;执行开始&quot;.center(scale//2,&quot;-&quot;))
+start = time.perf_counter()
+for i in range(scale+1):
+    a = &quot;*&quot; * i
+    b = &quot;.&quot; * (scale-i)
+    c = (i/scale)*100
+    dur = time.perf_counter() -start
+    print(&quot;\r{:^3.0f}%[{}-&gt;{}]{:.2f}s&quot;.format(c,a,b,dur),end = '')
+    time.sleep(0.1)
+print(&quot;\n&quot;+&quot;执行结束&quot;.center(scale//2,'-'))
+</code></pre>
+<h3 id="文本进度条举一反三">&quot;文本进度条&quot;举一反三</h3>
+<p>举一反三<br>
+<strong>计算问题扩展</strong></p>
+<pre><code>文本进度条程序使用了perf_counter()计时
+计时方法适合各类需要统计时间的计算问题
+例如：比较不同算法时间 、统计部分程序运行时间
+</code></pre>
+<p><strong>进度条扩展</strong></p>
+<pre><code>在任何运行时间需要较长的程序中增加进度条
+在任何希望提高用户体验的应用中增加进度条
+进度条是人机交互的纽带之一
+</code></pre>
+<figure data-type="image" tabindex="37"><img src="https://q.aone.zone/post-images/1629480512314.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="38"><img src="https://q.aone.zone/post-images/1629480615606.jpg" alt="" loading="lazy"></figure>
+<p>Tips：在下载时的交互，展示进度与实际进度，灵活调节。结论是先快后慢更符合人的喜好。</p>
+<h2 id="第3周作业及学习资料">第3周作业及学习资料</h2>
+<h3 id="第3周练习与作业">第3周练习与作业</h3>
+<p><strong>练习（可选）</strong></p>
+<pre><code>5道编程题 @python123
+</code></pre>
+<p><strong>作业</strong></p>
+<pre><code>15道单选题 @python1234
+</code></pre>
+<h3 id="30-第3周课程导学">3.0  第3周课程导学</h3>
+<p>已下载</p>
+<h3 id="31-数字类型及操作-2">3.1  数字类型及操作</h3>
+<p>已下载</p>
+<h3 id="32-实例3-天天向上的力量-2">3.2 实例3: 天天向上的力量</h3>
+<p>已下载</p>
+<h3 id="33-字符串类型及操作-2">3.3 字符串类型及操作</h3>
+<p>已下载</p>
+<h3 id="34-模块2-time库的使用-2">3.4 模块2: time库的使用</h3>
+<p>已下载</p>
+<h3 id="35-实例4-文本进度条-2">3.5 实例4: 文本进度条</h3>
+<p>已下载</p>
+<h3 id="实例3-天天向上的力量源代码">实例3: 天天向上的力量源代码</h3>
+<p>已下载</p>
+<h3 id="实例4-文本进度条源代码">实例4: 文本进度条源代码</h3>
+<p>已下载</p>
+<p>202108210134</p>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E7%AC%AC3%E5%91%A8%E8%AF%BE%E7%A8%8B%E5%AF%BC%E5%AD%A6">第3周课程导学</a>
+<ul>
+<li><a href="#%E5%89%8D%E8%AF%BE%E5%A4%8D%E4%B9%A0">前课复习</a></li>
+<li><a href="#%E6%9C%AC%E8%AF%BE%E6%A6%82%E8%A6%81">本课概要</a></li>
+</ul>
+</li>
+<li><a href="#31-%E6%95%B0%E5%AD%97%E7%B1%BB%E5%9E%8B%E5%8F%8A%E6%93%8D%E4%BD%9C">3.1 数字类型及操作</a>
+<ul>
+<li><a href="#%E5%8D%95%E5%85%83%E5%BC%80%E7%AF%87">单元开篇</a></li>
+<li><a href="#%E6%95%B4%E6%95%B0%E7%B1%BB%E5%9E%8B">整数类型</a></li>
+<li><a href="#%E6%B5%AE%E7%82%B9%E6%95%B0%E7%B1%BB%E5%9E%8B">浮点数类型</a></li>
+<li><a href="#%E5%A4%8D%E6%95%B0%E7%B1%BB%E5%9E%8B">复数类型</a></li>
+<li><a href="#%E6%95%B0%E5%80%BC%E8%BF%90%E7%AE%97%E6%93%8D%E4%BD%9C%E7%AC%A6">数值运算操作符</a></li>
+<li><a href="#%E6%95%B0%E5%80%BC%E8%BF%90%E7%AE%97%E5%87%BD%E6%95%B0">数值运算函数</a></li>
+<li><a href="#%E5%8D%95%E5%85%83%E5%B0%8F%E7%BB%93">单元小结</a></li>
+</ul>
+</li>
+<li><a href="#32-%E5%AE%9E%E4%BE%8B3-%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F">3.2 实例3: 天天向上的力量</a>
+<ul>
+<li><a href="#%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90">&quot;天天向上的力量&quot;问题分析</a></li>
+<li><a href="#%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E7%AC%AC%E4%B8%80%E9%97%AE">&quot;天天向上的力量&quot;第一问</a></li>
+<li><a href="#%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E7%AC%AC%E4%BA%8C%E9%97%AE">&quot;天天向上的力量&quot;第二问</a></li>
+<li><a href="#%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E7%AC%AC%E4%B8%89%E9%97%AE">&quot;天天向上的力量&quot;第三问</a></li>
+<li><a href="#%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E7%AC%AC%E5%9B%9B%E9%97%AE">&quot;天天向上的力量&quot;第四问</a></li>
+<li><a href="#%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E4%B8%BE%E4%B8%80%E5%8F%8D%E4%B8%89">&quot;天天向上的力量&quot;举一反三</a></li>
+</ul>
+</li>
+<li><a href="#33-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B%E5%8F%8A%E6%93%8D%E4%BD%9C">3.3 字符串类型及操作</a>
+<ul>
+<li><a href="#%E5%8D%95%E5%85%83%E5%BC%80%E7%AF%87-2">单元开篇</a></li>
+<li><a href="#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B%E7%9A%84%E8%A1%A8%E7%A4%BA">字符串类型的表示</a></li>
+<li><a href="#%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C%E7%AC%A6">字符串操作符</a></li>
+<li><a href="#%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0">字符串处理函数</a></li>
+<li><a href="#%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95">字符串处理方法</a></li>
+<li><a href="#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%8C%96">字符串类型的格式化</a></li>
+<li><a href="#%E5%8D%95%E5%85%83%E5%B0%8F%E7%BB%93-2">单元小结</a></li>
+</ul>
+</li>
+<li><a href="#34-%E6%A8%A1%E5%9D%972-time%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8">3.4 模块2: time库的使用</a>
+<ul>
+<li><a href="#%E5%8D%95%E5%85%83%E5%BC%80%E7%AF%87-3">单元开篇</a></li>
+<li><a href="#time%E5%BA%93%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D">time库基本介绍</a></li>
+<li><a href="#%E6%97%B6%E9%97%B4%E8%8E%B7%E5%8F%96">时间获取</a></li>
+<li><a href="#%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96">时间格式化</a></li>
+<li><a href="#%E7%A8%8B%E5%BA%8F%E8%AE%A1%E6%97%B6%E5%BA%94%E7%94%A8">程序计时应用</a></li>
+<li><a href="#%E5%8D%95%E5%85%83%E5%B0%8F%E7%BB%93-3">单元小结</a></li>
+</ul>
+</li>
+<li><a href="#35-%E5%AE%9E%E4%BE%8B4-%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1">3.5 实例4: 文本进度条</a>
+<ul>
+<li><a href="#%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90">&quot;文本进度条&quot;问题分析</a></li>
+<li><a href="#%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1%E7%AE%80%E5%8D%95%E7%9A%84%E5%BC%80%E5%A7%8B">&quot;文本进度条&quot;简单的开始</a></li>
+<li><a href="#%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%8D%95%E8%A1%8C%E5%8A%A8%E6%80%81%E5%88%B7%E6%96%B0">&quot;文本进度条&quot;单行动态刷新</a></li>
+<li><a href="#%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%AE%9E%E4%BE%8B%E5%AE%8C%E6%95%B4%E6%95%88%E6%9E%9C">&quot;文本进度条&quot;实例完整效果</a></li>
+<li><a href="#%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1%E4%B8%BE%E4%B8%80%E5%8F%8D%E4%B8%89">&quot;文本进度条&quot;举一反三</a></li>
+</ul>
+</li>
+<li><a href="#%E7%AC%AC3%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%8A%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99">第3周作业及学习资料</a>
+<ul>
+<li><a href="#%E7%AC%AC3%E5%91%A8%E7%BB%83%E4%B9%A0%E4%B8%8E%E4%BD%9C%E4%B8%9A">第3周练习与作业</a></li>
+<li><a href="#30-%E7%AC%AC3%E5%91%A8%E8%AF%BE%E7%A8%8B%E5%AF%BC%E5%AD%A6">3.0  第3周课程导学</a></li>
+<li><a href="#31-%E6%95%B0%E5%AD%97%E7%B1%BB%E5%9E%8B%E5%8F%8A%E6%93%8D%E4%BD%9C-2">3.1  数字类型及操作</a></li>
+<li><a href="#32-%E5%AE%9E%E4%BE%8B3-%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F-2">3.2 实例3: 天天向上的力量</a></li>
+<li><a href="#33-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B%E5%8F%8A%E6%93%8D%E4%BD%9C-2">3.3 字符串类型及操作</a></li>
+<li><a href="#34-%E6%A8%A1%E5%9D%972-time%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8-2">3.4 模块2: time库的使用</a></li>
+<li><a href="#35-%E5%AE%9E%E4%BE%8B4-%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1-2">3.5 实例4: 文本进度条</a></li>
+<li><a href="#%E5%AE%9E%E4%BE%8B3-%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E6%BA%90%E4%BB%A3%E7%A0%81">实例3: 天天向上的力量源代码</a></li>
+<li><a href="#%E5%AE%9E%E4%BE%8B4-%E6%96%87%E6%9C%AC%E8%BF%9B%E5%BA%A6%E6%9D%A1%E6%BA%90%E4%BB%A3%E7%A0%81">实例4: 文本进度条源代码</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-2/">
+              <h3 class="post-title">
+                《python 语言程序设计》课程笔记 2
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://q.aone.zone/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,418 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>《python 语言程序设计》课程笔记 4 | 一个壹</title>
+<link rel="shortcut icon" href="https://q.aone.zone/favicon.ico?v=1629727000076">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://q.aone.zone/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="《python 语言程序设计》课程笔记 4 | 一个壹 - Atom Feed" href="https://q.aone.zone/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="第4周】程序的控制结构
+#第4周课程导学
+##前课复习
+Python基本语法元素
+缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print(..." />
+    <meta name="keywords" content="python" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://q.aone.zone">
+  <img class="avatar" src="https://q.aone.zone/images/avatar.png?v=1629727000076" alt="">
+  </a>
+  <h1 class="site-title">
+    一个壹
+  </h1>
+  <p class="site-description">
+    白水鉴心
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+      
+        <a href="/post/moonlog" class="menu">
+          白水鉴心
+        </a>
+      
+    
+      
+        <a href="/post/starslog" class="menu">
+          萤星不灭
+        </a>
+      
+    
+      
+        <a href="/post/woodsyearslog" class="menu">
+          几木年华
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/Hojoy-White" target="_blank">
+          <i class="ri-github-line"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+      
+        <a href="https://www.zhihu.com/people/ya-ya-84-70" target="_blank">
+          <i class="ri-zhihu-line"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              《python 语言程序设计》课程笔记 4
+            </h2>
+            <div class="post-info">
+              <span>
+                2021-08-21
+              </span>
+              <span>
+                5 min read
+              </span>
+              
+                <a href="https://q.aone.zone/tag/O_A5BGu_P/" class="post-tag">
+                  # python
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p><strong>第4周】程序的控制结构</strong></p>
+<p>#第4周课程导学</p>
+<p>##前课复习</p>
+<p>Python基本语法元素</p>
+<pre><code>缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print()格式化
+</code></pre>
+<p>Python基本图形绘制</p>
+<pre><code>从计算机技术演进角度看待 Python语言
+海龟绘图体系及 import保留字用法
+penup()、 pendown()、 pensize()、 pencolor()
+fd()、 circle()、seth()
+循环语句:for和in、 range()函数
+</code></pre>
+<p>第3章基本数据类型</p>
+<pre><code>数据类型：整数、浮点数、复数
+数据类型运算操作符、运算函数
+字符串类型：表示、索引、切片
+字符串操作符、处理函数、处理方法、 format0格式化
+time库:time()、 strftime()、 strptime()、 sleep()等
+</code></pre>
+<p>33个保留字</p>
+<p>and<br>
+as<br>
+assert<br>
+break<br>
+class<br>
+continue<br>
+def<br>
+elif<br>
+else<br>
+except<br>
+finally<br>
+for<br>
+from<br>
+if<br>
+import<br>
+in<br>
+is<br>
+lambda<br>
+not<br>
+or<br>
+pass<br>
+raise<br>
+return<br>
+try<br>
+while<br>
+with<br>
+yield<br>
+del<br>
+gobal<br>
+nonlocal<br>
+True<br>
+False<br>
+None</p>
+<p><img src="https://q.aone.zone/post-images/1629571775212.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629571792764.jpg" alt="" loading="lazy"></p>
+<p>##本课概要</p>
+<p>第4章 程序的控制结构</p>
+<pre><code>4.1 程序的分支结构
+4.2 实例5：身体质量指数BMI
+4.3 程序的循环结构
+4.4 模块3：random库的使用
+4.5 实例6：圆周率的计算
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629572067865.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629572072308.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629572077294.jpg" alt="" loading="lazy"></p>
+<p><strong>方法论</strong></p>
+<pre><code>Python程序的控制语法及结构
+</code></pre>
+<p><strong>实践能力</strong></p>
+<pre><code>学会编写带有条件判断及循环的程序
+</code></pre>
+<p>#4.1 程序的分支结构</p>
+<p>##单元开篇</p>
+<p>程序的控制结构</p>
+<pre><code>单分支结构
+二分支结构
+多分支结构
+条件判断及组合
+程序的异常处理
+</code></pre>
+<p>##单分支结构</p>
+<p><strong>分支结构</strong>：是根据判断条件结果而选择不同向前路径的运行方式。</p>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1629648860808.jpg" alt="" loading="lazy"></figure>
+<p><strong>单分支示例</strong></p>
+<pre><code>guess = eval(input())
+if guess == 99:
+    print(&quot;猜对了&quot;)
+</code></pre>
+<pre><code>if True:
+    print(&quot;条件正确&quot;)
+</code></pre>
+<p>##二分支结构</p>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1629649147683.jpg" alt="" loading="lazy"></figure>
+<p><strong>二分之示例</strong></p>
+<pre><code>guess = eval(input())
+if guess == 99:
+    print(&quot;猜对了&quot;)
+else:
+    print(&quot;猜错了&quot;)
+</code></pre>
+<pre><code>if True:
+    print(&quot;语句块1&quot;)
+else:
+    print(&quot;语句块2&quot;)
+</code></pre>
+<p>需要知道一种紧凑形式，他是仅适用于表达简单逻辑的二分支结构的一种紧凑方式。<br>
+<img src="https://q.aone.zone/post-images/1629649493534.jpg" alt="" loading="lazy"></p>
+<pre><code>guess = eval(input())
+print(&quot;猜{}了&quot;.format(&quot;对&quot; if guess ==99 else &quot;错&quot;))
+</code></pre>
+<p>紧凑形式注意表达式的使用</p>
+<p>##多分支结构</p>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1629649828075.jpg" alt="" loading="lazy"></figure>
+<p><strong>示例：对不同分数分级的问题</strong><br>
+错误示例</p>
+<pre><code>score = eval(input())
+if score &gt;= 90:
+    grade = &quot;A&quot;
+if score &gt;= 80:
+    grade = &quot;B&quot;
+if score &gt;= 70:
+    grade = &quot;C&quot;
+if score &gt;= 60:
+    grade = &quot;D&quot;
+print(&quot;输入成绩属于级别{}&quot;.format(grade))
+</code></pre>
+<p><strong>注意多条件之间的包含关系</strong><br>
+<strong>注意变量取值范围的覆盖</strong><br>
+正确示例</p>
+<pre><code>score = eval(input())
+if score &gt;= 60:
+    grade = &quot;D&quot;
+if score &gt;= 70:
+    grade = &quot;C&quot;
+if score &gt;= 80:
+    grade = &quot;B&quot;
+if score &gt;= 90:
+    grade = &quot;A&quot;
+print(&quot;输入成绩属于级别{}&quot;.format(grade))
+</code></pre>
+<p>视频中讲解有些矛盾<br>
+##条件判断及组合<br>
+<img src="https://q.aone.zone/post-images/1629650585663.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629650605261.jpg" alt="" loading="lazy"></p>
+<p>示例</p>
+<pre><code>guess = eval(input())
+if guess &gt; 99 or guess &lt; 99:
+    print(&quot;猜错了&quot;)
+else:
+    print(&quot;猜对了&quot;)
+</code></pre>
+<pre><code>if True :
+    print(&quot;语句块1&quot;)
+else:
+    print(&quot;语句块2&quot;)
+</code></pre>
+<p>##程序的异常处理</p>
+<pre><code>num eval(input(&quot;请输入一个整数：&quot;))
+print(num**2)
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629650917302.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629650960768.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1629651026062.jpg" alt="" loading="lazy"></figure>
+<p>示例-1</p>
+<pre><code>try :
+    num = eval(input(&quot;请输入一个整数：&quot;))
+    print(num**2)
+except :
+    print(&quot;输入不是整数&quot;)
+</code></pre>
+<p>示例-2</p>
+<pre><code>try :
+    num = eval(input(&quot;请输入一个整数：&quot;))
+    print(num**2)
+except NameError :
+    print(&quot;输入不是整数&quot;)
+</code></pre>
+<p>注意：标注异常类型后，仅响应该异常<br>
+异常类型名字等同于变量。</p>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1629651388597.jpg" alt="" loading="lazy"></figure>
+<p>##单元小结</p>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1629651462093.jpg" alt="" loading="lazy"></figure>
+<p>202108230058</p>
+<p>#4.2 实例5: 身体质量指数BMI</p>
+<p>##&quot;身体质量指数BMI&quot;问题分析</p>
+<p>##&quot;身体质量指数BMI&quot;实例讲解</p>
+<p>##&quot;身体质量指数BMI&quot;举一反三</p>
+<p>#4.3 程序的循环结构</p>
+<p>##单元开篇</p>
+<p>##遍历循环</p>
+<p>##无限循环</p>
+<p>##循环控制保留字</p>
+<p>##循环的高级用法</p>
+<p>##单元小结</p>
+<p>#4.4 模块3: random库的使用</p>
+<p>##random库基本介绍</p>
+<p>##基本随机数函数</p>
+<p>##扩展随机数函数</p>
+<p>#4.5 实例6: 圆周率的计算</p>
+<p>##&quot;圆周率的计算&quot;问题分析</p>
+<p>##&quot;圆周率的计算&quot;实例讲解</p>
+<p>##&quot;圆周率的计算&quot;举一反三</p>
+<p>#第4周作业及学习资料</p>
+<p>##练习与作业</p>
+<p>##4.0 第4周辅学内容</p>
+<p>##4.1 程序的分支结构</p>
+<p>##4.2 实例5: 身体质量指数BMI</p>
+<p>##4.3 程序的循环结构</p>
+<p>##4.4 模块3: random库的使用</p>
+<p>##4.5 实例6: 圆周率的计算</p>
+<p>##实例5: 身体质量指数BMI源代码</p>
+<p>##实例6: 圆周率的计算源代码</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://q.aone.zone/post/bao-cun/">
+              <h3 class="post-title">
+                【保存】
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://q.aone.zone/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

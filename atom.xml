@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q.aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-08-02T04:00:03.774Z</updated>
+    <updated>2021-08-23T13:56:44.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q.aone.zone"/>
     <link rel="self" href="https://q.aone.zone/atom.xml"/>
@@ -11,778 +11,2397 @@
     <icon>https://q.aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
     <entry>
-        <title type="html"><![CDATA[音频测试]]></title>
-        <id>https://q.aone.zone/post/yin-pin-ce-shi/</id>
-        <link href="https://q.aone.zone/post/yin-pin-ce-shi/">
+        <title type="html"><![CDATA[文献检索实践课-1/5]]></title>
+        <id>https://q.aone.zone/post/wen-xian-jian-suo-shi-jian-ke-15/</id>
+        <link href="https://q.aone.zone/post/wen-xian-jian-suo-shi-jian-ke-15/">
         </link>
-        <updated>2021-08-01T15:15:01.000Z</updated>
-        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=3&id=2488275104&auto=0&height=66"></iframe>
+        <updated>2021-08-23T02:03:47.000Z</updated>
+        <content type="html"><![CDATA[<p>page1</p>
+<p>信息素养<br>
+· 以辩证式思维,有效认知、查询、获取、利用<br>
+和交流信息,促进学习、研究和创新的综合能</p>
+<p>信息素养</p>
+<ul>
+<li>信息意识</li>
+<li>言息能力</li>
+<li>信息道德</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1629691830064.jpg" alt="" loading="lazy"></figure>
+<p>page2</p>
+<p><strong>授人以鱼不如授人以渔</strong></p>
+<p>page3</p>
+<p><strong>课程性质与考核</strong></p>
+<pre><code>课程类别：通识教育实践
+课程性质：必修
+学时学分：1周1学分
+考核
+    1、出勤
+    2、作业
+    3、实习报告
+成绩评定：五级制
+</code></pre>
+<p>作业、实习报告。独立完成。<br>
+<strong>注：考核不合格者重修</strong></p>
+<p>page4</p>
+<p>课程主要内容<br>
+<img src="https://q.aone.zone/post-images/1629691845741.jpg" alt="" loading="lazy"></p>
+<p>page5<br>
+<img src="https://q.aone.zone/post-images/1629691879293.jpg" alt="" loading="lazy"></p>
+<p>page6</p>
+<p>第一章 文献信息高i论<br>
+第一节<br>
+基本概念<br>
+意义</p>
+<p>page7<br>
+基本概念<br>
+1、信息<br>
+事务属性的再现。</p>
+<p>2、知识</p>
+<pre><code>人类在改造客观世界的实践中所获得的认识和经验的总和。
+</code></pre>
+<p>page8<br>
+3、文献</p>
+<pre><code>文献是记录有知识的一切载体。
+</code></pre>
+<p>page9</p>
+<p>文献四要素：</p>
+<ul>
+<li>知识内容</li>
+<li>信息符号</li>
+<li>载体材料</li>
+<li>记录方式<br>
+<img src="https://q.aone.zone/post-images/1629691918951.jpg" alt="" loading="lazy"></li>
+</ul>
+<p>page10</p>
+<p>文献的作用</p>
+<p>1、传播、继承人类知识<br>
+2、学习、接受教育的重要参考文献<br>
+3、创造经济效益</p>
+<p>page11</p>
+<p>4、文献检索</p>
+<p>信息检索</p>
+<ul>
+<li>文献检索</li>
+<li>数据检索</li>
+<li>事实检索<br>
+<img src="https://q.aone.zone/post-images/1629691935357.jpg" alt="" loading="lazy"></li>
+</ul>
+<p>page12</p>
+<p>二、文献检索的意义</p>
+<p>1、对于高校学生：</p>
+<ul>
+<li>提高信息素质</li>
+<li>培养创新能力</li>
+</ul>
+<p>page13<br>
+<img src="https://q.aone.zone/post-images/1629691953853.jpg" alt="" loading="lazy"></p>
+<p>page14</p>
+<p>3、对于管理者</p>
+<ul>
+<li>协助管理者正确决策</li>
+</ul>
+<p>page15</p>
+<p>4、对于图书情报单位</p>
+<ul>
+<li>促进藏书充分揭示和利用</li>
+<li>促进情报资料单位广泛协作、资源共享</li>
+</ul>
+<p>page16</p>
+<p>第二节 科技文献概况</p>
+<ul>
+<li>*科技文献</li>
+<li>*科技文献的类型</li>
+<li>*现代科技文献的特征</li>
+</ul>
+<p>page17</p>
+<p><strong>科技文献</strong></p>
+<p>page18</p>
+<p>科技文献的类型</p>
+<ul>
+<li>按载体形式划分</li>
+<li>按信息内容加工深度划分</li>
+<li>按内容与出版形式划分</li>
+</ul>
+<p>page19<br>
+1、手写型文献</p>
+<p><img src="https://q.aone.zone/post-images/1629691980388.jpg" alt="" loading="lazy"><br>
+page20</p>
+<p>2、印刷型文献<br>
+<img src="https://q.aone.zone/post-images/1629691991733.jpg" alt="" loading="lazy"><br>
+page21</p>
+<p>3、缩微型文献</p>
+<p><img src="https://q.aone.zone/post-images/1629692000637.jpg" alt="" loading="lazy"><br>
+page22</p>
+<p>4、电子型文献<br>
+<img src="https://q.aone.zone/post-images/1629692011671.jpg" alt="" loading="lazy"></p>
+<p>page23</p>
+<p>5、声像型文献<br>
+<img src="https://q.aone.zone/post-images/1629692021661.jpg" alt="" loading="lazy"></p>
+<p>page24</p>
+<p>(二)、按信息内容加工深度划分</p>
+<p><img src="https://q.aone.zone/post-images/1629692090447.jpg" alt="" loading="lazy"><br>
+page25</p>
+<p>（三）、按</p>
+<p>图书期刊报纸科技报告<br>
+会议文献专利文献标准文献<br>
+学位论文政府出版物<br>
+产品资料科技档案</p>
+<p>page26</p>
+<p>图书(BOOK)<br>
+由正规出版社正式出版的出版<br>
+物,对已有的研究成果或经验<br>
+作概括论述<br>
+特点:</p>
+<ul>
+<li>系统、全面、成熟、可靠、时效性差<br>
+48页以上</li>
+</ul>
+<p>page27<br>
+<img src="https://q.aone.zone/post-images/1629692098136.jpg" alt="" loading="lazy"></p>
+<p>page28<br>
+<img src="https://q.aone.zone/post-images/1629692118369.jpg" alt="" loading="lazy"></p>
+<p>page29<br>
+<img src="https://q.aone.zone/post-images/1629692125678.jpg" alt="" loading="lazy"></p>
+<p>page30</p>
+<p>期刊( Journal)<br>
+期刊也称杂志,是&quot;一种以印刷形式或其他形式逐次刊行的,通常有数字或年月顺序编号,并打算无限期地连续出版下去的出版物</p>
+<p>page31<br>
+<img src="https://q.aone.zone/post-images/1629692136632.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629692142983.jpg" alt="" loading="lazy"></p>
+<p>page32</p>
+<p><img src="https://q.aone.zone/post-images/1629692156608.jpg" alt="" loading="lazy"><br>
+2、内容特征<br>
+(1)内容新颖,能及时反映最新研究成果和动态。<br>
+(2)信息量大,发行与流通面广,便于获取<br>
+(3)按期连续岀版,便于研究者长期跟踪研究</p>
+<p>page33<br>
+科技报告(Sci- Tech Report)</p>
+<ul>
+<li>科技报告是指某项科研成果的立项报告、中试报告、中期阶段性报告、结题报告,或鉴定报告,是关于某项研究的阶段性进展总结报告或研究成果的正式报告<br>
+特点：</li>
+<li>一般不是正式出版物,每件报告单独成册,有机构名称和统一的编号。</li>
+<li>内容新颖、详尽、专深。</li>
+<li>传递情报速度快。</li>
+</ul>
+<p>page34</p>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1629692701837.jpg" alt="" loading="lazy"></figure>
+<p>page35</p>
+<p>专利文献( Patent Literature)：</p>
+<p>专利是专利制度的产物,广义上是指所有与专利有关的资料。狭义上的专利文献仅指专利说明书。<br>
+特点：<br>
+1)内容丰富,涉及的技术领域广泛<br>
+2)内容新颖、可靠、实用<br>
+3)保守性<br>
+4)报道速度快</p>
+<p>page36</p>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1629692691827.jpg" alt="" loading="lazy"></figure>
+<p>发明专利20年<br>
+实用新型专利10年<br>
+外观设计专利10年</p>
+<p>page37</p>
+<p>会议文献( conference paper)</p>
+<p>在各种学术会议上交流的学术论文。会前文献:会议论文预印本、会议论文摘要会后文献:是会后经整理出版的文献,如会议录( Proceedings)、会议论文集( Sym posium)、会议论文汇编( Transactions)<br>
+会议丛刊、丛书<br>
+特点：</p>
+<ul>
+<li>内容新颖、专业性和针对性强,传递信息迅速,能及时反映科学技术中的新发现、新成果、新成就以及学科发展趋向。识别会议文献的主要依据:会议名称、会址、会期、主办单位、会议录出版单位。</li>
+</ul>
+<p>page38</p>
+<p>标准文献( Standard Literature)：<br>
+标准又称为规范<br>
+1)形式特征<br>
+标准编号(标准号)是由&quot;标准代号+顺序号+年代号”组成。<br>
+2)内容特征<br>
+(1)法律约束力<br>
+(2)时间性强<br>
+<img src="https://q.aone.zone/post-images/1629692674503.jpg" alt="" loading="lazy"></p>
+<p>page39</p>
+<p><strong>标准的类型</strong><br>
+(1)按照使用范围划分<br>
+国际标准——ISO<br>
+区域标准——CN欧洲<br>
+国家标准——GB、ANSI<br>
+专业标准(部颁标准)——<br>
+企业标准——Q~<br>
+(2)按照内容特点划分<br>
+①方法标准<br>
+GB183525-2013<br>
+男溪车污染物排放限值及测<br>
+②术语标准<br>
+GB/T114642013<br>
+电子测量仪器术语</p>
+<p>page40<br>
+<img src="https://q.aone.zone/post-images/1629692645922.jpg" alt="" loading="lazy"></p>
+<p>page41</p>
+<p>识别学位论文的主要依据:学位名称、导师姓名、学位授予机构<br>
+收集与利用不如其它类型的文献方便。</p>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1629692619796.jpg" alt="" loading="lazy"></figure>
+<p>page42</p>
+<p>政府出版物( Government Publication)<br>
+政府出版物是指政府部门及其所属机构<br>
+所颁发出版的文献。<br>
+1)用途<br>
+)用途<br>
+政府出版物对于了解某国的科技经济等<br>
+方面的政策和事件有一定参考价<br>
+值<br>
+2)类型<br>
+(1)行政性文件<br>
+(2)科技文件<br>
+3)特点:内容范围广泛;具有权威性;<br>
+H<br>
+让不易隹</p>
+<p>page43</p>
+<p>产品样本资料( products samples)<br>
+产品样本资料是指厂商或贸易机构为宜传和推销其产品而印发的免费赠给消费者的资料。<br>
+特点：反映的技术比较成熟,数据也较为可靠,内容具体、通俗易懂,常附较多的外观照片<br>
+和结构简图,形象、直观。但产品样本的时间性强,使用寿命较短,且多不提供详细数<br>
+据和理论依据。<br>
+用途:1、作为技术人员设计、制造新产品的一种有价值的参考资料。<br>
+、了解各厂商出厂产品现状、掌握产品市场情况及发展动向。</p>
+<p>page44</p>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1629692523862.jpg" alt="" loading="lazy"></figure>
+<p>page45</p>
+<p>报纸<br>
+<img src="https://q.aone.zone/post-images/1629692452934.jpg" alt="" loading="lazy"></p>
+<p>page46</p>
+<p>三、现代科技文献特征<br>
+1、文献数量激增<br>
+2、出版形式多样化<br>
+3、使用的语种多样化<br>
+4、文献出版日益分散<br>
+5、文献内容交叉重复<br>
+6、新陈代谢加速</p>
+<p>下午慕课学习</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《python 语言程序设计》课程笔记 4]]></title>
+        <id>https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-4/</id>
+        <link href="https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-4/">
+        </link>
+        <updated>2021-08-20T17:35:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>第4周】程序的控制结构</strong></p>
+<p>#第4周课程导学</p>
+<p>##前课复习</p>
+<p>Python基本语法元素</p>
+<pre><code>缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print()格式化
+</code></pre>
+<p>Python基本图形绘制</p>
+<pre><code>从计算机技术演进角度看待 Python语言
+海龟绘图体系及 import保留字用法
+penup()、 pendown()、 pensize()、 pencolor()
+fd()、 circle()、seth()
+循环语句:for和in、 range()函数
+</code></pre>
+<p>第3章基本数据类型</p>
+<pre><code>数据类型：整数、浮点数、复数
+数据类型运算操作符、运算函数
+字符串类型：表示、索引、切片
+字符串操作符、处理函数、处理方法、 format0格式化
+time库:time()、 strftime()、 strptime()、 sleep()等
+</code></pre>
+<p>33个保留字</p>
+<p>and<br>
+as<br>
+assert<br>
+break<br>
+class<br>
+continue<br>
+def<br>
+elif<br>
+else<br>
+except<br>
+finally<br>
+for<br>
+from<br>
+if<br>
+import<br>
+in<br>
+is<br>
+lambda<br>
+not<br>
+or<br>
+pass<br>
+raise<br>
+return<br>
+try<br>
+while<br>
+with<br>
+yield<br>
+del<br>
+gobal<br>
+nonlocal<br>
+True<br>
+False<br>
+None</p>
+<p><img src="https://q.aone.zone/post-images/1629571775212.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629571792764.jpg" alt="" loading="lazy"></p>
+<p>##本课概要</p>
+<p>第4章 程序的控制结构</p>
+<pre><code>4.1 程序的分支结构
+4.2 实例5：身体质量指数BMI
+4.3 程序的循环结构
+4.4 模块3：random库的使用
+4.5 实例6：圆周率的计算
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629572067865.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629572072308.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629572077294.jpg" alt="" loading="lazy"></p>
+<p><strong>方法论</strong></p>
+<pre><code>Python程序的控制语法及结构
+</code></pre>
+<p><strong>实践能力</strong></p>
+<pre><code>学会编写带有条件判断及循环的程序
+</code></pre>
+<p>#4.1 程序的分支结构</p>
+<p>##单元开篇</p>
+<p>程序的控制结构</p>
+<pre><code>单分支结构
+二分支结构
+多分支结构
+条件判断及组合
+程序的异常处理
+</code></pre>
+<p>##单分支结构</p>
+<p><strong>分支结构</strong>：是根据判断条件结果而选择不同向前路径的运行方式。</p>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1629648860808.jpg" alt="" loading="lazy"></figure>
+<p><strong>单分支示例</strong></p>
+<pre><code>guess = eval(input())
+if guess == 99:
+    print(&quot;猜对了&quot;)
+</code></pre>
+<pre><code>if True:
+    print(&quot;条件正确&quot;)
+</code></pre>
+<p>##二分支结构</p>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1629649147683.jpg" alt="" loading="lazy"></figure>
+<p><strong>二分之示例</strong></p>
+<pre><code>guess = eval(input())
+if guess == 99:
+    print(&quot;猜对了&quot;)
+else:
+    print(&quot;猜错了&quot;)
+</code></pre>
+<pre><code>if True:
+    print(&quot;语句块1&quot;)
+else:
+    print(&quot;语句块2&quot;)
+</code></pre>
+<p>需要知道一种紧凑形式，他是仅适用于表达简单逻辑的二分支结构的一种紧凑方式。<br>
+<img src="https://q.aone.zone/post-images/1629649493534.jpg" alt="" loading="lazy"></p>
+<pre><code>guess = eval(input())
+print(&quot;猜{}了&quot;.format(&quot;对&quot; if guess ==99 else &quot;错&quot;))
+</code></pre>
+<p>紧凑形式注意表达式的使用</p>
+<p>##多分支结构</p>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1629649828075.jpg" alt="" loading="lazy"></figure>
+<p><strong>示例：对不同分数分级的问题</strong><br>
+错误示例</p>
+<pre><code>score = eval(input())
+if score &gt;= 90:
+    grade = &quot;A&quot;
+if score &gt;= 80:
+    grade = &quot;B&quot;
+if score &gt;= 70:
+    grade = &quot;C&quot;
+if score &gt;= 60:
+    grade = &quot;D&quot;
+print(&quot;输入成绩属于级别{}&quot;.format(grade))
+</code></pre>
+<p><strong>注意多条件之间的包含关系</strong><br>
+<strong>注意变量取值范围的覆盖</strong><br>
+正确示例</p>
+<pre><code>score = eval(input())
+if score &gt;= 60:
+    grade = &quot;D&quot;
+if score &gt;= 70:
+    grade = &quot;C&quot;
+if score &gt;= 80:
+    grade = &quot;B&quot;
+if score &gt;= 90:
+    grade = &quot;A&quot;
+print(&quot;输入成绩属于级别{}&quot;.format(grade))
+</code></pre>
+<p>视频中讲解有些矛盾<br>
+##条件判断及组合<br>
+<img src="https://q.aone.zone/post-images/1629650585663.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629650605261.jpg" alt="" loading="lazy"></p>
+<p>示例</p>
+<pre><code>guess = eval(input())
+if guess &gt; 99 or guess &lt; 99:
+    print(&quot;猜错了&quot;)
+else:
+    print(&quot;猜对了&quot;)
+</code></pre>
+<pre><code>if True :
+    print(&quot;语句块1&quot;)
+else:
+    print(&quot;语句块2&quot;)
+</code></pre>
+<p>##程序的异常处理</p>
+<pre><code>num eval(input(&quot;请输入一个整数：&quot;))
+print(num**2)
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629650917302.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629650960768.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1629651026062.jpg" alt="" loading="lazy"></figure>
+<p>示例-1</p>
+<pre><code>try :
+    num = eval(input(&quot;请输入一个整数：&quot;))
+    print(num**2)
+except :
+    print(&quot;输入不是整数&quot;)
+</code></pre>
+<p>示例-2</p>
+<pre><code>try :
+    num = eval(input(&quot;请输入一个整数：&quot;))
+    print(num**2)
+except NameError :
+    print(&quot;输入不是整数&quot;)
+</code></pre>
+<p>注意：标注异常类型后，仅响应该异常<br>
+异常类型名字等同于变量。</p>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1629651388597.jpg" alt="" loading="lazy"></figure>
+<p>##单元小结</p>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1629651462093.jpg" alt="" loading="lazy"></figure>
+<p>202108230058</p>
+<p>#4.2 实例5: 身体质量指数BMI</p>
+<p>##&quot;身体质量指数BMI&quot;问题分析</p>
+<p>##&quot;身体质量指数BMI&quot;实例讲解</p>
+<p>##&quot;身体质量指数BMI&quot;举一反三</p>
+<p>#4.3 程序的循环结构</p>
+<p>##单元开篇</p>
+<p>##遍历循环</p>
+<p>##无限循环</p>
+<p>##循环控制保留字</p>
+<p>##循环的高级用法</p>
+<p>##单元小结</p>
+<p>#4.4 模块3: random库的使用</p>
+<p>##random库基本介绍</p>
+<p>##基本随机数函数</p>
+<p>##扩展随机数函数</p>
+<p>#4.5 实例6: 圆周率的计算</p>
+<p>##&quot;圆周率的计算&quot;问题分析</p>
+<p>##&quot;圆周率的计算&quot;实例讲解</p>
+<p>##&quot;圆周率的计算&quot;举一反三</p>
+<p>#第4周作业及学习资料</p>
+<p>##练习与作业</p>
+<p>##4.0 第4周辅学内容</p>
+<p>##4.1 程序的分支结构</p>
+<p>##4.2 实例5: 身体质量指数BMI</p>
+<p>##4.3 程序的循环结构</p>
+<p>##4.4 模块3: random库的使用</p>
+<p>##4.5 实例6: 圆周率的计算</p>
+<p>##实例5: 身体质量指数BMI源代码</p>
+<p>##实例6: 圆周率的计算源代码</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【保存】]]></title>
+        <id>https://q.aone.zone/post/bao-cun/</id>
+        <link href="https://q.aone.zone/post/bao-cun/">
+        </link>
+        <updated>2021-08-15T15:21:38.000Z</updated>
+        <content type="html"><![CDATA[<p>Page 1 作者引导 - 关于收入<br>
+开宗明义，直奔主题，是我们的爱好（此处应有掌声）。</p>
+<p>我们祝愿每一位有志于创作的天才们都能获得良好的回报。</p>
+<p>不可能的世界有三种故事类型：原创小说、同人小说、短篇小说。</p>
+<p>对于短篇小说，网站将采取收费订阅制度，短篇小说每篇按长度自动设置为收费状态，并收取0.5-1.0元的价格。</p>
+<p>由于网站原创连载小说目前处于免费策略，原创小说将采取略为创新的“流量分成”+收费阅读模式，即：</p>
+<p>1、原创小说处于免费状态下的，从第四章起，由网站根据作品阅读的人数，自动产生收入回报，汇入作者钱包。</p>
+<p>2、原创作品完结后一定时间，小说进入订阅收费状态，以便出版，收入与作者进行分成。</p>
+<p>3、原创小说连载期内网站因特殊原因安排进入收费订阅状态的，流量分成停止，按作品订阅收入，与作者进行分成。</p>
+<p>流量分成是“不可能的世界”独创的体系，用以保障在网站前期，未开展收费模式时，创作者能够即便在免费模式下，亦可获得创作收入的保障模式。作品人气越高，流量分成越多，我们将保障在同等读者情况下，等同于订阅收入。</p>
+<p>此外：</p>
+<p>1、网站依然开设“打赏”及“全勤”等额外收入功能，但“全勤”奖励金额视作品收入自动按比例加成提升，人气越高，全勤收入提升比例加成越高。</p>
+<p>2、任何站外渠道分发阅读收益，将由系统自动与作者进行结算分成，并打入钱包。</p>
+<p>3、作品在完结后若干日内，自动进入全本付费阅读状态，以便出版。</p>
+<p>Page 2 作者引导 - 创作主旨<br>
+欢迎成为“不可能的世界” 的作者，这里的每一部作品都代表着一个与现实平行世界的诞生，你们创造着自已世界的爱恨与传奇，浪漫与梦想。</p>
+<p>这里提倡爱与梦想、勇气与浪漫、有趣与活力，提倡天马行空与众不同的构思，提倡风趣的网络风格并重视作品的营养价值。</p>
+<p>我们希望每一位读者在阅读完您的作品后，能为你巧妙的构思而惊叹，并从作品中汲取营养而成长。</p>
+<p>我们希望每位作者都抱着创作的梦想来到这里，认真的写出动人的故事，金钱是收获，而不是目的。</p>
+<p>浪漫情怀，瑰丽想象，不屈热血，人间百态，构成梦幻传奇。</p>
+<p>哦对，这是UP主横行、段子手活跃的网络时代，你若足够有趣更能引人好感。</p>
+<p>所以，这里不接受烂大街的“尊王狂霸灭神逆天”的标题和睚眦必报、狭隘偏激的价值观，亦不接受《霸道总裁(王爷)爱上我》这类的狗血言情，以及请不要使用用“香汗淋漓、娇喘吁吁”这种荷尔蒙剧情博眼球的行为。——这样的内容请不要怪我们心狠手黑。</p>
+<p>出于读者定位，不接受耽美文学或乡村文学、官场文学、伤痕文学，此类作品可能无法通过审核，在此致歉。</p>
+<p>这件事非常重要，非常重要，非常重要（重要的事说三遍），如果你发表了，可能会被退回。</p>
+<p>至于不接受耽美文学，一是法律不充许，请不要让我们为难。</p>
+<p>更重要的是，耽美的最高境界，是美而不耽，《全职高手》《盗墓笔记》是此中高手。</p>
+<p>男人青春的羁绊，才是最美的风景。</p>
+<p>Page 3 作者引导 - 写好小说的黄金建议13条<br>
+我们总结出了超实用的“黄金建议13条”，希望能对你有所帮助。</p>
+<p>1、网络小说的一个常见的、很大的问题就是，容易写崩。想到一个很有趣的开头就迫不急待的动笔，然后——然后就越写越崩，越写越离谱，生编硬造，越写越乱……最后读者都受不了，只能弃书。一个简单的技巧是，不管中间如何，除了想开头，也先想好结局。这样，写作的时候，中间的路径，都为了走到那个结局而去设计设置，就能很大程度上克服写崩的问题。</p>
+<p>2、不要强撑字数，那样容易为一本本来不错的作品，造成些许伤害。</p>
+<p>3、在思考要写什么故事之前，永远请先想想：“我要表达一种什么样的情绪、情怀？我要讲述一种怎样的成长和追求？人和人之间有怎样的羁绊？”，总结几个关键词，想好了再想故事。这种情绪会伴随着你的作品，会带来很清晰的风格。</p>
+<p>4、永远尽可能尝试以一个全新，最好是没人想过的创意或者角度，或是题材，作为基础设定展开一个故事。</p>
+<p>5、故事要有高潮，一小段一小段的小高潮，大节点的大高潮，像海浪一样，让故事充满吸引力。不要写着写着，光顾自已，缺乏起伏设计的故事容易让读者陷入无聊。</p>
+<p>6、尝试在一些关键节点上装个逼，读者会有惊喜：“我擦作者原来是有深度的！”比如：</p>
+<p>爱与被爱，是这个世界上最重要的事。</p>
+<p>每个吸血鬼死前，都想再看看阳光的样子。</p>
+<p>你最爱的人，你为他做了很多事，但他不知道，因为你觉得做这些事都是应该的，你忘记跟他说了。</p>
+<p>“投胎吧，我一定会找到你的，一定会找到你的……”</p>
+<p>武藏跪在地上，泣不成声。</p>
+<p>“这一次，我一定会遵守约定，记得你的脸……”</p>
+<p>宫本武藏，入魔。</p>
+<p>是不是瞬间高度就上去了？但切记不要装逼过度，除非你是王家卫。</p>
+<p>7、角色真实而柔软，每个角色都是有故事的，每个角色都是有情感的，人心总有一块地方是柔软的。坏人亦然，没有绝对的坏人，只有不为人知的过去。没有过去的角色，没有爱恨的角色，是苍白无聊的。</p>
+<p>8、写作的时候，尝试让自已的心柔软一些，想想珍惜的人、高兴的事、难忘的场景。尝试把情绪发挥到极致，无起落不成故事，无笑泪不成人生，感染你的读者吧。</p>
+<p>9、如果你不是很会煽情，那就让自已有趣一些，有趣得像个神经病一样可爱。</p>
+<p>10、释放对这个世界的善意，主角们哪怕是表面上的无所谓或玩世不恭，也从不放弃善意。让读者看完后，珍惜而温暖。</p>
+<p>11、有钱是一种挺有趣的设定，主角或配角有钱，对少年少女来说，会有一些新鲜有趣的体验和角度。但用钱划分三六九等的，会用钱打人脸的，再怎么美化，也只是暴发户而已，切记。</p>
+<p>12、当你迷茫的时候，深入的想一想你曾喜欢过的动漫作品，为什么年轻人都那么爱动漫，动漫在讲什么。</p>
+<p>13、你要是又会煽情，又会搞笑——你就太棒了！！我们会爱死你。</p>
+<p>以上黄金13条，全部做到，你将会写出经典流传的小说</p>
+<p>Page 4 作者引导 - 作品发表流程规则<br>
+这里将介绍最关键的“作品发表”及“作品推荐”流程。</p>
+<p>发表</p>
+<p>1、创建新作品、并填写作品基础信息及样章提交后，将进入审核流程，0.5-24小时内，确认是否通过审核。是否通过审核的标准是，作品介绍及样章，是否能让读者有期待阅读这本小说的兴趣，符合网站定位，以及不违反规则。所以请让介绍及样章精彩且符合网站定位。</p>
+<p>2、所有通过审核的作品，官方负责制作精美封面（短篇小说除外），三个工作日内完成（作者暂时不能自定义封面，但可以联系编辑提供自制封面要求替换，如自制封面精美，则将同意替换）。</p>
+<p>3、审核成功后，作者可以上传章节，撰写详细信息，设定角色资料。</p>
+<p>4、自作品章节发布起，作品正式开始进入网络连载，可被读者阅读，并开始产生收入。</p>
+<p>Page 5 作者引导 - 特色介绍<br>
+同人</p>
+<p>这里支持每部作品开放非商业同人创作，支持用户为作品创作插画、人设、音乐、视频、广播剧、COS，让读者的力量来让作品</p>
+<p>变得更加立体，拥有更多元的体验，也开始变得更加丰富——我们称之为“世界补完”。</p>
+<p>音频</p>
+<p>这里支持作者在小说里添加音频文件，你可以推荐用户在阅读你的作品时听最适合的音乐，在最感人的剧情处自带BGM，或是录</p>
+<p>一段对白表演一番，我们愿意为作者提供各种可能，把文字带入新的维度。</p>
+<p>吐槽</p>
+<p>这里支持用户在阅读时的吐槽，互动会让作品更加有趣纷呈。</p>
+<p>图片</p>
+<p>我们支持每部小说在发表章节内插入图片，图片将更有利于作者进行更丰富的表达、互动、情绪调动或场景展现。</p>
+<p>我们将不断推出新的有趣功能，用好每一项功能，会帮助作品走上更高成就。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《python 语言程序设计》课程笔记 3]]></title>
+        <id>https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-3/</id>
+        <link href="https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-3/">
+        </link>
+        <updated>2021-08-14T18:44:49.000Z</updated>
+        <content type="html"><![CDATA[<p>#【第3周】基本数据类型</p>
+<h2 id="第3周课程导学">第3周课程导学</h2>
+<h3 id="前课复习">前课复习</h3>
+<p>视频</p>
+<p><strong>Python基本语法元素</strong></p>
+<pre><code>缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print()格式化
+</code></pre>
+<p><strong>Python基本图形绘制</strong></p>
+<pre><code>从计算机技术演进角度看待 Python语言
+海龟绘图体系及import保留字用法
+penup()、 pendown()、 pensize()、 pencolor()
+fd()、 circle()、seth()
+循环语句：for和in、range()函数
+</code></pre>
+<p><strong>保留字</strong></p>
+<pre><code>and as assert break class continue def elif else except finally for from
+if import in is lambda not or pass rasie return try while with yield del
+global nonlocal
+True Flase None
+</code></pre>
+<p><strong>“”温度转换“”代码</strong></p>
+<pre><code>#TempConvert.py
+TempStr = input(&quot;请输入带有符号的温度值：&quot;)
+if TempStr[-1] in [&quot;F&quot;,&quot;f&quot;]:
+    C = (eval(TempStr[0:-1]) - 32)/1.8
+    print(&quot;转换后的温度是{:.2f}C&quot;.format(C))    
+elif TempStr[-1] in [&quot;C&quot;,&quot;c&quot;]:
+    F = 1.8*eval(TempStr[0:-1])+32
+    print(&quot;转换后的温度是{:.2f}F&quot;.format(F))
+else:
+    print(&quot;输入格式错误&quot;)
+</code></pre>
+<p><strong>蟒蛇绘制</strong></p>
+<pre><code>#PythonDraw.py
+import turtle
+turtle.setup(900,900,200,200)
+turtle.penup()
+trtle.fd(-250)
+turtle.pendown()
+turtle.pensize(25)
+turtle.pencolor(&quot;red&quot;)
+turtle.seth(-40)
+for i in range(4):
+    turtle.circle(40,80)
+    turtle.circle(-40,80)
+turtle.circle(40,80/2)
+turtle.fd(40)
+turtle.circle(16,100)
+turtle.fd(40*2/3)
+turtle.done()
+</code></pre>
+<h3 id="本课概要">本课概要</h3>
+<p>视频</p>
+<p>第3章基本数据类型</p>
+<pre><code>3.1数字类型及操作
+3.2实例3:天天向上的力量
+33字符串类型及操作
+3.4模块2:time库的使用
+3.5实例4:文本进度条
+</code></pre>
+<p>方法论</p>
+<pre><code>Python语言数字及字符串类型
+</code></pre>
+<p>实践能力</p>
+<pre><code>初步学会编程进行字符类操作
+</code></pre>
+<h2 id="31-数字类型及操作">3.1 数字类型及操作</h2>
+<h3 id="单元开篇">单元开篇</h3>
+<p>数字类型及操作</p>
+<pre><code>整数类型
+浮点数类型
+复数类型    
+数值运算操作符
+数值运算函数
+</code></pre>
+<h3 id="整数类型">整数类型</h3>
+<p>整数类型</p>
+<p><strong>与数学中整数的概念一致</strong></p>
+<pre><code>可正可负，没有取值范围限制
+pow(xy)函数：计算X的Y次方，想算多大算多大
+</code></pre>
+<p>pow(2,100)<br>
+pow(2,pow(2,15))</p>
+<p>整数类型</p>
+<p><strong>4种进制表示形式</strong></p>
+<pre><code>十进制：1010，99，-217
+二进制：以0b或0B开头：0b010，-0B101
+八进制：以0o或0O开头：0o010，-0O456
+十六进制：以0x或0X开头：0x9a,-0X89
+</code></pre>
+<h3 id="浮点数类型">浮点数类型</h3>
+<p>浮点类型</p>
+<p><strong>与数学中实数的概念一致</strong></p>
+<pre><code>带有小数点及小数的数字
+浮点数取值范围和小数精度都存在限制,但常规计算可忽略
+取值范围数量级约-10的308次方至10308次方,精度数量级10的-16次方
+</code></pre>
+<p>浮点数类型</p>
+<p><strong>浮点数间运算存在不确定尾数,不是bug</strong></p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>0.1+0.3<br>
+0.4</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>0.1+0.2<br>
+0.300000000000004<br>
+不确定尾数<br>
+53位二进制表示小数部分<br>
+二进制表示小数，可以无限接近，但不完全相同<br>
+结果无限接近，但可能存在尾数。</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>0.1+0.2==0.3<br>
+False</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>round(0.1+0.2,1)==0.3<br>
+True</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>round(x,d)：对x四舍五入，d是小数截取位数<br>
+浮点数间运算及比较用 round()函数辅助<br>
+不确定尾数一般发生在10的-16次方左右, round（）十分有效</p>
+<p>浮点数可以采用科学计数法表示</p>
+<pre><code>使用字母e或E作为幂的符号,以10为基数,格式如下
+&lt;a&gt;e&lt;b&gt; 表示a*10的b次方
+例如：4.3e-3值为00043    9.6E5值为9600000.0
+</code></pre>
+<p>浮点类型</p>
+<pre><code>关于 Python浮点数,需要知道多些
+取值范围和精度基本无限制
+运算存在不确定尾数 round()
+科学计数法表示
+</code></pre>
+<h3 id="复数类型">复数类型</h3>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1629135797645.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1629135853028.jpg" alt="" loading="lazy"></figure>
+<p>进行空间变换复变函数</p>
+<h3 id="数值运算操作符">数值运算操作符</h3>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1629136003374.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1629136065443.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1629136224657.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1629136477475.jpg" alt="" loading="lazy"></figure>
+<h3 id="数值运算函数">数值运算函数</h3>
+<figure data-type="image" tabindex="7"><img src="https://q.aone.zone/post-images/1629136661527.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://q.aone.zone/post-images/1629137032348.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://q.aone.zone/post-images/1629137105854.jpg" alt="" loading="lazy"></figure>
+<h3 id="单元小结">单元小结</h3>
+<figure data-type="image" tabindex="10"><img src="https://q.aone.zone/post-images/1629137212643.jpg" alt="" loading="lazy"></figure>
+<h2 id="32-实例3-天天向上的力量">3.2 实例3: 天天向上的力量</h2>
+<h3 id="天天向上的力量问题分析">&quot;天天向上的力量&quot;问题分析</h3>
+<figure data-type="image" tabindex="11"><img src="https://q.aone.zone/post-images/1629219415245.jpg" alt="" loading="lazy"></figure>
+<p>需求分析<br>
+天天向上的力量</p>
+<pre><code>数学公式可以求解,似乎没必要用程序
+如果是&quot;三天打鱼两天晒网&quot;呢?
+如果是双休日又不退步呢?
+</code></pre>
+<h3 id="天天向上的力量第一问">&quot;天天向上的力量&quot;第一问</h3>
+<figure data-type="image" tabindex="12"><img src="https://q.aone.zone/post-images/1629219605257.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://q.aone.zone/post-images/1629219855611.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayupQ1.py
+dayup = pow(1.001,365)
+daydown =pow(0.999,365)
+print(&quot;向上：{;;.2f},向下：{:.2f}&quot;.format(dayup,daydown))
+</code></pre>
+<figure data-type="image" tabindex="14"><img src="https://q.aone.zone/post-images/1629219891423.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量第二问">&quot;天天向上的力量&quot;第二问</h3>
+<figure data-type="image" tabindex="15"><img src="https://q.aone.zone/post-images/1629220078634.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="https://q.aone.zone/post-images/1629220424892.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayUpQ2.py
+dayfactor = 0.005
+dayup = pow(1+dayfactor,365)
+daydown = pow(1-dayfactor,356)
+print(&quot;向上:{:.2f}，向下:{:.2f}&quot;.format(dayup,daydown))
+</code></pre>
+<figure data-type="image" tabindex="17"><img src="https://q.aone.zone/post-images/1629220510397.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量第三问">&quot;天天向上的力量&quot;第三问</h3>
+<figure data-type="image" tabindex="18"><img src="https://q.aone.zone/post-images/1629220796699.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="19"><img src="https://q.aone.zone/post-images/1629221228466.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayUpQ3.py
+dayup =1.0
+dayfactor = 0.01
+for i in range (365):
+    if i % 7 in [6,0]:
+        dayup = dayup*(1-dayfactor)
+    else:
+    dayup = dayup*(1+dayfactor)
+print(&quot;工作日的力量:{:.2f}&quot;.format(dayup))
+</code></pre>
+<figure data-type="image" tabindex="20"><img src="https://q.aone.zone/post-images/1629221321405.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量第四问">&quot;天天向上的力量&quot;第四问</h3>
+<figure data-type="image" tabindex="21"><img src="https://q.aone.zone/post-images/1629221705424.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="22"><img src="https://q.aone.zone/post-images/1629221795158.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="23"><img src="https://q.aone.zone/post-images/1629221956471.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="24"><img src="https://q.aone.zone/post-images/1629222071953.jpg" alt="" loading="lazy"></figure>
+<pre><code>#DayDayUpQ4.py
+def dayup(df):
+    dayup = 1
+    for i in range (365):
+        if i % 7 in [6,0]:
+            dayup = dayup*(1-0.01)
+        else:
+            dayup = dayup*(1+df)
+    return dayup
+dayfactor = 0.01
+while dayup(dayfactor) &lt; 37.78 :
+    dayfactor += 0.001
+print(&quot;工作日的努力参数是:{:.3f}&quot;.format(dayfactor))
+
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629222516111.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629222562563.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="25"><img src="https://q.aone.zone/post-images/1629222616769.jpg" alt="" loading="lazy"></figure>
+<h3 id="天天向上的力量举一反三">&quot;天天向上的力量&quot;举一反三</h3>
+<figure data-type="image" tabindex="26"><img src="https://q.aone.zone/post-images/1629222855824.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="27"><img src="https://q.aone.zone/post-images/1629222893829.jpg" alt="" loading="lazy"></figure>
+<p>举一反三<br>
+天天向上的力量</p>
+<pre><code>实例虽然仅包含8-12行代码,但包含很多语法元素
+判断条件循环、次数循环、分支、函数、计算思维
+清楚理解这些代码能够快速入门 Python语言
+</code></pre>
+<p>问题的变化和扩展</p>
+<pre><code>工作日模式中,如果休息日不下降呢?
+如果努力每天提高1%,休息时每天下降1%呢?
+如果工作3天休息1天呢?
+&quot;三天打鱼,两天晒网&quot;呢?
+&quot;多一份努力&quot;呢?(努力比下降多一点儿
+多一点懈怠&quot;呢?(下降比努力多一点儿)
+</code></pre>
+<h2 id="33-字符串类型及操作">3.3 字符串类型及操作</h2>
+<h3 id="单元开篇-2">单元开篇</h3>
+<p>字符串类型及操作</p>
+<pre><code>字符串类型的表示
+字符串操作符
+字符串处理函数
+字符串处理方法
+字符串类型的格式化
+</code></pre>
+<h3 id="字符串类型的表示">字符串类型的表示</h3>
+<figure data-type="image" tabindex="28"><img src="https://q.aone.zone/post-images/1629313867620.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="29"><img src="https://q.aone.zone/post-images/1629313913893.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="30"><img src="https://q.aone.zone/post-images/1629314010130.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="31"><img src="https://q.aone.zone/post-images/1629314062662.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="32"><img src="https://q.aone.zone/post-images/1629314102638.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="33"><img src="https://q.aone.zone/post-images/1629314166391.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="34"><img src="https://q.aone.zone/post-images/1629314197998.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="35"><img src="https://q.aone.zone/post-images/1629314263160.jpg" alt="" loading="lazy"></figure>
+<h3 id="字符串操作符">字符串操作符</h3>
+<p><img src="https://q.aone.zone/post-images/1629314341973.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314374336.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314418984.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314474296.jpg" alt="" loading="lazy"></p>
+<h3 id="字符串处理函数">字符串处理函数</h3>
+<p><img src="https://q.aone.zone/post-images/1629314568871.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314606155.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314708566.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314750824.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314794700.jpg" alt="" loading="lazy"></p>
+<h3 id="字符串处理方法">字符串处理方法</h3>
+<p><img src="https://q.aone.zone/post-images/1629314861917.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629314960092.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629315019251.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629315056418.jpg" alt="" loading="lazy"></p>
+<h3 id="字符串类型的格式化">字符串类型的格式化</h3>
+<p>字符串类型的格式化</p>
+<p>格式化是对字符串进行格式表达的方式<br>
+-字符串格式化使用 .format() 方法，用法如下：</p>
+<pre><code>&lt;模板字符串&gt;.format(&lt;逗号分隔的参数&gt;)
+</code></pre>
+<p>槽<br>
+<img src="https://q.aone.zone/post-images/1629388704800.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629388763336.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629388900434.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389189547.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389280082.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389377043.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629389550169.jpg" alt="" loading="lazy"><br>
+整数</p>
+<pre><code>b 二进制格式
+c 字符形式，Unicode的编码形式、
+d十进制
+o八进制
+x十六进制
+X大写的十六进制
+</code></pre>
+<p>浮点数<br>
+e小写科学计数法<br>
+E大写科学计数法<br>
+f非科学计数法形式表示浮点数<br>
+%百分数形式表示浮点数</p>
+<p>英文半角</p>
+<h3 id="单元小结-2">单元小结</h3>
+<figure data-type="image" tabindex="36"><img src="https://q.aone.zone/post-images/1629315203347.jpg" alt="" loading="lazy"></figure>
+<h2 id="34-模块2-time库的使用">3.4 模块2: time库的使用</h2>
+<h3 id="单元开篇-3">单元开篇</h3>
+<p>time库的使用</p>
+<pre><code>time库基本介绍
+时间获取
+时间格式化
+程序计时应用
+</code></pre>
+<h3 id="time库基本介绍">time库基本介绍</h3>
+<p>time库的使用</p>
+<p><strong>time库是Python中处理时间的标准库</strong></p>
+<pre><code>计算时间的表达
+提供获取系统时间并格式化输出功能
+提供系统级精确计时功能，用于程序性能分析
+</code></pre>
+<pre><code>import time
+time.&lt;b&gt;()
+</code></pre>
+<p><strong>time库包括三类函数</strong></p>
+<p>时间获取：time()  ctime()  gmtime()<br>
+时间格式化：strftime()  strptime()<br>
+程序计时：sleep()  perf_couter()</p>
+<h3 id="时间获取">时间获取</h3>
+<p>time()  ctime()  gmtime()</p>
+<p><img src="https://q.aone.zone/post-images/1629393661507.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629393739176.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629393840839.gif" alt="" loading="lazy"></p>
+<h3 id="时间格式化">时间格式化</h3>
+<p>strftime()  strptime()</p>
+<p><strong>将时间以和隔离的方式展示出来</strong></p>
+<pre><code>格式化：类似字符串格式化吧，需要有展示模板
+展示模板由特定的格式化控制符组成
+strftime()方法
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629394061946.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394363857.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394435808.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394608601.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394643304.jpg" alt="" loading="lazy"></p>
+<h3 id="程序计时应用">程序计时应用</h3>
+<p>sleep()  perf_couter()</p>
+<p>程序计时<br>
+<strong>程序计时应用广泛</strong></p>
+<pre><code>程序计时指测量起止所经历时间的过程
+测量时间：perf_counter()
+产生时间：sleep()
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629394865841.jpg" alt="" loading="lazy"><br>
+<img src="https://q.aone.zone/post-images/1629394941415.jpg" alt="" loading="lazy"></p>
+<h3 id="单元小结-3">单元小结</h3>
+<p><strong>time库的使用</strong></p>
+<pre><code>时间获取：time()、ctime()、gmtime()
+时间格式化：strftimr()、strptime()
+程序计时：perf_counter()、sleep()
+</code></pre>
+<p>202108200146</p>
+<h2 id="35-实例4-文本进度条">3.5 实例4: 文本进度条</h2>
+<h3 id="文本进度条问题分析">&quot;文本进度条&quot;问题分析</h3>
+<p>需求分析</p>
+<p><strong>文本进度条</strong></p>
+<pre><code>采用字符串方式打印可以动态变化的文本进度条
+进度条需要能在一行中逐渐变化
+</code></pre>
+<p>问题分析</p>
+<p><strong>如何获得文本进度条的变化时间？</strong></p>
+<pre><code>采用sleep()模拟一个持续的进度。
+似乎不那么难。
+</code></pre>
+<h3 id="文本进度条简单的开始">&quot;文本进度条&quot;简单的开始</h3>
+<p>简单的开始</p>
+<pre><code>#TextProBarV1.py
+import time 
+scale = 10
+print(&quot;------执行开始------&quot;)
+for i in range (scale+1):
+    a = '*' * i
+    b = '.' * (scale - i)
+    c = (i/scale)*100
+    print(&quot;{:^3.0f}%[{}-&gt;{}]&quot;.format(c,a,b))
+    time.sleep(0.1)
+print(&quot;-----执行结束------&quot;)
+
+</code></pre>
+<p><img src="https://q.aone.zone/post-images/1629477644899.jpg" alt="" loading="lazy"><br>
+tips：字符串与整数的乘积，表示字符串被复制的次数。</p>
+<h3 id="文本进度条单行动态刷新">&quot;文本进度条&quot;单行动态刷新</h3>
+<p>单行动态刷新<br>
+<strong>刷新的关键是</strong></p>
+<pre><code>\r 
+</code></pre>
+<pre><code>刷新的本质是：用后打印的字符肤感之前的字符。
+不能换行：print()需要被控制。
+要能回退：打印完后光标退回到之前的位置 \r
+</code></pre>
+<pre><code>#TextProBarV2/py
+import time 
+for i in range(101):
+    print(&quot;\r{:3}%&quot;.format(i),end=&quot;&quot;)
+    time.sleep(0.1)
+</code></pre>
+<p>end=&quot;&quot;<br>
+一个参数，可加入一些信息<br>
+<img src="https://q.aone.zone/post-images/1629478855159.jpg" alt="" loading="lazy"></p>
+<h3 id="文本进度条实例完整效果">&quot;文本进度条&quot;实例完整效果</h3>
+<pre><code>#TextProBarV3.py
+import time
+scale = 50
+print(&quot;执行开始&quot;.center(scale//2,&quot;-&quot;))
+start = time.perf_counter()
+for i in range(scale+1):
+    a = &quot;*&quot; * i
+    b = &quot;.&quot; * (scale-i)
+    c = (i/scale)*100
+    dur = time.perf_counter() -start
+    print(&quot;\r{:^3.0f}%[{}-&gt;{}]{:.2f}s&quot;.format(c,a,b,dur),end = '')
+    time.sleep(0.1)
+print(&quot;\n&quot;+&quot;执行结束&quot;.center(scale//2,'-'))
+</code></pre>
+<h3 id="文本进度条举一反三">&quot;文本进度条&quot;举一反三</h3>
+<p>举一反三<br>
+<strong>计算问题扩展</strong></p>
+<pre><code>文本进度条程序使用了perf_counter()计时
+计时方法适合各类需要统计时间的计算问题
+例如：比较不同算法时间 、统计部分程序运行时间
+</code></pre>
+<p><strong>进度条扩展</strong></p>
+<pre><code>在任何运行时间需要较长的程序中增加进度条
+在任何希望提高用户体验的应用中增加进度条
+进度条是人机交互的纽带之一
+</code></pre>
+<figure data-type="image" tabindex="37"><img src="https://q.aone.zone/post-images/1629480512314.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="38"><img src="https://q.aone.zone/post-images/1629480615606.jpg" alt="" loading="lazy"></figure>
+<p>Tips：在下载时的交互，展示进度与实际进度，灵活调节。结论是先快后慢更符合人的喜好。</p>
+<h2 id="第3周作业及学习资料">第3周作业及学习资料</h2>
+<h3 id="第3周练习与作业">第3周练习与作业</h3>
+<p><strong>练习（可选）</strong></p>
+<pre><code>5道编程题 @python123
+</code></pre>
+<p><strong>作业</strong></p>
+<pre><code>15道单选题 @python1234
+</code></pre>
+<h3 id="30-第3周课程导学">3.0  第3周课程导学</h3>
+<p>已下载</p>
+<h3 id="31-数字类型及操作-2">3.1  数字类型及操作</h3>
+<p>已下载</p>
+<h3 id="32-实例3-天天向上的力量-2">3.2 实例3: 天天向上的力量</h3>
+<p>已下载</p>
+<h3 id="33-字符串类型及操作-2">3.3 字符串类型及操作</h3>
+<p>已下载</p>
+<h3 id="34-模块2-time库的使用-2">3.4 模块2: time库的使用</h3>
+<p>已下载</p>
+<h3 id="35-实例4-文本进度条-2">3.5 实例4: 文本进度条</h3>
+<p>已下载</p>
+<h3 id="实例3-天天向上的力量源代码">实例3: 天天向上的力量源代码</h3>
+<p>已下载</p>
+<h3 id="实例4-文本进度条源代码">实例4: 文本进度条源代码</h3>
+<p>已下载</p>
+<p>202108210134</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《python 语言程序设计》课程笔记 2]]></title>
+        <id>https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-2/</id>
+        <link href="https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-2/">
+        </link>
+        <updated>2021-08-11T16:44:07.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="python基本图形绘制">Python基本图形绘制</h1>
+<h2 id="第2周课程导学">第2周课程导学</h2>
+<h3 id="前课复习">前课复习</h3>
+<p>Python基本语法元素</p>
+<pre><code>缩进、注释、命名、变量、保留字
+数据类型、字符串、整数、浮点数、列表    
+赋值语句、分支语句、函数
+input()、 print()、eval()、 print()格式化
+</code></pre>
+<p>保留字</p>
+<pre><code>and as assert break class continue def 
+elif else except finally for from if  
+import in is lambda not or pass 
+raise return try while with yield del 
+global nonlocal 
+True Flase None
+</code></pre>
+<pre><code>#TempCovert.py
+TempStr = input()
+if TempStr[-1] in ['F','f']:
+    C = (eval(TempStr[0:-1]) - 32)/1.8
+    print(&quot;{:.2f}C&quot;.format(C))
+elif TempStr[-1] in ['C','c']:
+    F = 1.8*eval(TempStr[0:-1]) + 32
+    print(&quot;{:.2f}F&quot;.format(F))
+else:
+    print()
+</code></pre>
+<h3 id="本课概要">本课概要</h3>
+<p>第2章 Python基本图形绘制</p>
+<pre><code>2.1深入理解 Python语言
+2.2实例2: Python蟒蛇绘制
+2.3模块1: turtle库的使用
+2.4 turtle程序语法元素分析
+</code></pre>
+<p>第2章 Python基本图形绘制</p>
+<pre><code>    方法论
+Python语言及海龟绘图体系
+    实践能力
+初步学会使用 Python绘制简单图形
+</code></pre>
+<h2 id="21-深入理解python语言">2.1 深入理解Python语言</h2>
+<h3 id="单元开篇">单元开篇</h3>
+<p>深入理解 Python语言</p>
+<pre><code>计算机技术的演进
+编程语言的多样初心
+Python语言的特点
+&quot;超级语言&quot;的诞生
+</code></pre>
+<h3 id="计算机技术的演进">计算机技术的演进</h3>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1628792099682.jpg" alt="" loading="lazy"></figure>
+<p>计算机技术的演进过程</p>
+<pre><code>2017 人工智能时代 人类的问题
+2008-2016 复杂信息系统时代 数据问题
+1981-2008 网络和视窗时代 交互问题
+1946-1981计算机系统结构时代 计算能力问题
+</code></pre>
+<h3 id="编程语言的多样初心">编程语言的多样初心</h3>
+<p>编程语言有哪些：</p>
+<pre><code>Basic, Cc++,C#, CSs, Fortran Go, HTML Java
+JavaScript, Lisp, Lua, Matlab, Object C, Pascal, Perl, PHP,
+PostScript, Python, Ruby, Scala, SQL, Swift, VBA,
+VB. NET, Verilog, VHDL, Visual Basic
+</code></pre>
+<p>编程语言,也是一个江湖</p>
+<p>不同编程语言的初心和适用对象<br>
+C</p>
+<pre><code>学习内容：指针、内存、数据类型
+语言本质：理解计算机系统结构
+解决问题：性能
+适用对象：计算机类专业
+</code></pre>
+<p>Java</p>
+<pre><code>学习内容：对象、跨平台、运行时
+语言本质：理解主客体关系
+解决问题：跨平台
+适用对象：软件类专业
+</code></pre>
+<p>C++</p>
+<pre><code>学习内容：对象、多态、继承
+语言本质：理解主客体关系
+解决问题：大规模程序
+适用对象：计算机类专业
+</code></pre>
+<p>VB</p>
+<pre><code>学习内容：对象、按钮、文本框
+语言本质：理解交互逻辑
+解决问题：桌面应用
+适用对象：不确定
+</code></pre>
+<p>Python</p>
+<pre><code>学习内容：编程逻辑、第三方库
+语言本质：理解问题求解
+解决问题：各类问题
+适用对象：所有专业
+</code></pre>
+<p>2018年以后的计算环境</p>
+<pre><code>计算机性能不再是解决一般问题的瓶颈
+移动互联网广泛普及
+大数据、云计算、物联网、信息安全、人工智能等需求爆发
+</code></pre>
+<h3 id="python语言的特点">Python语言的特点</h3>
+<p>深入理解 Python语言</p>
+<pre><code>Python语言是通用语言
+Python语言是脚本语言
+Python语言是开源语言
+Python语言是跨平台语言
+Python语言是多模型语言
+guido van rossum- Python语言创立者
+</code></pre>
+<p>Python特点与优势</p>
+<pre><code>    语法简洁
+C代码量的10%
+强制可读性
+较少的底层语法元素
+多种编程方式
+支持中文字符
+    生态高产
+13万第三方库
+快速增长的计算生态
+避免重复造轮子
+开放共享
+跨操作系统平台
+</code></pre>
+<p>如何看待Python语言</p>
+<pre><code>    人生苦短，我学Python
+C/C++: Python归Python, C归C
+Java:针对特定开发和岗位需求
+HTML/CSS/S:不可替代的前端技术,全栈能力
+其他语言：R/Go/Matlab等，特定领域
+</code></pre>
+<p>Python是最高产的程序设计语言及</p>
+<pre><code>掌握抽象并求解计算问题综合能力的语言
+了解产业界解决复杂计算问题方法的语言
+享受利用编程将创新变为实现乐趣的语言
+</code></pre>
+<p>工具决定思维：关注工具变革的力量！</p>
+<h3 id="超级语言的诞生">&quot;超级语言&quot;的诞生</h3>
+<p>编程语言的种类</p>
+<p>机器语言</p>
+<pre><code>一种二进制语言,直接使用二进制代码表达指令
+计算机硬件(CPU)可以直接执行,与具体CPU型号有关
+完成2+3功能的机器语言
+1101981899111911
+</code></pre>
+<p>汇编语言</p>
+<pre><code>种将二进制代码直接对应助记符的编程语言
+汇编语言与CPU型号有关,程序不通用,需要汇编器转换
+完成2+3功能的汇编语言
+add 2.3, result
+</code></pre>
+<p>高级语言</p>
+<pre><code>更接近自然语言,同时更容易描述计算问题
+高级语言代码与具体CPU型号无关,编译后运行
+完成2+3功能的高级语言
+result =2+3
+</code></pre>
+<p>编程语言种类的发展</p>
+<pre><code>超级语言粘性整合已有程序,具备庞大计算生态
+高级语言接近自然语言,编译器,与CPU型号无关
+汇编语言有助记符,汇编器,与CPU型号有关
+机器语言代码直接执行,与CPU型号有关
+</code></pre>
+<p>超级语言</p>
+<pre><code>具有庞大计算生态,可以很容易利用已有代码功能
+编程思维不再是刀耕火种,而是集成开发
+完成2+3功能的高级语言
+result = sum(2, 3)
+</code></pre>
+<p>Python</p>
+<pre><code>唯一的超级语言
+前进的步伐不可阻挡
+</code></pre>
+<h3 id="单元小结">单元小结</h3>
+<p>深入理解 Python语言</p>
+<pre><code>计算机系统结构时代到人工智能时代的演进路线
+五种编程语言的初心和历史使命
+Python语言的通用性、简洁性和生态性
+Python是以计算生态为标志的”超级语言“
+</code></pre>
+<h2 id="22-实例2-python蟒蛇绘制">2.2 实例2: Python蟒蛇绘制</h2>
+<h3 id="python蟒蛇绘制问题分析">&quot;Python蟒蛇绘制&quot;问题分析</h3>
+<p>Python蟒蛇绘制</p>
+<p>用程序绘制一条蟒蛇<br>
+貌似很有趣,可以来试试<br>
+先学会蟒蛇绘制,再绘朵玫瑰花送给TA</p>
+<p>Python蟒蛇绘制<br>
+设计蟒蛇的基本形状</p>
+<p>Python蟒蛇绘制<br>
+用程序绘制一条蟒蛇<br>
+问题1计算机绘图是什么原理?<br>
+段程序为何能够产生窗体?为何能在窗体上绘制图形?<br>
+问题2 Python蟒蛇绘制从哪里开始呢?<br>
+如何绘制一条线?如何绘制一个弧形?如何绘制一个蟒蛇?</p>
+<h3 id="python蟒蛇绘制实例编写">&quot;Python蟒蛇绘制&quot;实例编写</h3>
+<pre><code>#PythonDraw,py
+import turtle
+turtle.setup(650,350,200,200)
+turtle.penup()
+turtle.fd(-250)
+turtle.pendown()
+turtle.pensize(25)
+turtle.pencolor(&quot;purple&quot;)
+turtle.seth(-40)
+for i in range(4):
+    turtle.circle(40,80)
+    turtle.circle(-40,80)
+turtle.circle(4,80/2)
+turtle.fd(40)
+turtle.circle(16,180)
+turtle.fd(40*2/3)
+turtle.done()
+</code></pre>
+<p>程序关键<br>
+import保留字<br>
+引入了一个绘图库<br>
+名字叫: turtle<br>
+没错,就是:turt1e</p>
+<h3 id="python蟒蛇绘制举一反三">&quot;Python蟒蛇绘制&quot;举一反三</h3>
+<p>举一反三<br>
+Python语法元素理解</p>
+<pre><code>Python蟒蛇绘制共17行代码,但很多行类似
+清楚理解这17行代码能够掌握 Python基本绘图方法
+参考框架结构、逐行分析、逐词理解
+</code></pre>
+<p>程序参数的改变</p>
+<pre><code>Python蟒蛇的颜色:黑色、白色、七彩色
+Python蟒蛇的长度:1节、3节、10节
+Python蟒蛇的方向:向左走、斜着走
+</code></pre>
+<p>计算问题的扩展</p>
+<pre><code>Python蟒蛇绘制问题是各类图像绘制问题的代表
+圆形绘制、五角星绘制、国旗绘制、机器猫绘制.
+掌握绘制一条线的方法,就可以绘制整个世界
+</code></pre>
+<h2 id="23-模块1-turtle库的使用">2.3 模块1: turtle库的使用</h2>
+<h3 id="单元开篇-2">单元开篇</h3>
+<p>模块1: turtle库的使用</p>
+<pre><code>turtle库基本介绍
+turtle绘图窗体布局
+turtle空间坐标体系
+turtle角度坐标体系
+RGB色彩体系
+</code></pre>
+<h3 id="turtle库基本介绍">turtle库基本介绍</h3>
+<p>turtle库概述<br>
+<strong>turtle(海龟)库是 turtle绘图体系的Python实现</strong></p>
+<pre><code>turtle绘图体系:1969年诞生,主要用于程序设计入门
+Python语言的标准库之一
+入门级的图形绘制函数库
+</code></pre>
+<p>标准库：？<br>
+第三方库：？</p>
+<p>标准库</p>
+<p><strong>Python计算生态=标准库+第三方库</strong></p>
+<p>标准库:</p>
+<pre><code>随解释器直接安装到操作系统中的功能模块
+</code></pre>
+<p>第三方库:</p>
+<pre><code>需要经过安装才能使用的功能模块
+</code></pre>
+<p>库 Library 、包 Package 、模块 Module ，统称模块。</p>
+<p>turtle的原(wan)理(fa)<br>
+<strong>turtle(海龟)是一种真实的存在</strong></p>
+<pre><code>有一只海龟,其实在窗体正中心,在画布上游走
+走过的轨迹形成了绘制的图形
+海龟由程序控制,可以变换颜色、改变宽度等
+</code></pre>
+<p>魅力</p>
+<h3 id="turtle绘图窗体布局">turtle绘图窗体布局</h3>
+<p>turtle的绘图窗体<br>
+<strong>turtle的一个画布空间</strong><br>
+<strong>最小单位是像素</strong></p>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1628870976378.jpg" alt="" loading="lazy"></figure>
+<p>turtle的绘图窗体</p>
+<pre><code>turtle. setup(width, height, startx, starty)
+</code></pre>
+<pre><code>setup()设置窗体大小及位置
+4个参数中后两个可选
+setup()不是必须的
+</code></pre>
+<h3 id="turtle空间坐标体系">turtle空间坐标体系</h3>
+<p>分为绝对坐标和海龟坐标</p>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1628871030812.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1628871306553.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1628871314178.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1628871402368.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://q.aone.zone/post-images/1628871434089.jpg" alt="" loading="lazy"></figure>
+<h3 id="turtle角度坐标体系">turtle角度坐标体系</h3>
+<figure data-type="image" tabindex="8"><img src="https://q.aone.zone/post-images/1628871687593.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://q.aone.zone/post-images/1628871772532.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://q.aone.zone/post-images/1628871845851.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://q.aone.zone/post-images/1628871900964.jpg" alt="" loading="lazy"></figure>
+<h3 id="rgb色彩体系">RGB色彩体系</h3>
+<p>RGB色彩模式<br>
+<strong>由三种颜色构成的万物色</strong></p>
+<pre><code>RGB指红蓝绿三个通道的颜色组合
+覆盖视力所能感知的所有颜色
+RGB每色取值范围0-255整数或0-1小数
+</code></pre>
+<figure data-type="image" tabindex="12"><img src="https://q.aone.zone/post-images/1628872235696.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://q.aone.zone/post-images/1628872311553.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="https://q.aone.zone/post-images/1628872402787.jpg" alt="" loading="lazy"></figure>
+<h3 id="单元小结-2">单元小结</h3>
+<p>模块1: turtle库的使用</p>
+<pre><code>turtle库的海龟绘图法
+turtle. setup()调整绘图窗体在电脑屏幕中的布局
+画布上以中心为原点的空间坐标系:绝对坐标&amp;海龟坐标
+画布上以空间x轴为0度的角度坐标系:绝对角度&amp;海龟角度
+RGB色彩体系,整数值&amp;小数值,色彩模式切换
+</code></pre>
+<p>202108140037</p>
+<h2 id="24-turtle程序语法元素分析">2.4 turtle程序语法元素分析</h2>
+<h3 id="单元开篇-3">单元开篇</h3>
+<p>turtle程序语法元素分析</p>
+<pre><code>库引用与 import
+turtle画笔控制函数
+turtle运动控制函数
+turtle方向控制函数
+基本循环语句
+&quot; Python蟒蛇绘制&quot;代码分析
+</code></pre>
+<h3 id="库引用与import">库引用与import</h3>
+<figure data-type="image" tabindex="15"><img src="https://q.aone.zone/post-images/1628962616245.jpg" alt="" loading="lazy"></figure>
+<p>库引用</p>
+<p><strong>扩充 Python程序功能的方式</strong><br>
+使用 import保留字完成，采用**<a>.<b>()**编码风格</p>
+<pre><code>import&lt;库名&gt;
+&lt;库名&gt;.&lt;函数名&gt;(&lt;函数参数&gt;)
+</code></pre>
+<figure data-type="image" tabindex="16"><img src="https://q.aone.zone/post-images/1628962859597.jpg" alt="" loading="lazy"></figure>
+<p>import更多用法<br>
+<strong>使用from和import保留字共同完成</strong></p>
+<pre><code>from&lt;库名&gt; import&lt;函数名&gt;
+from&lt;库名&gt; Import*
+&lt;函数名&gt;(&lt;函数参数&gt;)
+</code></pre>
+<figure data-type="image" tabindex="17"><img src="https://q.aone.zone/post-images/1628963016901.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="18"><img src="https://q.aone.zone/post-images/1628963114056.jpg" alt="" loading="lazy"></figure>
+<p>import更多用法<br>
+<strong>使用import和as保留字共同完成</strong></p>
+<pre><code>import&lt;库名&gt;as&lt;库别名&gt;
+&lt;库别名&gt;.&lt;函数名&gt;(&lt;函数参数&gt;)
+</code></pre>
+<p>给调用的外部库关联一个更短、更适合自己的名字</p>
+<figure data-type="image" tabindex="19"><img src="https://q.aone.zone/post-images/1628963946262.jpg" alt="" loading="lazy"></figure>
+<h3 id="turtle画笔控制函数">turtle画笔控制函数</h3>
+<figure data-type="image" tabindex="20"><img src="https://q.aone.zone/post-images/1628964037539.jpg" alt="" loading="lazy"></figure>
+<p>画笔控制函数<br>
+<strong>画笔操作后一直有效,一般成对出现</strong></p>
+<ul>
+<li>turtle. penup() 别名 turtle.pu()<br>
+抬起画笔,海龟在飞行</li>
+<li>turtle. pendown()别名 turtle, pd()<br>
+落下画笔,海龟在爬行</li>
+</ul>
+<p>画笔控制函数<br>
+<strong>画笔设置后一直有效,直至下次重新设置</strong></p>
+<ul>
+<li>turtle.pensize(width) 别名 turtle.width(width)<br>
+画笔宽度,海龟的腰围</li>
+<li>turtle.pencolor( color)  color为颜色字符串或r,g,b值<br>
+画笔颜色,海龟在涂装</li>
+</ul>
+<p>画笔控制函数<br>
+<strong>pencolor(color)的color参数可以有三种形式</strong><br>
+颜色字符串：turtle. pencolor(&quot; purple&quot;)<br>
+RGB的小数值：turtle. pencolor(8.63,0.13,0.94)<br>
+RGB的元组值：turtle pencolor((8.63,0.13,0.94))<br>
+注意：purple，字符串形式，小写</p>
+<figure data-type="image" tabindex="21"><img src="https://q.aone.zone/post-images/1628964598207.jpg" alt="" loading="lazy"></figure>
+<h3 id="turtle运动控制函数">turtle运动控制函数</h3>
+<figure data-type="image" tabindex="22"><img src="https://q.aone.zone/post-images/1628964679094.jpg" alt="" loading="lazy"></figure>
+<p>运动控制函数<br>
+<strong>控制海龟行进:走直线&amp;走曲线</strong><br>
+turtle.forward(d) 别名 turtle.fd(d)<br>
+向前行进,海龟走直线<br>
+d:行进距离,可以为负数<br>
+turtle.circle(r.extent=None)<br>
+根据半径r绘制extent角度的弧形<br>
+r：默认圆心在海龟左侧r距离的位置</p>
+<figure data-type="image" tabindex="23"><img src="https://q.aone.zone/post-images/1628965034774.jpg" alt="" loading="lazy"></figure>
+<h3 id="turtle方向控制函数">turtle方向控制函数</h3>
+<figure data-type="image" tabindex="24"><img src="https://q.aone.zone/post-images/1628965130943.jpg" alt="" loading="lazy"></figure>
+<p>方向控制函数<br>
+<strong>控制海龟面对方向绝对角度&amp;海龟角度</strong><br>
+turtle.setheading(angle) 别名 turtle.seth(angle)<br>
+改变行进方向,海龟走角度<br>
+angle:改变行进方向,海龟走角度</p>
+<figure data-type="image" tabindex="25"><img src="https://q.aone.zone/post-images/1628965284325.jpg" alt="" loading="lazy"></figure>
+<p>方向控制函数<br>
+控制海龟面对方向:绝对角度&amp;海龟角度<br>
+turtle.left(angle)海龟向左转<br>
+turtle.right(angle)海龟向右转<br>
+angle:在海龟当前行进方向上旋转的角度</p>
+<figure data-type="image" tabindex="26"><img src="https://q.aone.zone/post-images/1628965365865.jpg" alt="" loading="lazy"></figure>
+<h3 id="循环语句与range函数">循环语句与range()函数</h3>
+<figure data-type="image" tabindex="27"><img src="https://q.aone.zone/post-images/1628965424769.jpg" alt="" loading="lazy"></figure>
+<p>循环语句<br>
+<strong>按照一定次数循环执行一组语句</strong></p>
+<pre><code>for&lt;变量&gt; In range(&lt;参数&gt;)
+    &lt;被循环执行的语句&gt;
+</code></pre>
+<p>&lt;变量&gt;表示每次循环的计数，0到&lt;次数&gt;-1</p>
+<figure data-type="image" tabindex="28"><img src="https://q.aone.zone/post-images/1628965687372.jpg" alt="" loading="lazy"></figure>
+<p>range()函数<br>
+<strong>产生循环计数序列</strong><br>
+range（N）<br>
+产生0到N-1的整数序列，共N个<br>
+range(M,N)<br>
+产生M到N-1，共N-M个</p>
+<figure data-type="image" tabindex="29"><img src="https://q.aone.zone/post-images/1628965915101.jpg" alt="" loading="lazy"></figure>
+<h3 id="python蟒蛇绘制代码分析">&quot;Python蟒蛇绘制&quot;代码分析</h3>
+<h3 id="单元小结-3">单元小结</h3>
+<p>库引用：import、from...import、import...as...<br>
+penup()、pendown()、pensize()、pencolor()<br>
+fd()、circle()、seth()<br>
+循环语句：for和in、range()函数</p>
+<h2 id="第2周作业及学习资料">第2周作业及学习资料</h2>
+<h3 id="第2周练习与作业">第2周练习与作业</h3>
+<p>第2章 Python基本图形绘制<br>
+练习(可选)<br>
+5道编程题@ Python123<br>
+作业<br>
+15道单选题@ Python123</p>
+<h3 id="20-第2周课程导学">2.0 第2周课程导学</h3>
+<p>已下载</p>
+<h3 id="21-深入理解python语言-2">2.1 深入理解Python语言</h3>
+<p>已下载</p>
+<h3 id="22-实例2python蟒蛇绘制">2.2 实例2：Python蟒蛇绘制</h3>
+<p>已下载</p>
+<h3 id="23-模块1-turtle库的使用-2">2.3 模块1: turtle库的使用</h3>
+<p>已下载</p>
+<h3 id="24-turtle程序语法元素分析-2">2.4 turtle程序语法元素分析</h3>
+<p>已下载</p>
+<h3 id="实例2python蟒蛇绘制源代码">实例2：Python蟒蛇绘制源代码</h3>
+<p>已下载<br>
+202108150242</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《python 语言程序设计》课程笔记 1]]></title>
+        <id>https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-1/</id>
+        <link href="https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji-1/">
+        </link>
+        <updated>2021-08-08T16:22:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="第1周-python基本语法元素">第1周 Python基本语法元素</h1>
+<h2 id="第1周课程导学">第1周课程导学</h2>
+<h3 id="前课复习">前课复习</h3>
+<p>第一章 辅学内容</p>
+<p>课程之前</p>
+<pre><code>    基本要求
+
+会使用计算机和 Office软件
+阅读简单英文内容、3级及以上水平
+熟练使用Web浏览器
+每周至少1-2个小时,连续9周
+</code></pre>
+<h3 id="本周概要">本周概要</h3>
+<pre><code>    第1章 Python基本语法元素
+
+1.1程序设计基本方法
+1.2 Python开发环境配置
+1.3实例1:温度转换
+1.4 Python程序语法元素分析
+
+方法论
+    程序的基本编写方法:IPO(Input, Process, Output)
+实践能力
+    看懂10行左右简单 Python代码
+</code></pre>
+<h2 id="11程序设计基本方法">1.1程序设计基本方法</h2>
+<h3 id="单元开篇">单元开篇</h3>
+<p><strong>程序设计基本方法</strong></p>
+<pre><code>计算机与程序设计
+编译和解释
+程序的基本编写方法
+计算机编程
+</code></pre>
+<h3 id="计算机与程序设计">计算机与程序设计</h3>
+<p>计算机是根据指令操作数据的设备。</p>
+<p>1</p>
+<pre><code>        计算机的概念
+    功能性
+对数据的操作,表现为数据计算、输入翰出处理和结果存储等
+    可编程性
+根据一系列指令自动地、可预测地、准确地完成操作者的意图
+</code></pre>
+<p>2</p>
+<pre><code>    计算机的发展
+计算机的发展参照摩尔定律,表现为指数方式
+计算机硬件所依赖的集成电路规模参照摩尔定律发展
+计算机运行速度因此也接近几何级数快速增长
+计算机所能高效支撑的各类运算功能不断丰富发展
+</code></pre>
+<p>3</p>
+<pre><code>    摩尔定律 Moore's law
+计算机发展历史上最重要的预测法则
+Inte公司创始人之一戈登摩尔在1965年提出
+单位面积集成电路上可容纳晶体管的数量约每两年翻一番
+CPU/GPU、内存、硬盘、电子产品价格等都遵循摩尔定律
+</code></pre>
+<p>4</p>
+<pre><code>    计算机的发展
+计算机的发展参照摩尔定律,表现为指数方式
+当今世界,唯一长达50年有效且按照指数发展的技术领域
+计算机深刻改变人类社会,甚至可能改变人类本身
+可预见的未来30年,摩尔定律还将持续有效
+</code></pre>
+<p>5</p>
+<pre><code>    程序设计
+程序设计是计算机可编程性的体现
+程序设计,亦称编程,深度应用计算机的主要手段
+程序设计已经成为当今社会需求量最大的职业技能之
+很多岗位都将被计算机程序接管,程序设计将是生存技能
+</code></pre>
+<p>6</p>
+<pre><code>    程序设计语言
+程序设计语言是一种用于交互(交流)的人造语言
+程序设计语言,亦称编程语言,程序设计的具体实现方式
+编程语言相比自然语言更简单、更严谨、更精确
+编程语言主要用于人类和计算机之间的交互
+</code></pre>
+<p>7</p>
+<pre><code>    程序设计语言
+编程语言种类很多,但生命力强劲的却不多
+编程语言有超过600种,绝大部分都不再被使用
+C语言诞生于1972年,它是第一个被广泛使用的编程语言
+Python语言诞生于1990年,它是最流行最好用的编程语言
+</code></pre>
+<h3 id="编译和解释">编译和解释</h3>
+<pre><code>    编程语言的执行方式
+源代码采用某种编程语言编写的计算机程序,人类可读
+例如: result=2+3
+目标代码计算机可直接执行,人类不可读(专家除外)
+例如:1101001000111011
+</code></pre>
+<p>1</p>
+<p>编译<br>
+将源代码一次性转换成目标代码的过程<br>
+<img src="https://q.aone.zone/post-images/1628442197037.jpg" alt="" loading="lazy"><br>
+执行编译过程的程序叫编译器</p>
+<p>2</p>
+<p>解释<br>
+将源代码逐条转换成目标代码同时逐条运行的过程<br>
+<img src="https://q.aone.zone/post-images/1628442352972.jpg" alt="" loading="lazy"><br>
+执行解释过程的程序叫作解释器</p>
+<p>3</p>
+<p>compiler<br>
+<img src="https://q.aone.zone/post-images/1628442197037.jpg" alt="" loading="lazy"><br>
+编译:一次性翻译,之后不再需要源代码(类似英文翻译)</p>
+<p>4</p>
+<p>interpreter<br>
+<img src="https://q.aone.zone/post-images/1628442352972.jpg" alt="" loading="lazy"><br>
+解释:每次程序运行时随翻译随执行(类似实时的同声传译)</p>
+<p>5</p>
+<pre><code>    静态语言和脚本语言
+根据执行方式不同,编程语言分为两类
+    静态语言使用编译执行的编程语言
+C/C++语言、Java语言
+    脚本语言使用解释执行的编程语言
+Python语言、 JavaScript语言、PHP语言
+</code></pre>
+<p>6</p>
+<pre><code>    静态语言和脚本语言
+执行方式不同,优势各有不同
+静态语言编译器一次性生成目标代码,优化更充分
+程序运行速度更快
+脚本语言执行程序时需要源代码,维护更灵活
+源代码在维护灵活、跨多个操作系统平台
+</code></pre>
+<h3 id="程序的基本编写方法">程序的基本编写方法</h3>
+<p>1</p>
+<pre><code>    IPO
+    程序的基本编写方法
+I  Input输入,程序的输入
+P Process处理,程序的主要逻辑
+O Output输出,程序的输出
+</code></pre>
+<p>2</p>
+<pre><code>    理解IPO
+    输入
+程序的输入
+文件输入、网络输入、控制台输入、
+交互界面输入、内部参数输入等
+输入是一个程序的开始
+</code></pre>
+<p>3</p>
+<pre><code>    理解IPO
+    输出
+程序的输出
+控制台输出、图形输出、文件输出
+网络输出、操作系统内部变量输出等
+输出是程序展示运算结果的方式
+</code></pre>
+<p>4</p>
+<pre><code>    理解IPO
+    处理
+处理是程序对输入数据进行计算产生输出结果的过程
+处理方法统称为算法,它是程序最重要的部分
+算法是一个程序的灵魂
+</code></pre>
+<p>5</p>
+<pre><code>    问题的计算部分
+一个待解决问题中,可以用程序辅助完成的部分
+计算机只能解决计算问题,即问题的计算部分
+一个问题可能有多种角度理解,产生不同的计算部分
+问题的计算部分一般都有输入、处理和翰出过程
+</code></pre>
+<p>6</p>
+<pre><code>    编程解决问题的步骤
+    6个步骤(1-3)
+分析问题:分析问题的计算部分,想清楚
+划分边界:划分问题的功能边界,规划IP0
+设计算法:设计问题的求解算法,关注算法
+</code></pre>
+<p>7</p>
+<pre><code>    编程解决问题的步骤
+    6个步骤(4-6)
+编写程序:编写问题的计算程序,编程序
+调试测试:调试程序使正确运行,运行调试
+升级维护:适应问题的升级维护,更新完善
+</code></pre>
+<p>8</p>
+<pre><code>求解计算问题的精简步骤
+确定IPO:明确计算部分及功能边界
+编写程序:将计算求解的设计变成现实
+调试程序:确保程序按照正确逻辑能够正确运行
+</code></pre>
+<h3 id="计算机编程">计算机编程</h3>
+<p>Q:为什么要学习计算机编程?<br>
+A:因为&quot;编程是件很有趣的事儿</p>
+<p>1</p>
+<pre><code>    计算机编程
+编程能够训练思维
+编程体现了一种抽象交互关系、自动化执行的思维模式
+计算思维:区别逻辑思维和实证思维的第三种思维模式
+能够促进人类思考,增进观察力和深化对交互关系的理解
+</code></pre>
+<p>2</p>
+<pre><code>    计算机编程
+编程能够增进认识
+编程不单纯是求解计算问题
+不仅要思考解决方法,还要思考用户体验、执行效率等
+能够帮助程序员加深用户行为以及社会和文化认识
+</code></pre>
+<p>3</p>
+<pre><code>    计算机编程
+编程能够带来乐趣
+编程能够提供展示自身思想和能力的舞台
+让世界增加新的颜色、让自己变得更酷、提升心理满足
+在信息空间里思考创新、将创新变为现实
+</code></pre>
+<p>4</p>
+<pre><code>    计算机编程
+编程能够提高效率
+能够更好地利用计算机解决问题
+显著提高工作、生活和学习效率
+为理想的实现提供一种借助计算机的高效手段
+</code></pre>
+<p>5</p>
+<pre><code>    计算机编程
+编程带来就业机会
+程序员是信息时代最重要的工作岗位之
+国内外对程序员岗位的缺口都在百万以上规模
+计算机已经渗透于各个行业,就业前景非常广阔
+</code></pre>
+<p>6</p>
+<pre><code>    学习编程的误区
+Q:编程很难学吗?A:掌握方法就很容易!
+
+首先,掌握编程语言的语法,熟悉基本概念和逻辑
+其次,结合计算问题思考程序结构,会使用编程套路
+最后,参照案例多练习多实践,学会举一反三
+</code></pre>
+<h3 id="单元小结">单元小结</h3>
+<p>程序设计基本方法</p>
+<pre><code>计算机的功能性和可编程性
+编译和解释、静态语言和脚本语言
+IPO、理解问题的计算部分
+掌握计算机编程的价值
+</code></pre>
+<p>2021.8.9</p>
+<h2 id="12python开发环境配置">1.2Python开发环境配置</h2>
+<h3 id="单元开篇-2">单元开篇</h3>
+<pre><code>    Python开发环境配置
+    
+Python语言概述
+Python语言 Windows系统开发环境 
+Python语言Mac系统开发环境             三选一
+Python语言 Linux系统开发环境
+Python语言 Web系统开发环境
+Python编写与运行
+</code></pre>
+<h3 id="python语言概述">Python语言概述</h3>
+<pre><code>    python
+Python,译为&quot;蟒蛇
+Python语言拥有者是 Python Software Foundation(PSF)
+PSF是非盈利组织,致力于保护 Python语言开放、开源和发展
+</code></pre>
+<p>Guido van Rossum</p>
+<pre><code>Python语言是一个由编程牛人领导设计并开发的编程语言
+Python语言是一个有开放、开源精神的编程语言
+Python语言应用于火星探测、搜索引擎、引力波分析等众多领域
+</code></pre>
+<h3 id="python语言windows系统开发环境">Python语言Windows系统开发环境</h3>
+<h3 id="python程序编写与运行">Python程序编写与运行</h3>
+<pre><code>    Python的两种编程方式
+交互式和文件式
+交互式对每个输入语句即时运行结果,适合语法练习
+文件式批量执行一组语句并运行结果,编程的主要方式
+</code></pre>
+<p>圆面积的计算<br>
+<img src="https://q.aone.zone/post-images/1628527339291.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://q.aone.zone/post-images/1628527531370.jpg" alt="" loading="lazy"></figure>
+<p>同切圆绘制<br>
+<img src="https://q.aone.zone/post-images/1628527806324.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="2"><img src="https://q.aone.zone/post-images/1628527814325.jpg" alt="" loading="lazy"></figure>
+<p>五角星绘制<br>
+<img src="https://q.aone.zone/post-images/1628528361943.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="3"><img src="https://q.aone.zone/post-images/1628528425869.jpg" alt="" loading="lazy"></figure>
+<h3 id="单元小结-2">单元小结</h3>
+<pre><code>    程序设计基本方法
+Python语言的发展历史
+选取一种系统平台构建 Python开发环境
+尝试编写与运行3个 Python小程序
+</code></pre>
+<h2 id="13实例1温度转换">1.3实例1：温度转换</h2>
+<h3 id="温度转换问题分析">“温度转换”问题分析</h3>
+<p>1<br>
+<strong>温度转换</strong></p>
+<p><em><strong>温度刻画的两种不同体系</strong></em><br>
+摄氏度中国等世界大多数国家使用</p>
+<pre><code>以1标准大气压下水的结冰点为0度,沸点为100度,将温度进行等分刻画
+</code></pre>
+<p>华氏度美国、英国等国家使用</p>
+<pre><code>以1标准大气压下水的结冰点为32度,沸点为212度,将温度进行等分刻画
+</code></pre>
+<p>2</p>
+<pre><code>    需求分析
+两种温度体系的转换
+摄氏度转换为华氏度
+华氏度转换为摄氏度
+</code></pre>
+<p>3</p>
+<p>问题分析<br>
+该问题中计算部分的理解和确定</p>
+<pre><code>理解1直接将温度值进行转换
+理解2将温度信息发布的声音或图像形式进行理解和转换
+理解3监控温度信息发布渠道,实时获取并转换温度值
+</code></pre>
+<p>4</p>
+<p>问题分析<br>
+分析问题<br>
+采用理解1直接将温度值进行转换金翅大鹏的子孙后代<br>
+温度数值需要标明温度体系,即摄氏度或华氏度<br>
+转换后也需要给出温度体系</p>
+<p>5</p>
+<p>问题分析<br>
+划分边界<br>
+输入带华氏或摄氏标志的温度值<br>
+处理根据温度标志选择适当的温度转换算法<br>
+输出带摄氏或华氏标志的温度值</p>
+<p>6</p>
+<p>问题分析<br>
+输入输出格式设计<br>
+标识放在温度最后,F表示华氏度,C表示摄氏度<br>
+82F表示华氏82度，28C表示摄氏28度</p>
+<p>7</p>
+<p>问题分析<br>
+设计算法<br>
+根据华氏和摄氏温度定义,利用转换公式如下<br>
+C=(F-32)/1.8<br>
+F=C&quot;18+32<br>
+其中,C表示摄氏温度,F表示华氏温度</p>
+<h3 id="温度转换实例编写">“温度转换”实例编写</h3>
+<figure data-type="image" tabindex="4"><img src="https://q.aone.zone/post-images/1628530195272.jpg" alt="" loading="lazy"></figure>
+<h3 id="温度转换举一反三">“温度转换”举一反三</h3>
+<p>1<br>
+举一反三<br>
+<strong>Python语法元素理解</strong></p>
+<pre><code>温度转换程序共10行代码,但包含很多语法元素
+清楚理解这10行代码能够快速入门 Python语言
+参考框架结构、逐行分析、逐词理解
+</code></pre>
+<p>2<br>
+举一反三<br>
+<strong>输入输出的改变</strong></p>
+<pre><code>温度数值与温度标识之间关系的设计可以改变
+标识改变放在温度数值之前:C82,F28
+标识字符改变为多个字符:82Ce、28F
+</code></pre>
+<p>3<br>
+举一反三<br>
+<strong>计算问题的扩展</strong></p>
+<pre><code>温度转换问题是各类转换问题的代表性问题
+货币转换、长度转换、重量转换、面积转换
+问题不同,但程序代码相似
+</code></pre>
+<p>202108100137</p>
+<h2 id="14python程序语法元素分析">1.4Python程序语法元素分析</h2>
+<h3 id="单元开篇-3">单元开篇</h3>
+<pre><code>    Python程序语法元素分析
+程序的格式框架
+命名与保留字
+数据类型
+语句与函数
+Python程序的输入输出
+“温度转换”代码分析
+</code></pre>
+<h3 id="程序的格式框架">程序的格式框架</h3>
+<p>程序的格式框架<br>
+<img src="https://q.aone.zone/post-images/1628616350180.jpg" alt="" loading="lazy"><br>
+代码高亮 编程的色彩辅助体系，不是语法要求</p>
+<figure data-type="image" tabindex="5"><img src="https://q.aone.zone/post-images/1628616336838.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://q.aone.zone/post-images/1628616404415.jpg" alt="" loading="lazy"></figure>
+<p>缩进<br>
+缩进表达程序的格式框架<br>
+严格明确缩进是语法的一部分,缩进不正确程序运行错误<br>
+所属关系表达代码间包含和层次关系的唯一手段<br>
+长度一致程序内一致即可,一般用4个空格或1个TAB</p>
+<p>注释<br>
+<img src="https://q.aone.zone/post-images/1628616727051.jpg" alt="" loading="lazy"></p>
+<p>注释<br>
+不被程序执行的辅助性说明信息<br>
+单行注释以#开头,其后内容为注释<br>
+#这里是单行注释<br>
+多行注释以'''开头和结尾<br>
+'''这是多行注释第一行<br>
+这是多行注释第二行'''</p>
+<h3 id="命名与保留字">命名与保留字</h3>
+<figure data-type="image" tabindex="7"><img src="https://q.aone.zone/post-images/1628616968159.jpg" alt="" loading="lazy"></figure>
+<p>变量<br>
+用来保存和表示数据的占位符号<br>
+变量采用标识符(名字)来表示,关联标识符的过程叫命名<br>
+Tempstr是变量名字<br>
+可以使用等号(=)向变量赋值或修改值,=被称为赋值符号<br>
+Tempstr=&quot;82F&quot;#向变量 TempStr赋值 &quot;82F&quot;</p>
+<p>命名<br>
+关联标识符的过程<br>
+命名规则:大小写字母、数字、下划线和汉字等字符及组合<br>
+如: Tempstr, Python_ Great,这是门 Python好课<br>
+注意事项：大小写敏感、首字符不能是数字、不与保留字相同<br>
+Python和python是不同变量，123python是不合法的。</p>
+<p>保留字<br>
+被编程语言内部定义并保留使用的标识符<br>
+Python语言有33个保留字(也叫关键字)<br>
+if, elif, else, in<br>
+保留字是编程语言的基本单词,大小写敏感<br>
+if是保留字,If是变量</p>
+<p><img src="https://q.aone.zone/post-images/1628617408152.jpg" alt="" loading="lazy"><br>
+26个黑色的，本课涉及</p>
+<figure data-type="image" tabindex="8"><img src="https://q.aone.zone/post-images/1628617617186.jpg" alt="" loading="lazy"></figure>
+<h3 id="数据类型">数据类型</h3>
+<figure data-type="image" tabindex="9"><img src="https://q.aone.zone/post-images/1628617764207.jpg" alt="" loading="lazy"></figure>
+<p>数据类型<br>
+10,011101该如何解释呢?<br>
+这是一个二进制数字或者十进制数字<br>
+作为二进制数字,10,011,101的值是十进制157<br>
+这是一段文本或者用逗号分隔的3个数字<br>
+作为一段文本,逗号是文本中的一部分,一共包含10个字符</p>
+<p>数据类型<br>
+供计算机程序理解的数据形式<br>
+程序设计语言不允许存在语法歧义,需要定义数据的形式<br>
+需要给10,011,101关联一种计算机可以理解的形式<br>
+程序设计语言通过一定方式向计算机表达数据的形式<br>
+123表示文本字符串123,123则表示数字123</p>
+<p>数据类型<br>
+10,011,101<br>
+整数类型:10011101<br>
+字符串类型:&quot;10,011,101&quot;<br>
+列表类型:[10,011,101]</p>
+<figure data-type="image" tabindex="10"><img src="https://q.aone.zone/post-images/1628618060621.jpg" alt="" loading="lazy"></figure>
+<p>字符串<br>
+由0个或多个字符组成的有序字符序列<br>
+字符串由一对单引号或一对双引号表示<br>
+请输入带有符号的温度值:&quot;或者&quot;C<br>
+字符串是字符的有序序列,可以对其中的字符进行索引<br>
+请&quot;是&quot;请输入带有符号的温度值:&quot;的第θ个字符</p>
+<figure data-type="image" tabindex="11"><img src="https://q.aone.zone/post-images/1628618233852.jpg" alt="" loading="lazy"></figure>
+<p>字符串的使用<br>
+使用[]获取字符串中一个或多个字符<br>
+索引:返回字符串中单个字符&lt;字符串&gt;[M]<br>
+&quot;请输入带有符号的温度值:&quot;[θ]或者 Tempstr[-1]<br>
+切片:返回字符串中一段字符子串 &lt;字符串&gt;[M:N]<br>
+请输入带有符号的温度值:&quot;[1:3]或者 Tempstr[0:-1]</p>
+<figure data-type="image" tabindex="12"><img src="https://q.aone.zone/post-images/1628618502458.jpg" alt="" loading="lazy"></figure>
+<p>数字类型<br>
+整数和浮点数都是数字类型<br>
+整数 数学中的整数<br>
+32或者-89<br>
+浮点 数数学中的实数,带有小数部分<br>
+1.8或者-1.8或者-1.0</p>
+<figure data-type="image" tabindex="13"><img src="https://q.aone.zone/post-images/1628618624186.jpg" alt="" loading="lazy"></figure>
+<p>列表类型<br>
+由0个或多个数据组成的有序序列<br>
+列表使用[]表示,采用逗号(,)分隔各元素<br>
+[&quot;F','f']表示两个元素'F'和'f'<br>
+使用保留字in判断一个元素是否在列表中<br>
+TempStr[-1] in ['C','c'] 判断前者是否与列表中某个元素相同</p>
+<figure data-type="image" tabindex="14"><img src="https://q.aone.zone/post-images/1628618786833.jpg" alt="" loading="lazy"></figure>
+<h3 id="语句与函数">语句与函数</h3>
+<figure data-type="image" tabindex="15"><img src="https://q.aone.zone/post-images/1628618957400.jpg" alt="" loading="lazy"></figure>
+<p>赋值语句<br>
+由赋值符号构成的一行代码<br>
+赋值语句用来给变量赋予新的数据值<br>
+C=(eva1( Tempstr[0:-1)-32)/1.8 #右侧运算结果赋给变量C<br>
+赋值语句右侧的数据类型同时作用于变量<br>
+Tempstr= input(&quot;&quot;) #input()返回一个字符串, TempStr也是字符串</p>
+<figure data-type="image" tabindex="16"><img src="https://q.aone.zone/post-images/1628619138104.jpg" alt="" loading="lazy"></figure>
+<p>分支语句<br>
+由判断条件决定程序运行方向的语句<br>
+使用保留字ife1 if else构成条件判断的分支结构<br>
+if Tempstr[-1] in ['F','f']: #如果条件为True则执行冒号后语句<br>
+每个保留字所在行最后存在一个冒号(😃,,语法的一部分<br>
+冒号及后续缩进用来表示后续语句与条件的所属关系</p>
+<figure data-type="image" tabindex="17"><img src="https://q.aone.zone/post-images/1628619325802.jpg" alt="" loading="lazy"></figure>
+<p>③函数<br>
+根据输入参数产生不同输出的功能过程<br>
+类似数学中的函数,y=f(x)<br>
+print(&quot;输入格式错误&quot;)#打印输出&quot;输入格式错误<br>
+-函数采用&lt;函数名&gt;(&lt;参数&gt;)方式使用<br>
+eva1( Tempstr[0:-1]) # Tempstr[0:-1]是参数</p>
+<figure data-type="image" tabindex="18"><img src="https://q.aone.zone/post-images/1628619449204.jpg" alt="" loading="lazy"></figure>
+<h3 id="python程序的输入输出">Python程序的输入输出</h3>
+<figure data-type="image" tabindex="19"><img src="https://q.aone.zone/post-images/1628619564482.jpg" alt="" loading="lazy"></figure>
+<p>输入函数 input()<br>
+从控制台获得用户输入的函数<br>
+input()函数的使用格式<br>
+&lt;变量&gt; = input(&lt;提示信息字符串&gt;)<br>
+-用户输入的信息以字符串类型保存在&lt;变量&gt;中<br>
+TempStr = input(&quot;请输入”) # TempStr保存用户输入的信息</p>
+<figure data-type="image" tabindex="20"><img src="https://q.aone.zone/post-images/1628619769099.jpg" alt="" loading="lazy"></figure>
+<p>输出函数print()<br>
+以字符形式向控制台输出结果的函数<br>
+print()函数的基本使用格式<br>
+print(&lt;拟输出字符串或字符串变量》)<br>
+字符串类型的一对引号仅在程序内部使用,输出无引号<br>
+print(&quot;输入格式错误&quot;) # 向控制台输出 输入格式错误</p>
+<figure data-type="image" tabindex="21"><img src="https://q.aone.zone/post-images/1628619965579.jpg" alt="" loading="lazy"></figure>
+<p>Q输出函数print()<br>
+以字符形式向控制台输出结果的函数<br>
+print(&quot;转换后的温度是{:.2f}C&quot;.format(C)<br>
+如果C的值是123.456789,则输出结果为<br>
+转换后的温度是123.45C</p>
+<figure data-type="image" tabindex="22"><img src="https://q.aone.zone/post-images/1628620108943.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="23"><img src="https://q.aone.zone/post-images/1628620239370.jpg" alt="" loading="lazy"></figure>
+<p>评估函数eval()<br>
+去掉参数最外侧引号并执行余下语句的函数<br>
+eval(TempStr[0:-1])<br>
+如果 TempStr[0:1]值是&quot;12.3&quot;,输出是:<br>
+12.3</p>
+<figure data-type="image" tabindex="24"><img src="https://q.aone.zone/post-images/1628620432364.jpg" alt="" loading="lazy"></figure>
+<h3 id="温度转换代码分析">“温度转换”代码分析</h3>
+<h3 id="单元小结-3">单元小结</h3>
+<p>Python程序语法元素分析<br>
+缩进、注释、命名、变量、保留字<br>
+数据类型、字符串、整数、浮点数、列表<br>
+赋值语句、分支语句、函数<br>
+input()、 print()、eval()、 print()格式化</p>
+<h2 id="第一周作业及学习资料">第一周作业及学习资料</h2>
+<h3 id="第1周练习与作业">第1周练习与作业</h3>
+<p>第1章 Python基本语法元素<br>
+练习(可选)<br>
+5道编程题 @ Python123<br>
+作业<br>
+15道单选题 @ Python123</p>
+<h3 id="10-第1周课程导学">1.0 第1周课程导学</h3>
+<p>已下载</p>
+<h3 id="11-程序设计基本方法">1.1 程序设计基本方法</h3>
+<p>已下载</p>
+<h3 id="12-python开发环境配置">1.2 Python开发环境配置</h3>
+<p>已下载</p>
+<h3 id="13-实例1-温度转换">1.3 实例1: 温度转换</h3>
+<p>已下载</p>
+<h3 id="14-python程序语法元素分析">1.4 Python程序语法元素分析</h3>
+<p>已下载</p>
+<h3 id="实例1-温度转换源代码">实例1: 温度转换源代码</h3>
+<p>已下载</p>
+<p>202108110251</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkDown语法指南]]></title>
+        <id>https://q.aone.zone/post/yu-fa-zhi-nan/</id>
+        <link href="https://q.aone.zone/post/yu-fa-zhi-nan/">
+        </link>
+        <updated>2021-08-08T09:22:27.000Z</updated>
+        <content type="html"><![CDATA[<p>#标题</p>
+<pre><code># 最大标题
+## 第二大标题
+###### 最小标题
+</code></pre>
+<p>#样式文本</p>
+<table>
+<thead>
+<tr>
+<th>样式</th>
+<th>语法</th>
+<th>示例</th>
+<th>输出</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>粗体</td>
+<td>** ** 或 __ __</td>
+<td><strong>这是粗体文本</strong></td>
+<td>这是粗体文本</td>
+</tr>
+<tr>
+<td>斜体</td>
+<td>* * 或 _ _</td>
+<td><em>这是斜体文本</em></td>
+<td>这是斜体文本</td>
+</tr>
+<tr>
+<td>删除线</td>
+<td>~~ ~~</td>
+<td><s>这是错误文本</s></td>
+<td>这是错误文本</td>
+</tr>
+<tr>
+<td>粗体和嵌入的斜体</td>
+<td>** ** 和 _ _</td>
+<td><strong>此文本 <em>非常</em> 重要</strong></td>
+<td>此文本非常重要</td>
+</tr>
+<tr>
+<td>全部粗体和斜体</td>
+<td>*** ***</td>
+<td><em><strong>所有这些文本都很重要</strong></em></td>
+<td>所有这些文本都是斜体</td>
+</tr>
+</tbody>
+</table>
+<p>#表格</p>
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th>表头</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+</tbody>
+</table>
+<p>#引用</p>
+<pre><code>用 Abraham Lincoln 的话来说：
+&gt; 原谅我爆粗口
+</code></pre>
+<p>#引用代码</p>
+<p>使用单反引号可标注句子中的代码或命令。 反引号中的文本不会被格式化。<br>
+使用 <code>git status</code> 列出尚未提交的所有新文件或已修改文件。<br>
+要将代码或文本格式化为各自的不同块，请使用三反引号。<br>
+一些基本的 Git 命令为：</p>
+<pre><code>    git status
+    git add
+    git commit
+</code></pre>
+<p>#链接</p>
+<p>通过将链接文本包含在方括号 [ ] 内，然后将 URL 包含在括号 ( ) 内，可创建内联链接。<br>
+本文学习自 <a href="https://pages.github.com/">GitHub Pages</a> 。</p>
+<p>#列表</p>
+<p>通过在一行或多行文本前面添加 - 或 * 可创建无序列表。</p>
+<ul>
+<li>George Washington</li>
+<li>John Adams</li>
+<li>Thomas Jefferson<br>
+要对列表排序，请在每行前面添加一个编号。</li>
+</ul>
 <ol>
-<li>6789</li>
-<li>天涯海角</li>
+<li>James Madison</li>
+<li>James Monroe</li>
+<li>John Quincy Adams</li>
 </ol>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=900 height=90 src="//music.163.com/outchain/player?type=3&id=2488275104&auto=0&height=66"></iframe>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 19 🍨]]></title>
-        <id>https://q.aone.zone/post/unit-19/</id>
-        <link href="https://q.aone.zone/post/unit-19/">
-        </link>
-        <updated>2021-07-18T03:45:55.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>embrace 拥抱；接受；包含 v.</li>
-<li>embed 使嵌入；深留（记忆中）vt.</li>
-<li>embody 使具体化，表现；收录，包括 vt.</li>
-<li>embryo 胚胎；萌芽状态 n.</li>
-<li>elicit 引出（真理等）；探出，诱出（回答等）v.</li>
-<li>elite 出类拔萃的人；上层人士，实力集团，精英 n.</li>
-<li>elsewhere 在别处 adv.</li>
-<li>thirst 渴，口渴；渴望，渴求 n.</li>
-<li>thorough 彻底的，完全的；精心的 adj.</li>
-<li>though 虽然，尽管conj. 可是，然而 adv.</li>
-<li>thought 思想，思维，思考；想法，观念 n.</li>
-<li>thoughtful 认真思考，沉思的，有心事的；体贴的，关心的 adj.</li>
-<li>threat 恐吓，威胁；坏兆头，危险迹象 n.</li>
-<li>threaten 恐吓，威胁；有·······危险快要来临 v.</li>
-<li>update 更新，使现代化 vt.</li>
-<li>upgrade 提高，使升级 vt.</li>
-<li>uphold 举起，高举；支持，维护，赞成 vt.（upheld upheld）</li>
-<li>upset 使心烦意乱，使苦恼；打乱，搅乱；弄翻，打翻 v.（upset upset）</li>
-<li>up-to-date 时新的，新式的，现代化的 adj.</li>
-<li>ventilate 使通风，使空气流通；公开讨论（问题，意见等）v.</li>
-<li>venture 冒险，冒险行动，投机行动，（冒险）事业 n. 冒险；用······进行投机敢于，敢于，敢说 v.</li>
-<li>widespread 遍布的，普遍的 adj.</li>
-<li>win 获胜；赢得；达到，获取 v. 赢，胜利 n.</li>
-<li>wit 智力，才智 n.</li>
-<li>withdraw 抽回，收回，提取；取消，撤回；撤退，离开 v. （withdrew withdrawn）</li>
-<li>witness 目击者，见证人；证据，证言 n. 目击，目睹；作证，证明 v.</li>
-<li>inaugurate 为某人举行就职典礼；为举行落成仪式；引进，开创，开始</li>
-<li>incentive 刺激，奖励；动机，诱因 n.</li>
-<li>incident 事件，事变 n.</li>
-<li>incidentally 偶然地；附带地，顺便提及 adv.</li>
-<li>incline</li>
-<li>academic</li>
-<li>academy</li>
-<li>accelerate</li>
-<li>accept</li>
-<li>acceptance</li>
-<li>access</li>
-<li>accessory</li>
-<li>begin</li>
-<li>beginning</li>
-<li>behalf</li>
-<li>behave</li>
-<li>behavior</li>
-<li>belief</li>
-<li>believe</li>
-<li>belong</li>
-<li>beneficial</li>
-<li>benefit</li>
-<li>challenge</li>
-<li>chance</li>
-<li>change</li>
-<li>channel</li>
-<li>character</li>
-<li>characterise</li>
-<li>characteristic</li>
-<li>defend</li>
-<li>define</li>
-<li>definite</li>
-<li>definition</li>
-<li>defy</li>
-<li>degree</li>
-<li>delay</li>
-<li>deliberate</li>
-<li>delicate</li>
-<li>deliver</li>
-<li>delivery</li>
-<li>fiction</li>
-<li>field</li>
-<li>fierce</li>
-<li>fight</li>
-<li>figure 数字；体形；图形；人物 n. 算出，估计，推测 v.</li>
-<li>finance 财政，金融 n. 为········提供资金 v.</li>
-<li>financial 财政的，金融的 adj.</li>
-<li>finding 发现，发现物；调查结果 n.</li>
-<li>finite 有限的，有限制的 adj.</li>
-<li>firm 坚固的；坚决的，坚定的 adj. 公司，商号 n.</li>
-<li>first 第一的，最重要的，首要的；最优秀的 adj. 首先，第一，最初；宁可，宁愿 adv. 空前的成就，前所未有的事情 n.</li>
-<li>fit 适合，配合，适应；安装，装配 v. 适合的，恰当的；健康的，强健的 adj.</li>
-<li>fitting 适合的，适当的 adj. 配件，附件，装置 n.</li>
-<li>global 全球的，世界的 adj.</li>
-<li>globe 球体，地球仪；地球，世界 n.</li>
+<p>#嵌套列表</p>
+<p>通过在一个列表项下面缩进一个或多个其他列表项，可创建嵌套列表。</p>
+<ol>
+<li>第一个列表项
+<ul>
+<li>第一个嵌套列表项</li>
+<li>第二个嵌套列表项<br>
+在嵌套列表项的前面键入空格字符，直至列表标记字符（- 或 *）位于其上方条目中第一个文本字符的正下方。</li>
+</ul>
+</li>
+<li>第一个列表项
+<ul>
+<li>第一个嵌套列表项</li>
+<li>第二个嵌套列表项</li>
+</ul>
+</li>
 </ol>
+<p>#段落</p>
+<p>通过在文本行之间留一个空白行，可创建新段落。</p>
+<p>#忽略MarkDown格式</p>
+<p>通过在 Markdown 字符前面输入 \，可告诉 GitHub 忽略（或规避）Markdown 格式。<br>
+让我们将 *our-new-project* 重命名为 *our-old-project*。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unit 18  👓]]></title>
-        <id>https://q.aone.zone/post/unit-18/</id>
-        <link href="https://q.aone.zone/post/unit-18/">
+        <title type="html"><![CDATA[《python 语言程序设计》课程笔记 0]]></title>
+        <id>https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji/</id>
+        <link href="https://q.aone.zone/post/lesslesspython-yu-yan-cheng-xu-she-ji-greatergreater-ke-cheng-bi-ji/">
         </link>
-        <updated>2021-07-17T10:53:07.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>glamour</li>
-<li>generate</li>
-<li>generation</li>
-<li>genetator</li>
-<li>generous</li>
-<li>genius</li>
-<li>gift</li>
-<li>genre</li>
-<li>glant</li>
-<li>gigantic</li>
-<li>give</li>
-<li>happen</li>
-<li>harn</li>
-<li>harmony</li>
-<li>harsh</li>
-<li>ignorance</li>
-<li>ignorant</li>
-<li>ignore</li>
-<li>ill</li>
-<li>illness</li>
-<li>illusion</li>
-<li>illustrate</li>
-<li>illstrationn</li>
-<li>image</li>
-<li>imagine</li>
-<li>imaginary</li>
-<li>imagination</li>
-<li>imaginative</li>
-<li>imitate</li>
-<li>imitation</li>
-<li>lead</li>
-<li>leadership</li>
-<li>leading</li>
-<li>legal</li>
-<li>legal</li>
-<li>legislation</li>
-<li>legitimate</li>
-<li>leisure</li>
-<li>level</li>
-<li>lever</li>
-<li>levy</li>
-<li>manage</li>
-<li>management</li>
-<li>mandate</li>
-<li>manifest</li>
-<li>manipulate</li>
-<li>manner</li>
-<li>margin</li>
-<li>marginal</li>
-<li>mass</li>
-<li>massive</li>
-<li>massacre</li>
-<li>occupation</li>
-<li>occupy</li>
-<li>occur</li>
-<li>occurrence</li>
-<li>offend</li>
-<li>offer</li>
-<li>offset</li>
-<li>offspring</li>
-<li>paragraph</li>
-<li>paralyse</li>
-<li>parallel</li>
-<li>part</li>
-<li>partial</li>
-<li>participant</li>
-<li>participate</li>
-<li>particle</li>
-<li>particular</li>
-<li>partly</li>
-<li>partner</li>
-<li>passion</li>
-<li>passive</li>
-<li>quick</li>
-<li>quit</li>
-<li>quest</li>
-<li>questionnaire</li>
-<li>quote</li>
-<li>span</li>
-<li>spare</li>
-<li>schedule</li>
-<li>scheme</li>
-<li>science</li>
-<li>scientific</li>
-<li>scientist</li>
-</ol>
+        <updated>2021-08-07T16:17:15.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="01课程基本情况">0.1课程基本情况</h1>
+<p>1<br>
+国家精品在线开放课程</p>
+<pre><code>很有趣
+很有料
+高质量
+</code></pre>
+<p>2</p>
+<pre><code>面向编程零基础
+体现大学水平的
+Python语言入门课程
+</code></pre>
+<p>3</p>
+<pre><code>零基础：语言程序设计入门课程
+大学水平：围绕python基础语法的体系化内容学习
+python：全球最流行、产业最急需的程序设计语言
+</code></pre>
+<p>4</p>
+<pre><code>程序设计入门课程
+适用各层次各专业大学在校生
+</code></pre>
+<p>5</p>
+<pre><code>体系化编程基础课程
+使用拟构建坚实能力的自学者
+</code></pre>
+<p>6<br>
+教学目标</p>
+<pre><code>编写100行左右python程序，掌握一门可用20年以上的编程语言
+</code></pre>
+<p>7</p>
+<pre><code>掌握抽象并求解基本计算问题的初步能力
+了解产业界解决复杂计算问题的基本方法
+享受编程求解和科技创新带来的高阶乐趣
+</code></pre>
+<p>8</p>
+<pre><code>学会编程，掌握一项基本技能
+体会思维，理解信息处理法则
+培养习惯，带来更多人生可能
+</code></pre>
+<p>9<br>
+课程教学安排<br>
+课程学时</p>
+<pre><code>时间成本:2-3小时周，共9周，合计约25小时
+视频学时2-3小时/周，共9周，合计约25小时
+练习学时1-2小时/周（可选），共9周
+测验学时0.5-1小时/周，共9周
+</code></pre>
+<p>10<br>
+课程形式<br>
+https://python123.io</p>
+<pre><code>在线实践
+在线课程
+离线资料
+</code></pre>
+<p>11<br>
+课程内容</p>
+<pre><code>完整讲解“ Python基础语法“并适度扩展讲解若干常用模块
+1套“ Python基础语法全体系
+7个常用的 Python程序设计模块
+16个优秀的 Python程序实践案例
+</code></pre>
+<p>12<br>
+课程考核</p>
+<pre><code>每周练习（可选）5道编程题/周（不计分）+每周作业（计分）10-20道单选题/周（合计50分）+阶段测验计分  2-5道编程题次（4次合计50分）
+练习（可选）、作业和测验，形成完整的学习辅助过程
+-单选题和编程题均采用自动评阅方式，即时评判，立即反馈
+</code></pre>
+<p>13<br>
+教学团队</p>
+<pre><code>嵩天
+黄天羽
+礼欣
+</code></pre>
+<p>13</p>
+<p>课程学习建议<br>
+学习建议</p>
+<pre><code>线上线下相结合、手机电脑相结合、长短时间相结合
+线上线下线上看视频做练习、线下读教材/看资料
+手机电脑视频/作业用手机、编程实践用电脑
+长短时间视频/作业用零碎短时间、编程用1小时长时间
+</code></pre>
+<p>紧跟进度不掉队、课后实践多训练</p>
+<p>实践、认识、再实践、再认识这就是辩证唯物论的全部认识论这就是辩证唯物论的知行统一观。<br>
+——毛泽东《实践论》</p>
+<p>9周+25小时=编程能力傍身</p>
+<h1 id="02全课程内容导学">0.2全课程内容导学</h1>
+<p>课程内容概述</p>
+<p>课程内容设计</p>
+<pre><code>面向过程编程的 Python基础语法“全体系
+符合认知规律的编程快速入门及全体系内容
+三部分（共9章）:快速入门（2）、基础语法（5）、编程思维（2）
+1周=1章，除第1-2章，每章包含2个实践案例，共16个案例
+</code></pre>
+<p>课程内容设计</p>
+<pre><code>第一部分: Python快速入门（2周）
+围绕2个具体实例，讲解 Python基本语法元素，感性认识
+第二部分: Python基础语法（5周）
+从5个方面讲解基础语法全体系，提供10个实例，理性学习
+第三部分: Python编程思维（2周）
+从方法学角度开阔认识，提升整体编程能力，展望未来
+</code></pre>
+<p>课程内容渐进式体验</p>
+<h2 id="episode-1-python快速入门">EPISODE 1 Python快速入门</h2>
+<h3 id="第1周-python基本语法元素">第1周 Python基本语法元素</h3>
+<pre><code>观察一段10行 Python代码
+感受它的风格    
+了解它的基本逻辑
+理解它的每个词和每一行
+</code></pre>
+<pre><code>#Temp Convert. py
+Tempstr= input(&quot;请输入带有符号的温度值:&quot;)
+if Tempstr[-1] in[F,f:
+c=(eval(Tempstr[0:-1])-32)/1.8
+print(&quot;转换后的温度是{:2f}C&quot;, format(C))
+elif TempStr[-1] in ['C,'c]:
+F =1.8*eval(TempStr[0:-1])+32
+print(&quot;转换后的温度是{:2f}F&quot;, format(F))
+print(&quot;输入格式错误&quot;)
+</code></pre>
+<p>第一周就学会编写和运行程序</p>
+<h3 id="第2周-python基本图形绘制">第2周 Python基本图形绘制</h3>
+<pre><code>再观察一段10+行 Python代码
+感受它的风格和魅力
+了解它的基本逻辑
+理解它的每个词和每一行
+</code></pre>
+<p>例子：</p>
+<pre><code>Python蟒蛇绘制
+</code></pre>
+<p>第二周就学会使用 Python绘图</p>
+<h2 id="episode-2-python基础语法">EPISODE 2 Python基础语法</h2>
+<h3 id="第3周-基本数据类型">第3周 基本数据类型</h3>
+<pre><code>数字vs.字符串
+理解并使用数字类型
+理解并使用字符串
+</code></pre>
+<p>例子：</p>
+<pre><code>使用time模块获取系统时间
+</code></pre>
+<p>第三周学会使用数字和字符串</p>
+<h3 id="第4周-程序的控制结构">第4周 程序的控制结构</h3>
+<pre><code>分支vs.循环
+理解程序的分支结构
+理解程序的循环结构
+使用 random模块获得随机数
+</code></pre>
+<p>例子：</p>
+<pre><code>身体质量指数BMI
+圆周率的计算
+</code></pre>
+<p>第四周学会利用分支和循环控制程序运行</p>
+<h3 id="第5周-函数和代码复用">第5周 函数和代码复用</h3>
+<pre><code>函数
+掌握函数的定义和使用
+理解函数和递归
+PyInstallerz模块制作程序小包裹
+</code></pre>
+<p>例子</p>
+<pre><code>七段数码管绘制
+科赫雪花小包裹
+</code></pre>
+<p>第五周学会利用函数重复使用代码</p>
+<h3 id="第6周-组合数据类型">第6周 组合数据类型</h3>
+<pre><code>组合数据的处理
+集合类型及使用
+序列类型及使用
+字典类型及使用
+利用ieba模块对中文进行分词
+</code></pre>
+<p>例子</p>
+<pre><code>Hamlet英文词频统计
+人物出场统计
+</code></pre>
+<p>第六周学会用多种方式处理一组数据</p>
+<h3 id="第7周-文件和数据格式化">第7周 文件和数据格式化</h3>
+<pre><code>文件和数据处理
+文件的读写
+二维数据的处理和存储
+利用 wordcloud库生成词云
+</code></pre>
+<p>例子</p>
+<pre><code>政府工作报告词云
+自动轨迹绘制
+</code></pre>
+<p>第七周学会更艺术地处理一组数据以及制作词云</p>
+<h2 id="episode-3-python编程思维">EPISODE 3 Python编程思维</h2>
+<h3 id="第8周-程序设计方法学">第8周 程序设计方法学</h3>
+<pre><code>Python之禅与方法学
+自顶向下和自底向上
+计算思维计算生态/用户体验
+利用os库整理操作系统文件夹
+</code></pre>
+<p>例子：</p>
+<pre><code>自顶向下
+体育竞技分析
+</code></pre>
+<p>第八周学会编程的入门级内功心法</p>
+<h3 id="第9周-python计算生态纵览">第9周 Python计算生态纵览</h3>
+<pre><code>更广阔的 Python天地
+从数据到人工智能…
+从交互到艺术设计
+从Web到网络空间
+</code></pre>
+<p>例子：</p>
+<pre><code>霍兰德人格分析雷达图
+玫瑰花绘制
+</code></pre>
+<p>第九周看到更广阔的 Python计算生态</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unit 17 🛒]]></title>
-        <id>https://q.aone.zone/post/unit-17/</id>
-        <link href="https://q.aone.zone/post/unit-17/">
+        <title type="html"><![CDATA[几木年华]]></title>
+        <id>https://q.aone.zone/post/woodsyearslog/</id>
+        <link href="https://q.aone.zone/post/woodsyearslog/">
         </link>
-        <updated>2021-06-06T02:30:18.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>tow</li>
-<li>toward</li>
-<li>take</li>
-<li>talent</li>
-<li>target</li>
-<li>taste</li>
-<li>technical</li>
-<li>technician</li>
-<li>technique</li>
-<li>technology</li>
-<li>teenager</li>
-<li>temper</li>
-<li>temperature</li>
-<li>temporal</li>
-<li>temporary</li>
-<li>tempt</li>
-<li>temptation</li>
-<li>tend</li>
-<li>tendency</li>
-<li>tentative</li>
-<li>term</li>
-<li>terminal</li>
-<li>terminate</li>
-<li>testify</li>
-<li>trace</li>
-<li>track</li>
-<li>tradition</li>
-<li>ultimate</li>
-<li>underestimate</li>
-<li>undergo</li>
-<li>underlie</li>
-<li>underlying</li>
-<li>underline</li>
-<li>understand</li>
-<li>understanding</li>
-<li>undertake</li>
-<li>uneasy</li>
-<li>unemployment</li>
-<li>unexpected</li>
-<li>unify</li>
-<li>union</li>
-<li>unique</li>
-<li>universal</li>
-<li>universe</li>
-<li>unlike</li>
-<li>unlikely</li>
-<li>unusual</li>
-<li>vague</li>
-<li>vain</li>
-<li>valid</li>
-<li>valuable</li>
-<li>value</li>
-<li>vanish</li>
-<li>variable</li>
-<li>variance</li>
-<li>variation</li>
-<li>variety</li>
-<li>various</li>
-<li>vary</li>
-<li>vast</li>
-<li>wage</li>
-<li>wander</li>
-<li>want</li>
-<li>way</li>
-<li>weak</li>
-<li>wear</li>
-<li>weary</li>
-<li>weigh</li>
-<li>weight</li>
-<li>weird</li>
-<li>weld</li>
-<li>welfare</li>
-<li>whirl</li>
-<li>whisper</li>
-<li>yield</li>
-<li>youth</li>
-<li>zigzag</li>
-<li>zone</li>
-<li>zoom</li>
-<li>key</li>
-<li>knit</li>
-</ol>
+        <updated>2021-08-07T07:22:26.000Z</updated>
+        <content type="html"><![CDATA[<p>1345</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unit 16 💥]]></title>
-        <id>https://q.aone.zone/post/unit-16/</id>
-        <link href="https://q.aone.zone/post/unit-16/">
+        <title type="html"><![CDATA[萤星不灭]]></title>
+        <id>https://q.aone.zone/post/starslog/</id>
+        <link href="https://q.aone.zone/post/starslog/">
         </link>
-        <updated>2021-05-30T00:20:18.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>abandon</li>
-<li>abide</li>
-<li>ability</li>
-<li>able</li>
-<li>abnormal</li>
-<li>background</li>
-<li>balance</li>
-<li>base</li>
-<li>basement</li>
-<li>basic</li>
-<li>basis</li>
-<li>calculate</li>
-<li>call</li>
-<li>calm</li>
-<li>campaign</li>
-<li>candidate</li>
-<li>data</li>
-<li>database</li>
-<li>date</li>
-<li>dazzle</li>
-<li>deal</li>
-<li>dealer</li>
-<li>debate</li>
-<li>decade</li>
-<li>decide</li>
-<li>decision</li>
-<li>decisive</li>
-<li>decorate</li>
-<li>economic</li>
-<li>econonmical</li>
-<li>economics</li>
-<li>economy</li>
-<li>educate</li>
-<li>education</li>
-<li>effect</li>
-<li>effective</li>
-<li>efficient</li>
-<li>efficiency</li>
-<li>effort</li>
-<li>fabric</li>
-<li>fabricate</li>
-<li>face</li>
-<li>factor</li>
-<li>fade</li>
-<li>fall</li>
-<li>failure</li>
-<li>fair</li>
-<li>fairly</li>
-<li>fail</li>
-<li>fan</li>
-<li>fancy</li>
-<li>fascinate</li>
-<li>gain</li>
-<li>gamble</li>
-<li>gap</li>
-<li>gene</li>
-<li>general</li>
-<li>generalize</li>
-<li>habit</li>
-<li>habitat</li>
-<li>hamper</li>
-<li>handicap</li>
-<li>shield</li>
-<li>shift</li>
-<li>shoulder</li>
-<li>show</li>
-<li>shower</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 15 ☁️]]></title>
-        <id>https://q.aone.zone/post/unit-15/</id>
-        <link href="https://q.aone.zone/post/unit-15/">
-        </link>
-        <updated>2021-05-29T01:30:33.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>radiate</li>
-<li>radiant</li>
-<li>radical</li>
-<li>object</li>
-<li>objective</li>
-<li>objection</li>
-<li>obligation</li>
-<li>oblige</li>
-<li>obscure</li>
-<li>observation</li>
-<li>observe</li>
-<li>obsession</li>
-<li>obsolete</li>
-<li>obtain</li>
-<li>obvious</li>
-<li>ideal</li>
-<li>ideology</li>
-<li>identical</li>
-<li>indentification</li>
-<li>indentify</li>
-<li>identity</li>
-<li>journal</li>
-<li>journalist</li>
-<li>journey</li>
-<li>judge</li>
-<li>judgement</li>
-<li>judicial</li>
-<li>jury</li>
-<li>jurisdiction</li>
-<li>justice</li>
-<li>justify</li>
-<li>label</li>
-<li>lag</li>
-<li>largely</li>
-<li>lateral</li>
-<li>latter</li>
-<li>law</li>
-<li>lawsuit</li>
-<li>magnitude</li>
-<li>magnify</li>
-<li>magnificent</li>
-<li>maintain</li>
-<li>maintenance</li>
-<li>major</li>
-<li>majority</li>
-<li>make</li>
-<li>theme</li>
-<li>theory</li>
-<li>theoretical</li>
-<li>therapy</li>
-<li>qualification</li>
-<li>qualify</li>
-<li>quality</li>
-<li>qualitative</li>
-<li>safeguard</li>
-<li>savage</li>
-<li>save</li>
-<li>saving</li>
-<li>scale</li>
-<li>scene</li>
-<li>scenery</li>
-<li>pace</li>
-<li>panel</li>
-<li>panorama</li>
-<li>prove</li>
-<li>provide</li>
-<li>provided</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 14 🌂]]></title>
-        <id>https://q.aone.zone/post/unit-14/</id>
-        <link href="https://q.aone.zone/post/unit-14/">
-        </link>
-        <updated>2021-05-28T04:38:48.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>choke</li>
-<li>chop</li>
-<li>circumstance</li>
-<li>cite</li>
-<li>claim</li>
-<li>clear</li>
-<li>border</li>
-<li>bore</li>
-<li>born</li>
-<li>bother</li>
-<li>acquire</li>
-<li>acquisition</li>
-<li>act</li>
-<li>action</li>
-<li>activate</li>
-<li>active</li>
-<li>activity</li>
-<li>actual</li>
-<li>acute</li>
-<li>despise</li>
-<li>despite</li>
-<li>energetic</li>
-<li>energy</li>
-<li>enforce</li>
-<li>engage</li>
-<li>engagement</li>
-<li>fold</li>
-<li>folk</li>
-<li>follow</li>
-<li>following</li>
-<li>fore</li>
-<li>forecast</li>
-<li>foresee</li>
-<li>forge</li>
-<li>grim</li>
-<li>grasp</li>
-<li>grip</li>
-<li>gross</li>
-<li>ground</li>
-<li>group</li>
-<li>guarantee</li>
-<li>guard</li>
-<li>include</li>
-<li>inclusive</li>
-<li>income</li>
-<li>incorporate</li>
-<li>increase</li>
-<li>increasingly</li>
-<li>incredible</li>
-<li>incur</li>
-<li>link</li>
-<li>list</li>
-<li>literally</li>
-<li>literary</li>
-<li>literature</li>
-<li>memo</li>
-<li>memorial</li>
-<li>memory</li>
-<li>mental</li>
-<li>mention</li>
-<li>mentor</li>
-<li>other</li>
-<li>otherwise</li>
-<li>outcome</li>
-<li>sign</li>
-<li>signature</li>
-<li>significance</li>
-<li>significant</li>
-<li>signify</li>
-<li>similar</li>
-<li>simple</li>
-<li>simplicity</li>
-<li>simplify</li>
-<li>simply</li>
-<li>slack</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 13 🎨]]></title>
-        <id>https://q.aone.zone/post/unit-13/</id>
-        <link href="https://q.aone.zone/post/unit-13/">
-        </link>
-        <updated>2021-05-27T11:44:17.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>beam</li>
-<li>become</li>
-<li>deprive</li>
-<li>derive</li>
-<li>describle</li>
-<li>description</li>
-<li>deserve</li>
-<li>design</li>
-<li>designate</li>
-<li>desirable</li>
-<li>desire</li>
-<li>flaw</li>
-<li>flexible</li>
-<li>fling</li>
-<li>flourish</li>
-<li>grow</li>
-<li>grown-up</li>
-<li>growth</li>
-<li>hinder</li>
-<li>hint</li>
-<li>hitherto</li>
-<li>impact</li>
-<li>impair</li>
-<li>impart</li>
-<li>implement</li>
-<li>implication</li>
-<li>implict</li>
-<li>imply</li>
-<li>import</li>
-<li>importance</li>
-<li>important</li>
-<li>impose</li>
-<li>impress</li>
-<li>impression</li>
-<li>impressive</li>
-<li>improve</li>
-<li>impulse</li>
-<li>limit</li>
-<li>limitation</li>
-<li>limited</li>
-<li>origin</li>
-<li>original</li>
-<li>originate</li>
-<li>petition</li>
-<li>phase</li>
-<li>phenomenon</li>
-<li>philosopher</li>
-<li>philosophy</li>
-<li>phrase</li>
-<li>physical</li>
-<li>physician</li>
-<li>pierce</li>
-<li>corporate</li>
-<li>corporation</li>
-<li>reason</li>
-<li>reasonable</li>
-<li>recent</li>
-<li>serve</li>
-<li>servant</li>
-<li>service</li>
-<li>set</li>
-<li>setback</li>
-<li>setting</li>
-<li>settle</li>
-<li>settlement</li>
-<li>several</li>
-<li>severe</li>
-<li>shape</li>
-<li>share</li>
-<li>sharp</li>
-<li>shelter</li>
-<li>sophisticated</li>
-<li>sovereign</li>
-<li>sow</li>
-<li>toil</li>
-<li>tone</li>
-<li>topic</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit 12 🔑]]></title>
-        <id>https://q.aone.zone/post/unit-12/</id>
-        <link href="https://q.aone.zone/post/unit-12/">
-        </link>
-        <updated>2021-05-25T22:58:27.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>acclaim</li>
-<li>accommodate</li>
-<li>accommodation</li>
-<li>accompany</li>
-<li>accomplish</li>
-<li>account</li>
-<li>accountant</li>
-<li>bias</li>
-<li>bid</li>
-<li>bill</li>
-<li>billion</li>
-<li>birth</li>
-<li>charge</li>
-<li>charm</li>
-<li>chase</li>
-<li>demand</li>
-<li>democracy</li>
-<li>democratic</li>
-<li>demographic</li>
-<li>demonstrate</li>
-<li>denote</li>
-<li>denial</li>
-<li>deny</li>
-<li>depend</li>
-<li>dependent</li>
-<li>deposit</li>
-<li>depress</li>
-<li>emerge</li>
-<li>emergency</li>
-<li>eminent</li>
-<li>emotion</li>
-<li>fear</li>
-<li>fearful</li>
-<li>feature</li>
-<li>federal</li>
-<li>federation</li>
-<li>feed</li>
-<li>feedback</li>
-<li>feeling</li>
-<li>fertile</li>
-<li>goal</li>
-<li>goods</li>
-<li>govern</li>
-<li>government</li>
-<li>governor</li>
-<li>gradual</li>
-<li>graduate</li>
-<li>grand</li>
-<li>grant</li>
-<li>heap</li>
-<li>heal</li>
-<li>health</li>
-<li>healthy</li>
-<li>hesitate</li>
-<li>highlight</li>
-<li>hightland</li>
-<li>highly</li>
-<li>immediate</li>
-<li>immense</li>
-<li>immerse</li>
-<li>immigrant</li>
-<li>imminent</li>
-<li>immune</li>
-<li>likely</li>
-<li>likelihood</li>
-<li>likewise</li>
-<li>self</li>
-<li>selfish</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uint 11 🎯]]></title>
-        <id>https://q.aone.zone/post/uint-11/</id>
-        <link href="https://q.aone.zone/post/uint-11/">
-        </link>
-        <updated>2021-05-25T02:20:28.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>perform</li>
-<li>performance</li>
-<li>period</li>
-<li>periodical</li>
-<li>perish</li>
-<li>perpetual</li>
-<li>perplex</li>
-<li>perspective</li>
-<li>pessimistic</li>
-<li>optimistic</li>
-<li>optimum</li>
-<li>option</li>
-<li>optional</li>
-<li>organ</li>
-<li>organic</li>
-<li>organism</li>
-<li>organization</li>
-<li>organize</li>
-<li>enhance</li>
-<li>enlarge</li>
-<li>enlighten</li>
-<li>rake</li>
-<li>rare</li>
-<li>rarely</li>
-<li>rate</li>
-<li>ratio</li>
-<li>rational</li>
-<li>reach</li>
-<li>react</li>
-<li>realistic</li>
-<li>reality</li>
-<li>realize</li>
-<li>select</li>
-<li>selection</li>
-<li>sense</li>
-<li>sensation</li>
-<li>sensible</li>
-<li>sensitive</li>
-<li>separate</li>
-<li>sequence</li>
-<li>serial</li>
-<li>series</li>
-<li>serious</li>
-<li>toast</li>
-<li>together</li>
-<li>token</li>
-<li>tolerance</li>
-<li>toterant</li>
-<li>tolerate</li>
-<li>accumulate</li>
-<li>accurate</li>
-<li>accuse</li>
-<li>achieve</li>
-<li>acknowledge</li>
-<li>cheer</li>
-<li>chemical</li>
-<li>cherish</li>
-<li>chip</li>
-<li>choice</li>
-<li>choose</li>
-<li>board</li>
-<li>boast</li>
-<li>bonus</li>
-<li>boom</li>
-<li>boost</li>
-<li>verbal</li>
-<li>verdict</li>
-<li>verify</li>
-<li>verse</li>
-<li>version</li>
-<li>vessel</li>
-</ol>
+        <updated>2021-08-02T10:04:32.000Z</updated>
+        <content type="html"><![CDATA[<p>首先是关于Logo，我想把logo设计成动态的，旋转暂停，然后分成四种小类，<br>
+白水鉴心，<br>
+白——直白讲述<br>
+水——水化内容<br>
+鉴——鉴别信息<br>
+心——主观心情</p>
 ]]></content>
     </entry>
 </feed>
